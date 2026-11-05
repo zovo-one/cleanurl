@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "여는 링크에서 추적기를 조용히 제거하고 리디렉션 단축 링크를 펼칩니다. 100% 로컬에서 작동합니다."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL이 권한을 잃었습니다."
+  },
+  "popupDegradedRegrant": {
+    "message": "다시 부여하기"
+  },
+  "popupDegradedResume": {
+    "message": "하여 정리를 재개합니다."
+  },
+  "popupHeroLabelLinks": {
+    "message": "정리된 링크"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL이 일시 중지됨"
+  },
+  "popupHeroResume": {
+    "message": "아래 토글을 켜서 정리를 재개하세요."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "개 오늘 정리됨"
+  },
+  "popupMasterToggleLabel": {
+    "message": "링크 자동 정리"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL 비활성화"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL 활성화"
+  },
+  "popupManageSettings": {
+    "message": "허용 목록 및 설정 관리"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL 설정 열기"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro로 업그레이드 — $$99 평생 이용"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro로 업그레이드"
+  },
+  "popupSettingsLink": {
+    "message": "설정"
+  },
+  "popupRootAria": {
+    "message": "CleanURL 팝업"
+  },
+  "popupFreeTierAria": {
+    "message": "무료 등급"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL을 시작할 수 없습니다. 팝업을 다시 열어 보세요."
+  },
+  "popupMasterToggleError": {
+    "message": "마스터 토글을 변경할 수 없습니다."
+  },
+  "optionsStatusActive": {
+    "message": "활성"
+  },
+  "optionsStatusPaused": {
+    "message": "일시 중지됨"
+  },
+  "optionsPauseGlobally": {
+    "message": "전체 일시 중지"
+  },
+  "optionsEnableGlobally": {
+    "message": "전체 활성화"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL 전체 일시 중지"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL 전체 활성화"
+  },
+  "optionsSidebarAria": {
+    "message": "설정 섹션"
+  },
+  "optionsNavAria": {
+    "message": "설정"
+  },
+  "optionsMasterToggleAria": {
+    "message": "마스터 정리 토글"
+  },
+  "optionsCuratedAria": {
+    "message": "선별된 규칙 세트"
+  },
+  "optionsCustomAria": {
+    "message": "사용자 지정 규칙"
+  },
+  "optionsDataAria": {
+    "message": "데이터 내보내기"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL 설정을 불러올 수 없습니다. 페이지를 새로고침해 보세요."
+  },
+  "tabAllowlist": {
+    "message": "허용 목록"
+  },
+  "tabRules": {
+    "message": "규칙"
+  },
+  "tabLicense": {
+    "message": "라이선스"
+  },
+  "eyebrowSites": {
+    "message": "정리에서 제외되는 사이트"
+  },
+  "eyebrowRules": {
+    "message": "정리 규칙"
+  },
+  "eyebrowPlan": {
+    "message": "요금제 및 라이선스"
+  },
+  "eyebrowCustom": {
+    "message": "사용자 지정 매개변수 규칙"
+  },
+  "eyebrowYourData": {
+    "message": "내 데이터"
+  },
+  "eyebrowLinks": {
+    "message": "링크"
+  },
+  "eyebrowHaveKey": {
+    "message": "라이선스 키가 있으신가요?"
+  },
+  "allowlistTitle": {
+    "message": "허용 목록"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL은 이 사이트의 어떤 URL도 건드리지 않습니다."
+  },
+  "allowlistCapUsageFree": {
+    "message": "무료 등급은 최대 $$2개 사이트까지 허용 — $$2개 중 $$1개 사용."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro 등급 — 사이트 수 무제한."
+  },
+  "allowlistInputLabel": {
+    "message": "호스트 이름 (예: shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "추가"
+  },
+  "allowlistActiveLabel": {
+    "message": "활성 ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "아직 제외된 사이트가 없습니다"
+  },
+  "allowlistEmptyBody": {
+    "message": "위에 호스트 이름을 추가하면 해당 사이트에서 정리를 건너뜁니다."
+  },
+  "allowlistRemoveBtn": {
+    "message": "제거"
+  },
+  "allowlistRemoveAria": {
+    "message": "허용 목록에서 $$1 제거"
+  },
+  "allowlistInactiveLabel": {
+    "message": "비활성 (Pro에 다시 가입하여 재활성화)"
+  },
+  "allowlistColdBadge": {
+    "message": "콜드"
+  },
+  "errHostnameRequired": {
+    "message": "호스트 이름을 입력하세요."
+  },
+  "errHostnameInvalid": {
+    "message": "유효한 호스트 이름을 입력하세요 (예: example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1은(는) 이미 허용 목록에 있습니다."
+  },
+  "errFreeCap": {
+    "message": "무료 등급은 $$1개 사이트가 한도입니다. Pro로 업그레이드하면 무제한입니다."
+  },
+  "flashFreeCap": {
+    "message": "무료 등급은 $$1개 사이트가 한도입니다. Pro로 업그레이드하면 무제한입니다."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1을(를) 추가할 수 없습니다."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1을(를) 제거할 수 없습니다."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1을(를) 추가할 수 없습니다."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1을(를) 제거할 수 없습니다."
+  },
+  "rulesTitle": {
+    "message": "규칙"
+  },
+  "rulesIntro": {
+    "message": "CleanURL이 사용하는 선별된 규칙 세트를 전환하세요. Pro에서 직접 매개변수 이름(또는 regex)을 추가할 수 있습니다."
+  },
+  "rulesCoreName": {
+    "message": "핵심 규칙 세트"
+  },
+  "rulesCoreDesc": {
+    "message": "약 120개의 보수적인 제거 + 펼치기 규칙. 항상 켜짐."
+  },
+  "rulesCoreBadge": {
+    "message": "켜짐"
+  },
+  "rulesExtendedName": {
+    "message": "확장 규칙 세트"
+  },
+  "rulesExtendedDesc": {
+    "message": "약 300개의 적극적인 규칙: 제휴 태그, 마케팅 ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "확장 규칙 세트 전환"
+  },
+  "rulesCustomDesc": {
+    "message": "리터럴 매개변수 이름(예: mkt_tok) 또는 regex 접두사(예: ^ig_)를 제거합니다."
+  },
+  "rulesParamLabel": {
+    "message": "매개변수 이름 또는 regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "입력을 regex로 처리"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "규칙 추가"
+  },
+  "rulesEmptyList": {
+    "message": "아직 사용자 지정 규칙이 없습니다."
+  },
+  "rulesDeleteBtn": {
+    "message": "삭제"
+  },
+  "rulesDeleteAria": {
+    "message": "규칙 $$1 삭제"
+  },
+  "rulesLiteralKind": {
+    "message": "리터럴"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "설정, 허용 목록, 정리된 링크 기록을 JSON으로 내보냅니다. 모든 데이터는 이 기기에만 저장됩니다."
+  },
+  "exportBtn": {
+    "message": "데이터 내보내기 (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "개인정보처리방침"
+  },
+  "linkSupport": {
+    "message": "지원"
+  },
+  "licenseTitle": {
+    "message": "라이선스"
+  },
+  "licenseIntro": {
+    "message": "CleanURL은 영원히 무료입니다. Pro는 확장 규칙 세트, 사용자 지정 규칙, 무제한 허용 목록을 추가합니다."
+  },
+  "licenseCurrentAria": {
+    "message": "현재 요금제"
+  },
+  "licensePlanPro": {
+    "message": "Pro — 평생"
+  },
+  "licensePlanTrial": {
+    "message": "체험판 — 7일"
+  },
+  "licensePlanFree": {
+    "message": "무료"
+  },
+  "licenseMsgPro": {
+    "message": "감사합니다. 모든 Pro 기능이 잠금 해제되었습니다."
+  },
+  "licenseMsgTrial": {
+    "message": "카드 없는 체험판을 이용 중입니다. 언제든지 업그레이드할 수 있습니다."
+  },
+  "licenseMsgFree": {
+    "message": "업그레이드하여 확장 규칙 세트, 사용자 지정 규칙, 무제한 허용 목록을 잠금 해제하세요."
+  },
+  "licenseKeyLabel": {
+    "message": "라이선스 키"
+  },
+  "licenseKeyAria": {
+    "message": "라이선스 키 입력"
+  },
+  "licenseVerify": {
+    "message": "확인"
+  },
+  "licenseVerifying": {
+    "message": "확인 중…"
+  },
+  "licenseTrialTitle": {
+    "message": "7일 무료 체험 시작"
+  },
+  "licenseTrialBody": {
+    "message": "카드도 계정도 필요 없습니다. 확장 규칙 세트, 사용자 지정 규칙, 무제한 허용 목록을 7일간 잠금 해제합니다."
+  },
+  "licenseTrialStart": {
+    "message": "무료 체험 시작"
+  },
+  "licenseTrialStarting": {
+    "message": "시작 중…"
+  },
+  "flashExtendedLocked": {
+    "message": "확장 규칙 세트는 Pro 기능입니다. 먼저 체험을 시작하거나 업그레이드하세요."
+  },
+  "flashExtendedOn": {
+    "message": "확장 규칙 세트가 활성화되었습니다."
+  },
+  "flashExtendedOff": {
+    "message": "확장 규칙 세트가 비활성화되었습니다."
+  },
+  "flashCustomLocked": {
+    "message": "사용자 지정 규칙은 Pro 기능입니다. 체험을 시작하거나 업그레이드하세요."
+  },
+  "flashDynCap": {
+    "message": "동적 규칙 한도에 도달했습니다. 하나를 삭제하여 다른 규칙을 추가하세요."
+  },
+  "flashBadRegex": {
+    "message": "해당 regex가 거부되었습니다."
+  },
+  "flashCouldNotAddRule": {
+    "message": "규칙을 추가할 수 없습니다."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "규칙 $$1을(를) 삭제할 수 없습니다."
+  },
+  "flashKeyTooShort": {
+    "message": "라이선스 키는 최소 8자입니다."
+  },
+  "flashKeyOk": {
+    "message": "라이선스가 확인되었습니다. Pro 기능이 잠금 해제되었습니다."
+  },
+  "flashKeyFmt": {
+    "message": "키 형식이 너무 짧습니다."
+  },
+  "flashKeyRate": {
+    "message": "시도 횟수가 너무 많습니다. 1분 기다리세요."
+  },
+  "flashKeyNetwork": {
+    "message": "네트워크 오류. 다시 시도하세요."
+  },
+  "flashKeyTimeout": {
+    "message": "확인 시간이 초과되었습니다."
+  },
+  "flashKeyServer": {
+    "message": "서버 오류 ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "라이선스 키를 인식할 수 없습니다."
+  },
+  "flashTrialStarted": {
+    "message": "7일 체험이 시작되었습니다. Pro 기능이 잠금 해제되었습니다."
+  },
+  "flashTrialUsed": {
+    "message": "이미 7일 체험을 사용하셨습니다."
+  },
+  "flashTrialFailed": {
+    "message": "체험을 시작할 수 없습니다. 다시 시도하세요."
+  },
+  "validateRequired": {
+    "message": "매개변수 이름을 입력하세요."
+  },
+  "validateTooLong": {
+    "message": "$$1자 미만으로 유지하세요."
+  },
+  "validateLookaround": {
+    "message": "룩어라운드(lookaround)는 허용되지 않습니다."
+  },
+  "validateNested": {
+    "message": "중첩 수량자는 허용되지 않습니다 (ReDoS 위험)."
+  },
+  "validateComplex": {
+    "message": "Regex가 너무 복잡하여 안전하게 평가할 수 없습니다."
+  },
+  "validateBadRegex": {
+    "message": "잘못된 정규 표현식입니다."
+  },
+  "validateCharClass": {
+    "message": "문자, 숫자, 점, 밑줄 또는 하이픈을 사용하세요."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — удаление трекеров"
+  },
+  "extDesc": {
+    "message": "Незаметно удаляет трекеры из открываемых вами ссылок и разворачивает редиректы. 100% локально."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL потерял разрешение."
+  },
+  "popupDegradedRegrant": {
+    "message": "Выдайте его снова"
+  },
+  "popupDegradedResume": {
+    "message": "чтобы возобновить очистку."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Ссылок очищено"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL приостановлен"
+  },
+  "popupHeroResume": {
+    "message": "Переключите тумблер ниже, чтобы возобновить очистку."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "очищено сегодня"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Очищать ссылки автоматически"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Отключить CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Включить CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Управление белым списком и настройками"
+  },
+  "popupOpenSettings": {
+    "message": "Открыть настройки CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Перейти на Pro — $$99 навсегда"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Перейти на CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Настройки"
+  },
+  "popupRootAria": {
+    "message": "Всплывающее окно CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Бесплатный уровень"
+  },
+  "popupBootstrapError": {
+    "message": "Не удалось запустить CleanURL. Попробуйте открыть окно заново."
+  },
+  "popupMasterToggleError": {
+    "message": "Не удалось изменить главный переключатель."
+  },
+  "optionsStatusActive": {
+    "message": "Активно"
+  },
+  "optionsStatusPaused": {
+    "message": "Приостановлено"
+  },
+  "optionsPauseGlobally": {
+    "message": "Приостановить везде"
+  },
+  "optionsEnableGlobally": {
+    "message": "Включить везде"
+  },
+  "optionsPauseAria": {
+    "message": "Приостановить CleanURL везде"
+  },
+  "optionsEnableAria": {
+    "message": "Включить CleanURL везде"
+  },
+  "optionsSidebarAria": {
+    "message": "Разделы настроек"
+  },
+  "optionsNavAria": {
+    "message": "Настройки"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Главный переключатель очистки"
+  },
+  "optionsCuratedAria": {
+    "message": "Подготовленные наборы правил"
+  },
+  "optionsCustomAria": {
+    "message": "Пользовательские правила"
+  },
+  "optionsDataAria": {
+    "message": "Экспорт данных"
+  },
+  "optionsBootstrapError": {
+    "message": "Не удалось загрузить настройки CleanURL. Попробуйте перезагрузить страницу."
+  },
+  "tabAllowlist": {
+    "message": "Белый список"
+  },
+  "tabRules": {
+    "message": "Правила"
+  },
+  "tabLicense": {
+    "message": "Лицензия"
+  },
+  "eyebrowSites": {
+    "message": "Сайты, исключённые из очистки"
+  },
+  "eyebrowRules": {
+    "message": "Правила очистки"
+  },
+  "eyebrowPlan": {
+    "message": "Тариф и лицензия"
+  },
+  "eyebrowCustom": {
+    "message": "Пользовательские правила параметров"
+  },
+  "eyebrowYourData": {
+    "message": "Ваши данные"
+  },
+  "eyebrowLinks": {
+    "message": "Ссылки"
+  },
+  "eyebrowHaveKey": {
+    "message": "Есть лицензионный ключ?"
+  },
+  "allowlistTitle": {
+    "message": "Белый список"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL не будет трогать ни один URL на этих сайтах."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Бесплатный уровень допускает до $$2 сайтов — использовано $$1 из $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Уровень Pro — неограниченное число сайтов."
+  },
+  "allowlistInputLabel": {
+    "message": "Имя хоста (например, shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Добавить"
+  },
+  "allowlistActiveLabel": {
+    "message": "Активно ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Пока нет исключённых сайтов"
+  },
+  "allowlistEmptyBody": {
+    "message": "Добавьте имя хоста выше, чтобы пропускать очистку на этом сайте."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Удалить"
+  },
+  "allowlistRemoveAria": {
+    "message": "Удалить $$1 из белого списка"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Неактивно (Возобновите Pro для повторной активации)"
+  },
+  "allowlistColdBadge": {
+    "message": "Холодный"
+  },
+  "errHostnameRequired": {
+    "message": "Введите имя хоста."
+  },
+  "errHostnameInvalid": {
+    "message": "Введите корректное имя хоста (например, example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 уже в белом списке."
+  },
+  "errFreeCap": {
+    "message": "Бесплатный уровень ограничен $$1 сайтами. Перейдите на Pro для неограниченного числа."
+  },
+  "flashFreeCap": {
+    "message": "Бесплатный уровень ограничен $$1 сайтами. Перейдите на Pro для неограниченного числа."
+  },
+  "errCouldNotAdd": {
+    "message": "Не удалось добавить $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Не удалось удалить $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Не удалось добавить $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Не удалось удалить $$1."
+  },
+  "rulesTitle": {
+    "message": "Правила"
+  },
+  "rulesIntro": {
+    "message": "Включайте подготовленные наборы правил, которые использует CleanURL. Добавляйте свои имена параметров (или regex) в Pro."
+  },
+  "rulesCoreName": {
+    "message": "Основной набор правил"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 консервативных правил удаления и разворота. Всегда включён."
+  },
+  "rulesCoreBadge": {
+    "message": "ВКЛ"
+  },
+  "rulesExtendedName": {
+    "message": "Расширенный набор правил"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 агрессивных правил: партнёрские метки, маркетинговые ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Переключить расширенный набор правил"
+  },
+  "rulesCustomDesc": {
+    "message": "Удалить конкретное имя параметра (например, mkt_tok) или regex-префикс (например, ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Имя параметра или regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Обрабатывать ввод как regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Добавить правило"
+  },
+  "rulesEmptyList": {
+    "message": "Пока нет пользовательских правил."
+  },
+  "rulesDeleteBtn": {
+    "message": "Удалить"
+  },
+  "rulesDeleteAria": {
+    "message": "Удалить правило $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "литерал"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Экспортируйте свои настройки, белый список и историю очищенных ссылок в JSON. Все данные хранятся только на этом устройстве."
+  },
+  "exportBtn": {
+    "message": "Экспорт данных (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Политика конфиденциальности"
+  },
+  "linkSupport": {
+    "message": "Поддержка"
+  },
+  "licenseTitle": {
+    "message": "Лицензия"
+  },
+  "licenseIntro": {
+    "message": "CleanURL бесплатен навсегда. Pro добавляет расширенный набор правил, пользовательские правила и неограниченный белый список."
+  },
+  "licenseCurrentAria": {
+    "message": "Текущий тариф"
+  },
+  "licensePlanPro": {
+    "message": "Pro — навсегда"
+  },
+  "licensePlanTrial": {
+    "message": "Пробный — 7 дней"
+  },
+  "licensePlanFree": {
+    "message": "Бесплатный"
+  },
+  "licenseMsgPro": {
+    "message": "Спасибо. Все функции Pro разблокированы."
+  },
+  "licenseMsgTrial": {
+    "message": "У вас пробный период без карты. Перейдите на Pro в любой момент."
+  },
+  "licenseMsgFree": {
+    "message": "Перейдите на Pro, чтобы разблокировать расширенный набор правил, пользовательские правила и неограниченный белый список."
+  },
+  "licenseKeyLabel": {
+    "message": "Лицензионный ключ"
+  },
+  "licenseKeyAria": {
+    "message": "Введите лицензионный ключ"
+  },
+  "licenseVerify": {
+    "message": "Проверить"
+  },
+  "licenseVerifying": {
+    "message": "Проверка…"
+  },
+  "licenseTrialTitle": {
+    "message": "Начать 7-дневный бесплатный пробный период"
+  },
+  "licenseTrialBody": {
+    "message": "Без карты, без аккаунта. Разблокирует расширенный набор правил, пользовательские правила и неограниченный белый список на 7 дней."
+  },
+  "licenseTrialStart": {
+    "message": "Начать бесплатный пробный период"
+  },
+  "licenseTrialStarting": {
+    "message": "Запуск…"
+  },
+  "flashExtendedLocked": {
+    "message": "Расширенный набор правил — функция Pro. Сначала начните пробный период или перейдите на Pro."
+  },
+  "flashExtendedOn": {
+    "message": "Расширенный набор правил включён."
+  },
+  "flashExtendedOff": {
+    "message": "Расширенный набор правил отключён."
+  },
+  "flashCustomLocked": {
+    "message": "Пользовательские правила — функция Pro. Начните пробный период или перейдите на Pro."
+  },
+  "flashDynCap": {
+    "message": "Достигнут лимит динамических правил. Удалите одно, чтобы добавить другое."
+  },
+  "flashBadRegex": {
+    "message": "Этот regex был отклонён."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Не удалось добавить правило."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Не удалось удалить правило $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Лицензионные ключи содержат не менее 8 символов."
+  },
+  "flashKeyOk": {
+    "message": "Лицензия проверена. Функции Pro разблокированы."
+  },
+  "flashKeyFmt": {
+    "message": "Формат ключа слишком короткий."
+  },
+  "flashKeyRate": {
+    "message": "Слишком много попыток. Подождите минуту."
+  },
+  "flashKeyNetwork": {
+    "message": "Ошибка сети. Попробуйте снова."
+  },
+  "flashKeyTimeout": {
+    "message": "Время проверки истекло."
+  },
+  "flashKeyServer": {
+    "message": "Ошибка сервера ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Лицензионный ключ не распознан."
+  },
+  "flashTrialStarted": {
+    "message": "7-дневный пробный период начат. Функции Pro разблокированы."
+  },
+  "flashTrialUsed": {
+    "message": "Вы уже использовали 7-дневный пробный период."
+  },
+  "flashTrialFailed": {
+    "message": "Не удалось начать пробный период. Пожалуйста, попробуйте снова."
+  },
+  "validateRequired": {
+    "message": "Введите имя параметра."
+  },
+  "validateTooLong": {
+    "message": "Не длиннее $$1 символов."
+  },
+  "validateLookaround": {
+    "message": "Lookaround не допускается."
+  },
+  "validateNested": {
+    "message": "Вложенные квантификаторы не допускаются (риск ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex слишком сложен для безопасной проверки."
+  },
+  "validateBadRegex": {
+    "message": "Недопустимое регулярное выражение."
+  },
+  "validateCharClass": {
+    "message": "Используйте буквы, цифры, точку, подчёркивание или дефис."
+  }
+}

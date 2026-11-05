@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — премахване на проследяване"
+  },
+  "extDesc": {
+    "message": "Тихо премахва тракерите от връзките, които отваряте, и разгъва пренасочващите преки пътища. 100% локално."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL загуби разрешение."
+  },
+  "popupDegradedRegrant": {
+    "message": "Предоставете го отново"
+  },
+  "popupDegradedResume": {
+    "message": "за да продължи почистването."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Почистени връзки"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL е на пауза"
+  },
+  "popupHeroResume": {
+    "message": "Превключете бутона по-долу, за да продължи почистването."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "почистени днес"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Автоматично почистване на връзки"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Деактивиране на CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Активиране на CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Управление на списъка с разрешения и настройките"
+  },
+  "popupOpenSettings": {
+    "message": "Отваряне на настройките на CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Надстройте до Pro — $$99 доживотно"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Надстройте до CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Настройки"
+  },
+  "popupRootAria": {
+    "message": "Изскачащ прозорец на CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Безплатно ниво"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL не можа да се стартира. Опитайте да отворите отново изскачащия прозорец."
+  },
+  "popupMasterToggleError": {
+    "message": "Основният превключвател не можа да бъде променен."
+  },
+  "optionsStatusActive": {
+    "message": "Активно"
+  },
+  "optionsStatusPaused": {
+    "message": "На пауза"
+  },
+  "optionsPauseGlobally": {
+    "message": "Пауза глобално"
+  },
+  "optionsEnableGlobally": {
+    "message": "Активиране глобално"
+  },
+  "optionsPauseAria": {
+    "message": "Пауза на CleanURL глобално"
+  },
+  "optionsEnableAria": {
+    "message": "Активиране на CleanURL глобално"
+  },
+  "optionsSidebarAria": {
+    "message": "Раздели с настройки"
+  },
+  "optionsNavAria": {
+    "message": "Настройки"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Основен превключвател за почистване"
+  },
+  "optionsCuratedAria": {
+    "message": "Подбрани набори от правила"
+  },
+  "optionsCustomAria": {
+    "message": "Персонализирани правила"
+  },
+  "optionsDataAria": {
+    "message": "Експортиране на данни"
+  },
+  "optionsBootstrapError": {
+    "message": "Настройките на CleanURL не можаха да се заредят. Опитайте да презаредите страницата."
+  },
+  "tabAllowlist": {
+    "message": "Списък с разрешения"
+  },
+  "tabRules": {
+    "message": "Правила"
+  },
+  "tabLicense": {
+    "message": "Лиценз"
+  },
+  "eyebrowSites": {
+    "message": "Сайтове, освободени от почистване"
+  },
+  "eyebrowRules": {
+    "message": "Правила за почистване"
+  },
+  "eyebrowPlan": {
+    "message": "План и лиценз"
+  },
+  "eyebrowCustom": {
+    "message": "Персонализирани правила за параметри"
+  },
+  "eyebrowYourData": {
+    "message": "Вашите данни"
+  },
+  "eyebrowLinks": {
+    "message": "Връзки"
+  },
+  "eyebrowHaveKey": {
+    "message": "Имате лицензен ключ?"
+  },
+  "allowlistTitle": {
+    "message": "Списък с разрешения"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL няма да докосва нито един URL адрес на тези сайтове."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Безплатното ниво позволява до $$2 сайта — използвани $$1 от $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Ниво Pro — неограничен брой сайтове."
+  },
+  "allowlistInputLabel": {
+    "message": "Име на хост (напр. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Добавяне"
+  },
+  "allowlistActiveLabel": {
+    "message": "Активни ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Все още няма освободени сайтове"
+  },
+  "allowlistEmptyBody": {
+    "message": "Добавете име на хост по-горе, за да пропуснете почистването на този сайт."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Премахване"
+  },
+  "allowlistRemoveAria": {
+    "message": "Премахване на $$1 от списъка с разрешения"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Неактивно (Присъединете се отново към Pro за повторно активиране)"
+  },
+  "allowlistColdBadge": {
+    "message": "Студено"
+  },
+  "errHostnameRequired": {
+    "message": "Въведете име на хост."
+  },
+  "errHostnameInvalid": {
+    "message": "Въведете валидно име на хост (напр. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 вече е в списъка с разрешения."
+  },
+  "errFreeCap": {
+    "message": "Безплатното ниво е ограничено до $$1 сайта. Надстройте до Pro за неограничен брой."
+  },
+  "flashFreeCap": {
+    "message": "Безплатното ниво е ограничено до $$1 сайта. Надстройте до Pro за неограничен брой."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 не можа да бъде добавен."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 не можа да бъде премахнат."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 не можа да бъде добавен."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 не можа да бъде премахнат."
+  },
+  "rulesTitle": {
+    "message": "Правила"
+  },
+  "rulesIntro": {
+    "message": "Превключвайте подбраните набори от правила, които CleanURL използва. Добавете свои имена на параметри (или regex) в Pro."
+  },
+  "rulesCoreName": {
+    "message": "Основен набор от правила"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 консервативни правила за премахване + разгъване. Винаги включени."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Разширен набор от правила"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 агресивни правила: партньорски тагове, маркетингови ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Превключване на разширения набор от правила"
+  },
+  "rulesCustomDesc": {
+    "message": "Премахнете буквално име на параметър (напр. mkt_tok) или regex префикс (напр. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Име на параметър или regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Третиране на въведеното като regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Добавяне на правило"
+  },
+  "rulesEmptyList": {
+    "message": "Все още няма персонализирани правила."
+  },
+  "rulesDeleteBtn": {
+    "message": "Изтриване"
+  },
+  "rulesDeleteAria": {
+    "message": "Изтриване на правило $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "буквално"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Експортирайте настройките, списъка с разрешения и историята на почистените връзки във формат JSON. Всички данни се съхраняват само на това устройство."
+  },
+  "exportBtn": {
+    "message": "Експортиране на данни (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Политика за поверителност"
+  },
+  "linkSupport": {
+    "message": "Поддръжка"
+  },
+  "licenseTitle": {
+    "message": "Лиценз"
+  },
+  "licenseIntro": {
+    "message": "CleanURL е безплатен завинаги. Pro добавя разширения набор от правила, персонализирани правила и неограничен списък с разрешения."
+  },
+  "licenseCurrentAria": {
+    "message": "Текущ план"
+  },
+  "licensePlanPro": {
+    "message": "Pro — доживотно"
+  },
+  "licensePlanTrial": {
+    "message": "Пробен период — 7 дни"
+  },
+  "licensePlanFree": {
+    "message": "Безплатно"
+  },
+  "licenseMsgPro": {
+    "message": "Благодарим ви. Всички Pro функции са отключени."
+  },
+  "licenseMsgTrial": {
+    "message": "Използвате пробен период без карта. Надстройте по всяко време."
+  },
+  "licenseMsgFree": {
+    "message": "Надстройте, за да отключите разширения набор от правила, персонализирани правила и неограничен списък с разрешения."
+  },
+  "licenseKeyLabel": {
+    "message": "Лицензен ключ"
+  },
+  "licenseKeyAria": {
+    "message": "Въведете лицензен ключ"
+  },
+  "licenseVerify": {
+    "message": "Проверка"
+  },
+  "licenseVerifying": {
+    "message": "Проверява се…"
+  },
+  "licenseTrialTitle": {
+    "message": "Започнете 7-дневен безплатен пробен период"
+  },
+  "licenseTrialBody": {
+    "message": "Без карта, без акаунт. Отключва разширения набор от правила, персонализирани правила и неограничен списък с разрешения за 7 дни."
+  },
+  "licenseTrialStart": {
+    "message": "Започнете безплатен пробен период"
+  },
+  "licenseTrialStarting": {
+    "message": "Стартира…"
+  },
+  "flashExtendedLocked": {
+    "message": "Разширеният набор от правила е Pro функция. Първо започнете пробен период или надстройте."
+  },
+  "flashExtendedOn": {
+    "message": "Разширеният набор от правила е активиран."
+  },
+  "flashExtendedOff": {
+    "message": "Разширеният набор от правила е деактивиран."
+  },
+  "flashCustomLocked": {
+    "message": "Персонализираните правила са Pro функция. Започнете пробен период или надстройте."
+  },
+  "flashDynCap": {
+    "message": "Достигнат е лимитът за динамични правила. Изтрийте едно, за да добавите друго."
+  },
+  "flashBadRegex": {
+    "message": "Този regex беше отхвърлен."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Правилото не можа да бъде добавено."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Правилото $$1 не можа да бъде изтрито."
+  },
+  "flashKeyTooShort": {
+    "message": "Лицензните ключове са поне 8 знака."
+  },
+  "flashKeyOk": {
+    "message": "Лицензът е потвърден. Pro функциите са отключени."
+  },
+  "flashKeyFmt": {
+    "message": "Форматът на ключа е твърде кратък."
+  },
+  "flashKeyRate": {
+    "message": "Твърде много опити. Изчакайте минута."
+  },
+  "flashKeyNetwork": {
+    "message": "Мрежова грешка. Опитайте отново."
+  },
+  "flashKeyTimeout": {
+    "message": "Времето за проверка изтече."
+  },
+  "flashKeyServer": {
+    "message": "Грешка на сървъра ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Лицензният ключ не е разпознат."
+  },
+  "flashTrialStarted": {
+    "message": "7-дневният пробен период започна. Pro функциите са отключени."
+  },
+  "flashTrialUsed": {
+    "message": "Вече сте използвали 7-дневния пробен период."
+  },
+  "flashTrialFailed": {
+    "message": "Пробният период не можа да започне. Моля, опитайте отново."
+  },
+  "validateRequired": {
+    "message": "Въведете име на параметър."
+  },
+  "validateTooLong": {
+    "message": "Ограничете го под $$1 знака."
+  },
+  "validateLookaround": {
+    "message": "Lookaround не е разрешен."
+  },
+  "validateNested": {
+    "message": "Вложените квантори не са разрешени (риск от ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex е твърде сложен, за да бъде оценен безопасно."
+  },
+  "validateBadRegex": {
+    "message": "Невалиден регулярен израз."
+  },
+  "validateCharClass": {
+    "message": "Използвайте букви, цифри, точка, долна черта или тире."
+  }
+}

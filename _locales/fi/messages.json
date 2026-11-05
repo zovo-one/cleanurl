@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Poista seuranta"
+  },
+  "extDesc": {
+    "message": "Poistaa huomaamattomasti seurantaparametrit avaamistasi linkeistä ja purkaa uudelleenohjaukset. 100 % paikallinen."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL menetti käyttöoikeuden."
+  },
+  "popupDegradedRegrant": {
+    "message": "Myönnä se uudelleen"
+  },
+  "popupDegradedResume": {
+    "message": "jatkaaksesi puhdistusta."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Puhdistetut linkit"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL on keskeytetty"
+  },
+  "popupHeroResume": {
+    "message": "Kytke alla oleva valitsin päälle jatkaaksesi puhdistusta."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "puhdistettu tänään"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Puhdista linkit automaattisesti"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Poista CleanURL käytöstä"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Ota CleanURL käyttöön"
+  },
+  "popupManageSettings": {
+    "message": "Hallitse sallittujen luetteloa & asetuksia"
+  },
+  "popupOpenSettings": {
+    "message": "Avaa CleanURL-asetukset"
+  },
+  "popupUpgradeCta": {
+    "message": "Päivitä Pro-versioon — $$99 ikuisesti"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Päivitä CleanURL Pro -versioon"
+  },
+  "popupSettingsLink": {
+    "message": "Asetukset"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-ponnahdusikkuna"
+  },
+  "popupFreeTierAria": {
+    "message": "Ilmainen taso"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ei voinut käynnistyä. Yritä avata ponnahdusikkuna uudelleen."
+  },
+  "popupMasterToggleError": {
+    "message": "Pääkytkintä ei voitu muuttaa."
+  },
+  "optionsStatusActive": {
+    "message": "Aktiivinen"
+  },
+  "optionsStatusPaused": {
+    "message": "Keskeytetty"
+  },
+  "optionsPauseGlobally": {
+    "message": "Keskeytä maailmanlaajuisesti"
+  },
+  "optionsEnableGlobally": {
+    "message": "Ota käyttöön maailmanlaajuisesti"
+  },
+  "optionsPauseAria": {
+    "message": "Keskeytä CleanURL maailmanlaajuisesti"
+  },
+  "optionsEnableAria": {
+    "message": "Ota CleanURL käyttöön maailmanlaajuisesti"
+  },
+  "optionsSidebarAria": {
+    "message": "Asetusosiot"
+  },
+  "optionsNavAria": {
+    "message": "Asetukset"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Puhdistuksen pääkytkin"
+  },
+  "optionsCuratedAria": {
+    "message": "Kuratoidut sääntöjoukot"
+  },
+  "optionsCustomAria": {
+    "message": "Mukautetut säännöt"
+  },
+  "optionsDataAria": {
+    "message": "Tietojen vienti"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL-asetuksia ei voitu ladata. Yritä ladata sivu uudelleen."
+  },
+  "tabAllowlist": {
+    "message": "Sallittujen luettelo"
+  },
+  "tabRules": {
+    "message": "Säännöt"
+  },
+  "tabLicense": {
+    "message": "Lisenssi"
+  },
+  "eyebrowSites": {
+    "message": "Puhdistuksesta vapautetut sivustot"
+  },
+  "eyebrowRules": {
+    "message": "Puhdistussäännöt"
+  },
+  "eyebrowPlan": {
+    "message": "Tilaus & lisenssi"
+  },
+  "eyebrowCustom": {
+    "message": "Mukautetut parametrisäännöt"
+  },
+  "eyebrowYourData": {
+    "message": "Tietosi"
+  },
+  "eyebrowLinks": {
+    "message": "Linkit"
+  },
+  "eyebrowHaveKey": {
+    "message": "Onko sinulla lisenssiavain?"
+  },
+  "allowlistTitle": {
+    "message": "Sallittujen luettelo"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL ei koske mihinkään näiden sivustojen URL-osoitteeseen."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Ilmainen taso sallii enintään $$2 sivustoa — $$1 / $$2 käytetty."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-taso — rajaton määrä sivustoja."
+  },
+  "allowlistInputLabel": {
+    "message": "Isäntänimi (esim. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Lisää"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktiivinen ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Ei vielä vapautettuja sivustoja"
+  },
+  "allowlistEmptyBody": {
+    "message": "Lisää isäntänimi yllä ohittaaksesi puhdistuksen kyseisellä sivustolla."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Poista"
+  },
+  "allowlistRemoveAria": {
+    "message": "Poista $$1 sallittujen luettelosta"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Ei aktiivinen (Uusi Pro aktivoidaksesi uudelleen)"
+  },
+  "allowlistColdBadge": {
+    "message": "Kylmä"
+  },
+  "errHostnameRequired": {
+    "message": "Anna isäntänimi."
+  },
+  "errHostnameInvalid": {
+    "message": "Anna kelvollinen isäntänimi (esim. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 on jo sallittujen luettelossa."
+  },
+  "errFreeCap": {
+    "message": "Ilmainen taso rajoittuu $$1 sivustoon. Päivitä Pro-versioon rajattomia varten."
+  },
+  "flashFreeCap": {
+    "message": "Ilmainen taso rajoittuu $$1 sivustoon. Päivitä Pro-versioon rajattomia varten."
+  },
+  "errCouldNotAdd": {
+    "message": "Kohteen $$1 lisääminen epäonnistui."
+  },
+  "errCouldNotRemove": {
+    "message": "Kohteen $$1 poistaminen epäonnistui."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Kohteen $$1 lisääminen epäonnistui."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Kohteen $$1 poistaminen epäonnistui."
+  },
+  "rulesTitle": {
+    "message": "Säännöt"
+  },
+  "rulesIntro": {
+    "message": "Kytke päälle tai pois CleanURL:n käyttämät kuratoidut sääntöjoukot. Lisää omia parametrinimiä (tai regex) Pro-versiossa."
+  },
+  "rulesCoreName": {
+    "message": "Ydinsääntöjoukko"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 varovaista poisto- ja purkusääntöä. Aina päällä."
+  },
+  "rulesCoreBadge": {
+    "message": "PÄÄLLÄ"
+  },
+  "rulesExtendedName": {
+    "message": "Laajennettu sääntöjoukko"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 aggressiivista sääntöä: kumppanuustunnisteet, markkinointitunnukset."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Kytke laajennettu sääntöjoukko päälle/pois"
+  },
+  "rulesCustomDesc": {
+    "message": "Poista kirjaimellinen parametrinimi (esim. mkt_tok) tai regex-etuliite (esim. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parametrinimi tai regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Käsittele syötettä regex-lausekkeena"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Lisää sääntö"
+  },
+  "rulesEmptyList": {
+    "message": "Ei vielä mukautettuja sääntöjä."
+  },
+  "rulesDeleteBtn": {
+    "message": "Poista"
+  },
+  "rulesDeleteAria": {
+    "message": "Poista sääntö $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "kirjaimellinen"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Vie asetuksesi, sallittujen luettelo ja puhdistettujen linkkien historia JSON-muodossa. Kaikki tiedot pysyvät vain tällä laitteella."
+  },
+  "exportBtn": {
+    "message": "Vie tiedot (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "linkSupport": {
+    "message": "Tuki"
+  },
+  "licenseTitle": {
+    "message": "Lisenssi"
+  },
+  "licenseIntro": {
+    "message": "CleanURL on ilmainen ikuisesti. Pro lisää laajennetun sääntöjoukon, mukautetut säännöt ja rajattoman sallittujen luettelon."
+  },
+  "licenseCurrentAria": {
+    "message": "Nykyinen tilaus"
+  },
+  "licensePlanPro": {
+    "message": "Pro — ikuinen"
+  },
+  "licensePlanTrial": {
+    "message": "Kokeilu — 7 päivää"
+  },
+  "licensePlanFree": {
+    "message": "Ilmainen"
+  },
+  "licenseMsgPro": {
+    "message": "Kiitos. Kaikki Pro-ominaisuudet avattu."
+  },
+  "licenseMsgTrial": {
+    "message": "Käytät kokeilua ilman korttia. Päivitä milloin tahansa."
+  },
+  "licenseMsgFree": {
+    "message": "Päivitä avataksesi laajennetun sääntöjoukon, mukautetut säännöt ja rajattoman sallittujen luettelon."
+  },
+  "licenseKeyLabel": {
+    "message": "Lisenssiavain"
+  },
+  "licenseKeyAria": {
+    "message": "Anna lisenssiavain"
+  },
+  "licenseVerify": {
+    "message": "Vahvista"
+  },
+  "licenseVerifying": {
+    "message": "Vahvistetaan…"
+  },
+  "licenseTrialTitle": {
+    "message": "Aloita 7 päivän ilmainen kokeilu"
+  },
+  "licenseTrialBody": {
+    "message": "Ei korttia, ei tiliä. Avaa laajennetun sääntöjoukon, mukautetut säännöt ja rajattoman sallittujen luettelon 7 päiväksi."
+  },
+  "licenseTrialStart": {
+    "message": "Aloita ilmainen kokeilu"
+  },
+  "licenseTrialStarting": {
+    "message": "Aloitetaan…"
+  },
+  "flashExtendedLocked": {
+    "message": "Laajennettu sääntöjoukko on Pro-ominaisuus. Aloita kokeilu tai päivitä ensin."
+  },
+  "flashExtendedOn": {
+    "message": "Laajennettu sääntöjoukko käytössä."
+  },
+  "flashExtendedOff": {
+    "message": "Laajennettu sääntöjoukko pois käytöstä."
+  },
+  "flashCustomLocked": {
+    "message": "Mukautetut säännöt ovat Pro-ominaisuus. Aloita kokeilu tai päivitä."
+  },
+  "flashDynCap": {
+    "message": "Dynaamisten sääntöjen raja saavutettu. Poista yksi lisätäksesi toisen."
+  },
+  "flashBadRegex": {
+    "message": "Kyseinen regex hylättiin."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Säännön lisääminen epäonnistui."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Säännön $$1 poistaminen epäonnistui."
+  },
+  "flashKeyTooShort": {
+    "message": "Lisenssiavaimet ovat vähintään 8 merkkiä."
+  },
+  "flashKeyOk": {
+    "message": "Lisenssi vahvistettu. Pro-ominaisuudet avattu."
+  },
+  "flashKeyFmt": {
+    "message": "Avaimen muoto on liian lyhyt."
+  },
+  "flashKeyRate": {
+    "message": "Liian monta yritystä. Odota minuutti."
+  },
+  "flashKeyNetwork": {
+    "message": "Verkkovirhe. Yritä uudelleen."
+  },
+  "flashKeyTimeout": {
+    "message": "Vahvistus aikakatkaistiin."
+  },
+  "flashKeyServer": {
+    "message": "Palvelinvirhe ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Lisenssiavainta ei tunnistettu."
+  },
+  "flashTrialStarted": {
+    "message": "7 päivän kokeilu aloitettu. Pro-ominaisuudet avattu."
+  },
+  "flashTrialUsed": {
+    "message": "Olet jo käyttänyt 7 päivän kokeilun."
+  },
+  "flashTrialFailed": {
+    "message": "Kokeilun aloittaminen epäonnistui. Yritä uudelleen."
+  },
+  "validateRequired": {
+    "message": "Anna parametrinimi."
+  },
+  "validateTooLong": {
+    "message": "Pidä se alle $$1 merkkiä."
+  },
+  "validateLookaround": {
+    "message": "Lookaround ei ole sallittu."
+  },
+  "validateNested": {
+    "message": "Sisäkkäiset kvantorit eivät ole sallittuja (ReDoS-riski)."
+  },
+  "validateComplex": {
+    "message": "Tämä regex on liian monimutkainen arvioitavaksi turvallisesti."
+  },
+  "validateBadRegex": {
+    "message": "Virheellinen säännöllinen lauseke."
+  },
+  "validateCharClass": {
+    "message": "Käytä kirjaimia, numeroita, pistettä, alaviivaa tai yhdysmerkkiä."
+  }
+}

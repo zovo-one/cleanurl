@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1001,
+    "priority": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["vero_id", "oly_enc_id", "oly_anon_id"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 1002,
+    "priority": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["__vero_id", "mailing_id", "member_id", "subscriber_id", "message_id"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 1003,
+    "priority": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["ic_id", "elqTrackId", "elq", "assetType", "assetId"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 1004,
+    "priority": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["trk", "trkcampaign", "trkInfo", "ga_uid", "ga_sid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 1005,
+    "priority": 5,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "regexRemoveParams": ["^ef_", "^stm_", "^iq_"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  }
+]

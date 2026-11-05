@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — ট্র্যাকিং সরান"
+  },
+  "extDesc": {
+    "message": "আপনি যে লিঙ্কগুলো খোলেন সেগুলো থেকে নীরবে ট্র্যাকার সরিয়ে দেয় এবং রিডাইরেক্ট শর্টকাট আনর‍্যাপ করে। ১০০% লোকাল।"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL একটি অনুমতি হারিয়েছে।"
+  },
+  "popupDegradedRegrant": {
+    "message": "এটি আবার দিন"
+  },
+  "popupDegradedResume": {
+    "message": "ক্লিনিং পুনরায় শুরু করতে।"
+  },
+  "popupHeroLabelLinks": {
+    "message": "লিঙ্ক পরিষ্কার হয়েছে"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL বিরতিতে আছে"
+  },
+  "popupHeroResume": {
+    "message": "ক্লিনিং পুনরায় শুরু করতে নিচের টগলটি চালু করুন।"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "আজ পরিষ্কার হয়েছে"
+  },
+  "popupMasterToggleLabel": {
+    "message": "স্বয়ংক্রিয়ভাবে লিঙ্ক পরিষ্কার করুন"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL নিষ্ক্রিয় করুন"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL সক্রিয় করুন"
+  },
+  "popupManageSettings": {
+    "message": "অ্যালাউলিস্ট ও সেটিংস পরিচালনা করুন"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL সেটিংস খুলুন"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro-তে আপগ্রেড করুন — $$99 আজীবন"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro-তে আপগ্রেড করুন"
+  },
+  "popupSettingsLink": {
+    "message": "সেটিংস"
+  },
+  "popupRootAria": {
+    "message": "CleanURL পপআপ"
+  },
+  "popupFreeTierAria": {
+    "message": "ফ্রি টিয়ার"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL চালু করা যায়নি। পপআপটি আবার খুলে দেখুন।"
+  },
+  "popupMasterToggleError": {
+    "message": "মাস্টার টগল পরিবর্তন করা যায়নি।"
+  },
+  "optionsStatusActive": {
+    "message": "সক্রিয়"
+  },
+  "optionsStatusPaused": {
+    "message": "বিরতিতে"
+  },
+  "optionsPauseGlobally": {
+    "message": "সর্বত্র বিরতি দিন"
+  },
+  "optionsEnableGlobally": {
+    "message": "সর্বত্র সক্রিয় করুন"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL সর্বত্র বিরতি দিন"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL সর্বত্র সক্রিয় করুন"
+  },
+  "optionsSidebarAria": {
+    "message": "সেটিংস বিভাগ"
+  },
+  "optionsNavAria": {
+    "message": "সেটিংস"
+  },
+  "optionsMasterToggleAria": {
+    "message": "মাস্টার ক্লিন টগল"
+  },
+  "optionsCuratedAria": {
+    "message": "নির্বাচিত রুলসেট"
+  },
+  "optionsCustomAria": {
+    "message": "কাস্টম নিয়ম"
+  },
+  "optionsDataAria": {
+    "message": "ডেটা এক্সপোর্ট"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL সেটিংস লোড করা যায়নি। পৃষ্ঠাটি আবার লোড করে দেখুন।"
+  },
+  "tabAllowlist": {
+    "message": "অ্যালাউলিস্ট"
+  },
+  "tabRules": {
+    "message": "নিয়ম"
+  },
+  "tabLicense": {
+    "message": "লাইসেন্স"
+  },
+  "eyebrowSites": {
+    "message": "ক্লিনিং থেকে অব্যাহতিপ্রাপ্ত সাইট"
+  },
+  "eyebrowRules": {
+    "message": "ক্লিনিং নিয়ম"
+  },
+  "eyebrowPlan": {
+    "message": "প্ল্যান ও লাইসেন্স"
+  },
+  "eyebrowCustom": {
+    "message": "কাস্টম প্যারামিটার নিয়ম"
+  },
+  "eyebrowYourData": {
+    "message": "আপনার ডেটা"
+  },
+  "eyebrowLinks": {
+    "message": "লিঙ্ক"
+  },
+  "eyebrowHaveKey": {
+    "message": "লাইসেন্স কী আছে?"
+  },
+  "allowlistTitle": {
+    "message": "অ্যালাউলিস্ট"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL এই সাইটগুলোর কোনো URL স্পর্শ করবে না।"
+  },
+  "allowlistCapUsageFree": {
+    "message": "ফ্রি টিয়ারে সর্বোচ্চ $$2 টি সাইট অনুমোদিত — $$2 এর মধ্যে $$1 ব্যবহৃত।"
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro টিয়ার — সীমাহীন সাইট।"
+  },
+  "allowlistInputLabel": {
+    "message": "হোস্টনেম (যেমন shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "যোগ করুন"
+  },
+  "allowlistActiveLabel": {
+    "message": "সক্রিয় ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "এখনও কোনো সাইট অব্যাহতি পায়নি"
+  },
+  "allowlistEmptyBody": {
+    "message": "সেই সাইটে ক্লিনিং এড়িয়ে যেতে উপরে একটি হোস্টনেম যোগ করুন।"
+  },
+  "allowlistRemoveBtn": {
+    "message": "সরান"
+  },
+  "allowlistRemoveAria": {
+    "message": "অ্যালাউলিস্ট থেকে $$1 সরান"
+  },
+  "allowlistInactiveLabel": {
+    "message": "নিষ্ক্রিয় (পুনরায় সক্রিয় করতে Pro-তে ফিরে আসুন)"
+  },
+  "allowlistColdBadge": {
+    "message": "কোল্ড"
+  },
+  "errHostnameRequired": {
+    "message": "একটি হোস্টনেম লিখুন।"
+  },
+  "errHostnameInvalid": {
+    "message": "একটি বৈধ হোস্টনেম লিখুন (যেমন example.com)।"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ইতিমধ্যে অ্যালাউলিস্টে আছে।"
+  },
+  "errFreeCap": {
+    "message": "ফ্রি টিয়ার $$1 টি সাইটে সীমাবদ্ধ। সীমাহীনের জন্য Pro-তে আপগ্রেড করুন।"
+  },
+  "flashFreeCap": {
+    "message": "ফ্রি টিয়ার $$1 টি সাইটে সীমাবদ্ধ। সীমাহীনের জন্য Pro-তে আপগ্রেড করুন।"
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 যোগ করা যায়নি।"
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 সরানো যায়নি।"
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 যোগ করা যায়নি।"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 সরানো যায়নি।"
+  },
+  "rulesTitle": {
+    "message": "নিয়ম"
+  },
+  "rulesIntro": {
+    "message": "CleanURL যে নির্বাচিত রুলসেটগুলো ব্যবহার করে সেগুলো টগল করুন। Pro-তে নিজের প্যারামিটার নাম (বা regex) যোগ করুন।"
+  },
+  "rulesCoreName": {
+    "message": "কোর রুলসেট"
+  },
+  "rulesCoreDesc": {
+    "message": "~১২০টি সংরক্ষণশীল স্ট্রিপ + আনর‍্যাপ নিয়ম। সবসময় চালু।"
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "এক্সটেন্ডেড রুলসেট"
+  },
+  "rulesExtendedDesc": {
+    "message": "~৩০০টি আক্রমণাত্মক নিয়ম: অ্যাফিলিয়েট ট্যাগ, মার্কেটিং আইডি।"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "এক্সটেন্ডেড রুলসেট টগল করুন"
+  },
+  "rulesCustomDesc": {
+    "message": "একটি আক্ষরিক প্যারামিটার নাম (যেমন mkt_tok) বা একটি regex প্রিফিক্স (যেমন ^ig_) স্ট্রিপ করুন।"
+  },
+  "rulesParamLabel": {
+    "message": "প্যারামিটার নাম বা regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ইনপুটকে regex হিসেবে গণ্য করুন"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "নিয়ম যোগ করুন"
+  },
+  "rulesEmptyList": {
+    "message": "এখনও কোনো কাস্টম নিয়ম নেই।"
+  },
+  "rulesDeleteBtn": {
+    "message": "মুছুন"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 নিয়ম মুছুন"
+  },
+  "rulesLiteralKind": {
+    "message": "আক্ষরিক"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "আপনার সেটিংস, অ্যালাউলিস্ট ও পরিষ্কার-করা লিঙ্কের ইতিহাস JSON হিসেবে এক্সপোর্ট করুন। সমস্ত ডেটা কেবল এই ডিভাইসেই থাকে।"
+  },
+  "exportBtn": {
+    "message": "ডেটা এক্সপোর্ট করুন (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "গোপনীয়তা নীতি"
+  },
+  "linkSupport": {
+    "message": "সহায়তা"
+  },
+  "licenseTitle": {
+    "message": "লাইসেন্স"
+  },
+  "licenseIntro": {
+    "message": "CleanURL চিরকালের জন্য ফ্রি। Pro যোগ করে এক্সটেন্ডেড রুলসেট, কাস্টম নিয়ম ও একটি সীমাহীন অ্যালাউলিস্ট।"
+  },
+  "licenseCurrentAria": {
+    "message": "বর্তমান প্ল্যান"
+  },
+  "licensePlanPro": {
+    "message": "Pro — আজীবন"
+  },
+  "licensePlanTrial": {
+    "message": "ট্রায়াল — ৭ দিন"
+  },
+  "licensePlanFree": {
+    "message": "ফ্রি"
+  },
+  "licenseMsgPro": {
+    "message": "ধন্যবাদ। সমস্ত Pro ফিচার আনলক হয়েছে।"
+  },
+  "licenseMsgTrial": {
+    "message": "আপনি একটি কার্ড-ছাড়া ট্রায়ালে আছেন। যেকোনো সময় আপগ্রেড করুন।"
+  },
+  "licenseMsgFree": {
+    "message": "এক্সটেন্ডেড রুলসেট, কাস্টম নিয়ম ও সীমাহীন অ্যালাউলিস্ট আনলক করতে আপগ্রেড করুন।"
+  },
+  "licenseKeyLabel": {
+    "message": "লাইসেন্স কী"
+  },
+  "licenseKeyAria": {
+    "message": "লাইসেন্স কী লিখুন"
+  },
+  "licenseVerify": {
+    "message": "যাচাই করুন"
+  },
+  "licenseVerifying": {
+    "message": "যাচাই করা হচ্ছে…"
+  },
+  "licenseTrialTitle": {
+    "message": "৭-দিনের ফ্রি ট্রায়াল শুরু করুন"
+  },
+  "licenseTrialBody": {
+    "message": "কোনো কার্ড নেই, কোনো অ্যাকাউন্ট নেই। ৭ দিনের জন্য এক্সটেন্ডেড রুলসেট, কাস্টম নিয়ম ও সীমাহীন অ্যালাউলিস্ট আনলক করে।"
+  },
+  "licenseTrialStart": {
+    "message": "ফ্রি ট্রায়াল শুরু করুন"
+  },
+  "licenseTrialStarting": {
+    "message": "শুরু হচ্ছে…"
+  },
+  "flashExtendedLocked": {
+    "message": "এক্সটেন্ডেড রুলসেট একটি Pro ফিচার। প্রথমে একটি ট্রায়াল শুরু করুন বা আপগ্রেড করুন।"
+  },
+  "flashExtendedOn": {
+    "message": "এক্সটেন্ডেড রুলসেট সক্রিয় হয়েছে।"
+  },
+  "flashExtendedOff": {
+    "message": "এক্সটেন্ডেড রুলসেট নিষ্ক্রিয় হয়েছে।"
+  },
+  "flashCustomLocked": {
+    "message": "কাস্টম নিয়ম একটি Pro ফিচার। একটি ট্রায়াল শুরু করুন বা আপগ্রেড করুন।"
+  },
+  "flashDynCap": {
+    "message": "ডায়নামিক-নিয়মের সীমায় পৌঁছেছে। আরেকটি যোগ করতে একটি মুছুন।"
+  },
+  "flashBadRegex": {
+    "message": "সেই regex প্রত্যাখ্যাত হয়েছে।"
+  },
+  "flashCouldNotAddRule": {
+    "message": "নিয়ম যোগ করা যায়নি।"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "$$1 নিয়ম মুছে ফেলা যায়নি।"
+  },
+  "flashKeyTooShort": {
+    "message": "লাইসেন্স কী কমপক্ষে ৮ অক্ষরের হয়।"
+  },
+  "flashKeyOk": {
+    "message": "লাইসেন্স যাচাই হয়েছে। Pro ফিচার আনলক হয়েছে।"
+  },
+  "flashKeyFmt": {
+    "message": "কী ফরম্যাট খুব ছোট।"
+  },
+  "flashKeyRate": {
+    "message": "অনেক বেশি চেষ্টা। এক মিনিট অপেক্ষা করুন।"
+  },
+  "flashKeyNetwork": {
+    "message": "নেটওয়ার্ক ত্রুটি। আবার চেষ্টা করুন।"
+  },
+  "flashKeyTimeout": {
+    "message": "যাচাইয়ের সময় শেষ হয়ে গেছে।"
+  },
+  "flashKeyServer": {
+    "message": "সার্ভার ত্রুটি ($$1)।"
+  },
+  "flashKeyUnknown": {
+    "message": "লাইসেন্স কী শনাক্ত করা যায়নি।"
+  },
+  "flashTrialStarted": {
+    "message": "৭-দিনের ট্রায়াল শুরু হয়েছে। Pro ফিচার আনলক হয়েছে।"
+  },
+  "flashTrialUsed": {
+    "message": "আপনি ইতিমধ্যে ৭-দিনের ট্রায়াল ব্যবহার করেছেন।"
+  },
+  "flashTrialFailed": {
+    "message": "ট্রায়াল শুরু করা যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "validateRequired": {
+    "message": "একটি প্যারামিটার নাম লিখুন।"
+  },
+  "validateTooLong": {
+    "message": "এটি $$1 অক্ষরের মধ্যে রাখুন।"
+  },
+  "validateLookaround": {
+    "message": "Lookaround অনুমোদিত নয়।"
+  },
+  "validateNested": {
+    "message": "নেস্টেড কোয়ান্টিফায়ার অনুমোদিত নয় (ReDoS ঝুঁকি)।"
+  },
+  "validateComplex": {
+    "message": "Regex নিরাপদে মূল্যায়নের জন্য অত্যধিক জটিল।"
+  },
+  "validateBadRegex": {
+    "message": "অবৈধ রেগুলার এক্সপ্রেশন।"
+  },
+  "validateCharClass": {
+    "message": "অক্ষর, সংখ্যা, ডট, আন্ডারস্কোর বা হাইফেন ব্যবহার করুন।"
+  }
+}

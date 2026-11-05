@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — видалення трекерів"
+  },
+  "extDesc": {
+    "message": "Непомітно видаляє трекери з посилань, які ви відкриваєте, і розгортає перенаправлення. 100% локально."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL втратив дозвіл."
+  },
+  "popupDegradedRegrant": {
+    "message": "Надайте його знову"
+  },
+  "popupDegradedResume": {
+    "message": "щоб відновити очищення."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Посилань очищено"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL призупинено"
+  },
+  "popupHeroResume": {
+    "message": "Перемкніть тумблер нижче, щоб відновити очищення."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "очищено сьогодні"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Очищати посилання автоматично"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Вимкнути CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Увімкнути CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Керування білим списком і налаштуваннями"
+  },
+  "popupOpenSettings": {
+    "message": "Відкрити налаштування CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Перейти на Pro — $$99 назавжди"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Перейти на CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Налаштування"
+  },
+  "popupRootAria": {
+    "message": "Спливаюче вікно CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Безкоштовний рівень"
+  },
+  "popupBootstrapError": {
+    "message": "Не вдалося запустити CleanURL. Спробуйте відкрити вікно знову."
+  },
+  "popupMasterToggleError": {
+    "message": "Не вдалося змінити головний перемикач."
+  },
+  "optionsStatusActive": {
+    "message": "Активно"
+  },
+  "optionsStatusPaused": {
+    "message": "Призупинено"
+  },
+  "optionsPauseGlobally": {
+    "message": "Призупинити всюди"
+  },
+  "optionsEnableGlobally": {
+    "message": "Увімкнути всюди"
+  },
+  "optionsPauseAria": {
+    "message": "Призупинити CleanURL всюди"
+  },
+  "optionsEnableAria": {
+    "message": "Увімкнути CleanURL всюди"
+  },
+  "optionsSidebarAria": {
+    "message": "Розділи налаштувань"
+  },
+  "optionsNavAria": {
+    "message": "Налаштування"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Головний перемикач очищення"
+  },
+  "optionsCuratedAria": {
+    "message": "Підготовлені набори правил"
+  },
+  "optionsCustomAria": {
+    "message": "Власні правила"
+  },
+  "optionsDataAria": {
+    "message": "Експорт даних"
+  },
+  "optionsBootstrapError": {
+    "message": "Не вдалося завантажити налаштування CleanURL. Спробуйте перезавантажити сторінку."
+  },
+  "tabAllowlist": {
+    "message": "Білий список"
+  },
+  "tabRules": {
+    "message": "Правила"
+  },
+  "tabLicense": {
+    "message": "Ліцензія"
+  },
+  "eyebrowSites": {
+    "message": "Сайти, виключені з очищення"
+  },
+  "eyebrowRules": {
+    "message": "Правила очищення"
+  },
+  "eyebrowPlan": {
+    "message": "Тариф і ліцензія"
+  },
+  "eyebrowCustom": {
+    "message": "Власні правила параметрів"
+  },
+  "eyebrowYourData": {
+    "message": "Ваші дані"
+  },
+  "eyebrowLinks": {
+    "message": "Посилання"
+  },
+  "eyebrowHaveKey": {
+    "message": "Маєте ліцензійний ключ?"
+  },
+  "allowlistTitle": {
+    "message": "Білий список"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL не торкатиметься жодного URL на цих сайтах."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Безкоштовний рівень дозволяє до $$2 сайтів — використано $$1 з $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Рівень Pro — необмежена кількість сайтів."
+  },
+  "allowlistInputLabel": {
+    "message": "Ім'я хоста (наприклад, shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Додати"
+  },
+  "allowlistActiveLabel": {
+    "message": "Активно ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Поки немає виключених сайтів"
+  },
+  "allowlistEmptyBody": {
+    "message": "Додайте ім'я хоста вище, щоб пропускати очищення на цьому сайті."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Видалити"
+  },
+  "allowlistRemoveAria": {
+    "message": "Видалити $$1 з білого списку"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Неактивно (Відновіть Pro для повторної активації)"
+  },
+  "allowlistColdBadge": {
+    "message": "Холодний"
+  },
+  "errHostnameRequired": {
+    "message": "Введіть ім'я хоста."
+  },
+  "errHostnameInvalid": {
+    "message": "Введіть коректне ім'я хоста (наприклад, example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 вже у білому списку."
+  },
+  "errFreeCap": {
+    "message": "Безкоштовний рівень обмежений $$1 сайтами. Перейдіть на Pro для необмеженої кількості."
+  },
+  "flashFreeCap": {
+    "message": "Безкоштовний рівень обмежений $$1 сайтами. Перейдіть на Pro для необмеженої кількості."
+  },
+  "errCouldNotAdd": {
+    "message": "Не вдалося додати $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Не вдалося видалити $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Не вдалося додати $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Не вдалося видалити $$1."
+  },
+  "rulesTitle": {
+    "message": "Правила"
+  },
+  "rulesIntro": {
+    "message": "Вмикайте підготовлені набори правил, які використовує CleanURL. Додавайте власні імена параметрів (або regex) у Pro."
+  },
+  "rulesCoreName": {
+    "message": "Основний набір правил"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 консервативних правил видалення та розгортання. Завжди увімкнено."
+  },
+  "rulesCoreBadge": {
+    "message": "УВІМК"
+  },
+  "rulesExtendedName": {
+    "message": "Розширений набір правил"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 агресивних правил: партнерські мітки, маркетингові ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Перемкнути розширений набір правил"
+  },
+  "rulesCustomDesc": {
+    "message": "Видалити конкретне ім'я параметра (наприклад, mkt_tok) або regex-префікс (наприклад, ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Ім'я параметра або regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Обробляти введення як regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Додати правило"
+  },
+  "rulesEmptyList": {
+    "message": "Поки немає власних правил."
+  },
+  "rulesDeleteBtn": {
+    "message": "Видалити"
+  },
+  "rulesDeleteAria": {
+    "message": "Видалити правило $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "літерал"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Експортуйте свої налаштування, білий список та історію очищених посилань у JSON. Усі дані зберігаються лише на цьому пристрої."
+  },
+  "exportBtn": {
+    "message": "Експорт даних (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Політика конфіденційності"
+  },
+  "linkSupport": {
+    "message": "Підтримка"
+  },
+  "licenseTitle": {
+    "message": "Ліцензія"
+  },
+  "licenseIntro": {
+    "message": "CleanURL безкоштовний назавжди. Pro додає розширений набір правил, власні правила та необмежений білий список."
+  },
+  "licenseCurrentAria": {
+    "message": "Поточний тариф"
+  },
+  "licensePlanPro": {
+    "message": "Pro — назавжди"
+  },
+  "licensePlanTrial": {
+    "message": "Пробний — 7 днів"
+  },
+  "licensePlanFree": {
+    "message": "Безкоштовний"
+  },
+  "licenseMsgPro": {
+    "message": "Дякуємо. Усі функції Pro розблоковано."
+  },
+  "licenseMsgTrial": {
+    "message": "У вас пробний період без картки. Перейдіть на Pro будь-коли."
+  },
+  "licenseMsgFree": {
+    "message": "Перейдіть на Pro, щоб розблокувати розширений набір правил, власні правила та необмежений білий список."
+  },
+  "licenseKeyLabel": {
+    "message": "Ліцензійний ключ"
+  },
+  "licenseKeyAria": {
+    "message": "Введіть ліцензійний ключ"
+  },
+  "licenseVerify": {
+    "message": "Перевірити"
+  },
+  "licenseVerifying": {
+    "message": "Перевірка…"
+  },
+  "licenseTrialTitle": {
+    "message": "Почати 7-денний безкоштовний пробний період"
+  },
+  "licenseTrialBody": {
+    "message": "Без картки, без облікового запису. Розблоковує розширений набір правил, власні правила та необмежений білий список на 7 днів."
+  },
+  "licenseTrialStart": {
+    "message": "Почати безкоштовний пробний період"
+  },
+  "licenseTrialStarting": {
+    "message": "Запуск…"
+  },
+  "flashExtendedLocked": {
+    "message": "Розширений набір правил — функція Pro. Спочатку почніть пробний період або перейдіть на Pro."
+  },
+  "flashExtendedOn": {
+    "message": "Розширений набір правил увімкнено."
+  },
+  "flashExtendedOff": {
+    "message": "Розширений набір правил вимкнено."
+  },
+  "flashCustomLocked": {
+    "message": "Власні правила — функція Pro. Почніть пробний період або перейдіть на Pro."
+  },
+  "flashDynCap": {
+    "message": "Досягнуто ліміту динамічних правил. Видаліть одне, щоб додати інше."
+  },
+  "flashBadRegex": {
+    "message": "Цей regex було відхилено."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Не вдалося додати правило."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Не вдалося видалити правило $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Ліцензійні ключі містять щонайменше 8 символів."
+  },
+  "flashKeyOk": {
+    "message": "Ліцензію перевірено. Функції Pro розблоковано."
+  },
+  "flashKeyFmt": {
+    "message": "Формат ключа надто короткий."
+  },
+  "flashKeyRate": {
+    "message": "Забагато спроб. Зачекайте хвилину."
+  },
+  "flashKeyNetwork": {
+    "message": "Помилка мережі. Спробуйте знову."
+  },
+  "flashKeyTimeout": {
+    "message": "Час перевірки вичерпано."
+  },
+  "flashKeyServer": {
+    "message": "Помилка сервера ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Ліцензійний ключ не розпізнано."
+  },
+  "flashTrialStarted": {
+    "message": "7-денний пробний період розпочато. Функції Pro розблоковано."
+  },
+  "flashTrialUsed": {
+    "message": "Ви вже використали 7-денний пробний період."
+  },
+  "flashTrialFailed": {
+    "message": "Не вдалося почати пробний період. Будь ласка, спробуйте знову."
+  },
+  "validateRequired": {
+    "message": "Введіть ім'я параметра."
+  },
+  "validateTooLong": {
+    "message": "Не довше $$1 символів."
+  },
+  "validateLookaround": {
+    "message": "Lookaround не дозволено."
+  },
+  "validateNested": {
+    "message": "Вкладені квантифікатори не дозволені (ризик ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex надто складний для безпечної перевірки."
+  },
+  "validateBadRegex": {
+    "message": "Недійсний регулярний вираз."
+  },
+  "validateCharClass": {
+    "message": "Використовуйте літери, цифри, крапку, підкреслення або дефіс."
+  }
+}

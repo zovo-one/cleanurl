@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "يزيل بهدوء أدوات التتبع من الروابط التي تفتحها، ويفك تغليف اختصارات إعادة التوجيه. محلي 100%."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "فقد CleanURL أحد الأذونات."
+  },
+  "popupDegradedRegrant": {
+    "message": "امنحه مجددًا"
+  },
+  "popupDegradedResume": {
+    "message": "لاستئناف التنظيف."
+  },
+  "popupHeroLabelLinks": {
+    "message": "روابط تم تنظيفها"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL متوقف مؤقتًا"
+  },
+  "popupHeroResume": {
+    "message": "بدّل المفتاح أدناه لاستئناف التنظيف."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "تم تنظيفها اليوم"
+  },
+  "popupMasterToggleLabel": {
+    "message": "تنظيف الروابط تلقائيًا"
+  },
+  "popupMasterToggleDisable": {
+    "message": "تعطيل CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "تفعيل CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "إدارة قائمة السماح والإعدادات"
+  },
+  "popupOpenSettings": {
+    "message": "فتح إعدادات CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "الترقية إلى Pro — $$99 مدى الحياة"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "الترقية إلى CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "الإعدادات"
+  },
+  "popupRootAria": {
+    "message": "نافذة CleanURL المنبثقة"
+  },
+  "popupFreeTierAria": {
+    "message": "الفئة المجانية"
+  },
+  "popupBootstrapError": {
+    "message": "تعذّر بدء تشغيل CleanURL. حاول إعادة فتح النافذة المنبثقة."
+  },
+  "popupMasterToggleError": {
+    "message": "تعذّر تغيير المفتاح الرئيسي."
+  },
+  "optionsStatusActive": {
+    "message": "نشط"
+  },
+  "optionsStatusPaused": {
+    "message": "متوقف مؤقتًا"
+  },
+  "optionsPauseGlobally": {
+    "message": "إيقاف مؤقت عام"
+  },
+  "optionsEnableGlobally": {
+    "message": "تفعيل عام"
+  },
+  "optionsPauseAria": {
+    "message": "إيقاف CleanURL مؤقتًا بشكل عام"
+  },
+  "optionsEnableAria": {
+    "message": "تفعيل CleanURL بشكل عام"
+  },
+  "optionsSidebarAria": {
+    "message": "أقسام الإعدادات"
+  },
+  "optionsNavAria": {
+    "message": "الإعدادات"
+  },
+  "optionsMasterToggleAria": {
+    "message": "مفتاح التنظيف الرئيسي"
+  },
+  "optionsCuratedAria": {
+    "message": "مجموعات القواعد المنسّقة"
+  },
+  "optionsCustomAria": {
+    "message": "القواعد المخصصة"
+  },
+  "optionsDataAria": {
+    "message": "تصدير البيانات"
+  },
+  "optionsBootstrapError": {
+    "message": "تعذّر تحميل إعدادات CleanURL. حاول إعادة تحميل الصفحة."
+  },
+  "tabAllowlist": {
+    "message": "قائمة السماح"
+  },
+  "tabRules": {
+    "message": "القواعد"
+  },
+  "tabLicense": {
+    "message": "الترخيص"
+  },
+  "eyebrowSites": {
+    "message": "مواقع معفاة من التنظيف"
+  },
+  "eyebrowRules": {
+    "message": "قواعد التنظيف"
+  },
+  "eyebrowPlan": {
+    "message": "الخطة والترخيص"
+  },
+  "eyebrowCustom": {
+    "message": "قواعد المعلمات المخصصة"
+  },
+  "eyebrowYourData": {
+    "message": "بياناتك"
+  },
+  "eyebrowLinks": {
+    "message": "الروابط"
+  },
+  "eyebrowHaveKey": {
+    "message": "هل لديك مفتاح ترخيص؟"
+  },
+  "allowlistTitle": {
+    "message": "قائمة السماح"
+  },
+  "allowlistIntro": {
+    "message": "لن يمسّ CleanURL أي عنوان URL على هذه المواقع."
+  },
+  "allowlistCapUsageFree": {
+    "message": "تسمح الفئة المجانية بما يصل إلى $$2 موقع — تم استخدام $$1 من $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "فئة Pro — مواقع غير محدودة."
+  },
+  "allowlistInputLabel": {
+    "message": "اسم المضيف (مثل shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "إضافة"
+  },
+  "allowlistActiveLabel": {
+    "message": "نشط ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "لم يتم إعفاء أي مواقع بعد"
+  },
+  "allowlistEmptyBody": {
+    "message": "أضف اسم مضيف أعلاه لتخطي التنظيف على ذلك الموقع."
+  },
+  "allowlistRemoveBtn": {
+    "message": "إزالة"
+  },
+  "allowlistRemoveAria": {
+    "message": "إزالة $$1 من قائمة السماح"
+  },
+  "allowlistInactiveLabel": {
+    "message": "غير نشط (أعد الاشتراك في Pro لإعادة التفعيل)"
+  },
+  "allowlistColdBadge": {
+    "message": "بارد"
+  },
+  "errHostnameRequired": {
+    "message": "أدخل اسم مضيف."
+  },
+  "errHostnameInvalid": {
+    "message": "أدخل اسم مضيف صالحًا (مثل example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 مدرج بالفعل في قائمة السماح."
+  },
+  "errFreeCap": {
+    "message": "تحدّد الفئة المجانية $$1 موقع. رقِّ إلى Pro للحصول على عدد غير محدود."
+  },
+  "flashFreeCap": {
+    "message": "تحدّد الفئة المجانية $$1 موقع. رقِّ إلى Pro للحصول على عدد غير محدود."
+  },
+  "errCouldNotAdd": {
+    "message": "تعذّر إضافة $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "تعذّر إزالة $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "تعذّر إضافة $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "تعذّر إزالة $$1."
+  },
+  "rulesTitle": {
+    "message": "القواعد"
+  },
+  "rulesIntro": {
+    "message": "بدّل مجموعات القواعد المنسّقة التي يستخدمها CleanURL. أضف أسماء معلماتك الخاصة (أو تعبيرات regex) على Pro."
+  },
+  "rulesCoreName": {
+    "message": "مجموعة القواعد الأساسية"
+  },
+  "rulesCoreDesc": {
+    "message": "‏~120 قاعدة تحفظية للإزالة وفك التغليف. مفعّلة دائمًا."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "مجموعة القواعد الموسّعة"
+  },
+  "rulesExtendedDesc": {
+    "message": "‏~300 قاعدة صارمة: علامات الإحالة، معرّفات التسويق."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "تبديل مجموعة القواعد الموسّعة"
+  },
+  "rulesCustomDesc": {
+    "message": "أزل اسم معلمة حرفيًا (مثل mkt_tok) أو بادئة regex (مثل ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "اسم المعلمة أو regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "التعامل مع الإدخال كتعبير regex"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "إضافة قاعدة"
+  },
+  "rulesEmptyList": {
+    "message": "لا توجد قواعد مخصصة بعد."
+  },
+  "rulesDeleteBtn": {
+    "message": "حذف"
+  },
+  "rulesDeleteAria": {
+    "message": "حذف القاعدة $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "حرفي"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "صدّر إعداداتك وقائمة السماح وسجل الروابط التي تم تنظيفها بتنسيق JSON. تبقى جميع البيانات على هذا الجهاز فقط."
+  },
+  "exportBtn": {
+    "message": "تصدير البيانات (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "سياسة الخصوصية"
+  },
+  "linkSupport": {
+    "message": "الدعم"
+  },
+  "licenseTitle": {
+    "message": "الترخيص"
+  },
+  "licenseIntro": {
+    "message": "‏CleanURL مجاني إلى الأبد. تضيف Pro مجموعة القواعد الموسّعة والقواعد المخصصة وقائمة سماح غير محدودة."
+  },
+  "licenseCurrentAria": {
+    "message": "الخطة الحالية"
+  },
+  "licensePlanPro": {
+    "message": "Pro — مدى الحياة"
+  },
+  "licensePlanTrial": {
+    "message": "تجربة — 7 أيام"
+  },
+  "licensePlanFree": {
+    "message": "مجاني"
+  },
+  "licenseMsgPro": {
+    "message": "شكرًا لك. تم فتح جميع ميزات Pro."
+  },
+  "licenseMsgTrial": {
+    "message": "أنت في فترة تجريبية بدون بطاقة. رقِّ في أي وقت."
+  },
+  "licenseMsgFree": {
+    "message": "رقِّ لفتح مجموعة القواعد الموسّعة والقواعد المخصصة وقائمة سماح غير محدودة."
+  },
+  "licenseKeyLabel": {
+    "message": "مفتاح الترخيص"
+  },
+  "licenseKeyAria": {
+    "message": "أدخل مفتاح الترخيص"
+  },
+  "licenseVerify": {
+    "message": "تحقّق"
+  },
+  "licenseVerifying": {
+    "message": "جارٍ التحقّق…"
+  },
+  "licenseTrialTitle": {
+    "message": "ابدأ تجربة مجانية لمدة 7 أيام"
+  },
+  "licenseTrialBody": {
+    "message": "بدون بطاقة، بدون حساب. يفتح مجموعة القواعد الموسّعة والقواعد المخصصة وقائمة سماح غير محدودة لمدة 7 أيام."
+  },
+  "licenseTrialStart": {
+    "message": "ابدأ التجربة المجانية"
+  },
+  "licenseTrialStarting": {
+    "message": "جارٍ البدء…"
+  },
+  "flashExtendedLocked": {
+    "message": "مجموعة القواعد الموسّعة ميزة في Pro. ابدأ تجربة أو رقِّ أولًا."
+  },
+  "flashExtendedOn": {
+    "message": "تم تفعيل مجموعة القواعد الموسّعة."
+  },
+  "flashExtendedOff": {
+    "message": "تم تعطيل مجموعة القواعد الموسّعة."
+  },
+  "flashCustomLocked": {
+    "message": "القواعد المخصصة ميزة في Pro. ابدأ تجربة أو رقِّ."
+  },
+  "flashDynCap": {
+    "message": "تم بلوغ حد القواعد الديناميكية. احذف واحدة لإضافة أخرى."
+  },
+  "flashBadRegex": {
+    "message": "تم رفض تعبير regex هذا."
+  },
+  "flashCouldNotAddRule": {
+    "message": "تعذّر إضافة القاعدة."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "تعذّر حذف القاعدة $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "مفاتيح الترخيص لا تقل عن 8 أحرف."
+  },
+  "flashKeyOk": {
+    "message": "تم التحقّق من الترخيص. تم فتح ميزات Pro."
+  },
+  "flashKeyFmt": {
+    "message": "تنسيق المفتاح قصير جدًا."
+  },
+  "flashKeyRate": {
+    "message": "محاولات كثيرة جدًا. انتظر دقيقة."
+  },
+  "flashKeyNetwork": {
+    "message": "خطأ في الشبكة. حاول مجددًا."
+  },
+  "flashKeyTimeout": {
+    "message": "انتهت مهلة التحقّق."
+  },
+  "flashKeyServer": {
+    "message": "خطأ في الخادم ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "مفتاح الترخيص غير معروف."
+  },
+  "flashTrialStarted": {
+    "message": "بدأت التجربة لمدة 7 أيام. تم فتح ميزات Pro."
+  },
+  "flashTrialUsed": {
+    "message": "لقد استخدمت التجربة المجانية لمدة 7 أيام بالفعل."
+  },
+  "flashTrialFailed": {
+    "message": "تعذّر بدء التجربة. يرجى المحاولة مجددًا."
+  },
+  "validateRequired": {
+    "message": "أدخل اسم معلمة."
+  },
+  "validateTooLong": {
+    "message": "أبقِه أقل من $$1 حرفًا."
+  },
+  "validateLookaround": {
+    "message": "‏Lookaround غير مسموح به."
+  },
+  "validateNested": {
+    "message": "المحددات المتداخلة غير مسموح بها (خطر ReDoS)."
+  },
+  "validateComplex": {
+    "message": "تعبير regex معقّد جدًا بحيث يتعذّر تقييمه بأمان."
+  },
+  "validateBadRegex": {
+    "message": "تعبير عادي غير صالح."
+  },
+  "validateCharClass": {
+    "message": "استخدم أحرفًا أو أرقامًا أو نقطة أو شرطة سفلية أو شرطة."
+  }
+}

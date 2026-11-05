@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Eemalda jälgimine"
+  },
+  "extDesc": {
+    "message": "Eemaldab vaikselt jälgijad linkidest, mille avad, ning pakib ümbersuunamised lahti. 100% kohalik."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL kaotas ühe õiguse."
+  },
+  "popupDegradedRegrant": {
+    "message": "Anna see uuesti"
+  },
+  "popupDegradedResume": {
+    "message": "et puhastamist jätkata."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Puhastatud lingid"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL on peatatud"
+  },
+  "popupHeroResume": {
+    "message": "Lülita allolev lüliti sisse, et puhastamist jätkata."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "täna puhastatud"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Puhasta lingid automaatselt"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Keela CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Luba CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Halda lubatute loendit & seadeid"
+  },
+  "popupOpenSettings": {
+    "message": "Ava CleanURL-i seaded"
+  },
+  "popupUpgradeCta": {
+    "message": "Uuenda Pro peale — $$99 eluaegne"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Uuenda CleanURL Pro peale"
+  },
+  "popupSettingsLink": {
+    "message": "Seaded"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-i hüpikaken"
+  },
+  "popupFreeTierAria": {
+    "message": "Tasuta tase"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ei suutnud käivituda. Proovi hüpikaken uuesti avada."
+  },
+  "popupMasterToggleError": {
+    "message": "Pealülitit ei õnnestunud muuta."
+  },
+  "optionsStatusActive": {
+    "message": "Aktiivne"
+  },
+  "optionsStatusPaused": {
+    "message": "Peatatud"
+  },
+  "optionsPauseGlobally": {
+    "message": "Peata globaalselt"
+  },
+  "optionsEnableGlobally": {
+    "message": "Luba globaalselt"
+  },
+  "optionsPauseAria": {
+    "message": "Peata CleanURL globaalselt"
+  },
+  "optionsEnableAria": {
+    "message": "Luba CleanURL globaalselt"
+  },
+  "optionsSidebarAria": {
+    "message": "Seadete jaotised"
+  },
+  "optionsNavAria": {
+    "message": "Seaded"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Puhastamise pealüliti"
+  },
+  "optionsCuratedAria": {
+    "message": "Kureeritud reeglistikud"
+  },
+  "optionsCustomAria": {
+    "message": "Kohandatud reeglid"
+  },
+  "optionsDataAria": {
+    "message": "Andmete eksport"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL-i seadeid ei õnnestunud laadida. Proovi leht uuesti laadida."
+  },
+  "tabAllowlist": {
+    "message": "Lubatute loend"
+  },
+  "tabRules": {
+    "message": "Reeglid"
+  },
+  "tabLicense": {
+    "message": "Litsents"
+  },
+  "eyebrowSites": {
+    "message": "Puhastamisest vabastatud saidid"
+  },
+  "eyebrowRules": {
+    "message": "Puhastusreeglid"
+  },
+  "eyebrowPlan": {
+    "message": "Pakett & litsents"
+  },
+  "eyebrowCustom": {
+    "message": "Kohandatud parameetrireeglid"
+  },
+  "eyebrowYourData": {
+    "message": "Sinu andmed"
+  },
+  "eyebrowLinks": {
+    "message": "Lingid"
+  },
+  "eyebrowHaveKey": {
+    "message": "Kas sul on litsentsivõti?"
+  },
+  "allowlistTitle": {
+    "message": "Lubatute loend"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL ei puuduta ühtegi URL-i nendel saitidel."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Tasuta tase lubab kuni $$2 saiti — $$1 / $$2 kasutatud."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-tase — piiramatu arv saite."
+  },
+  "allowlistInputLabel": {
+    "message": "Hostinimi (nt shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Lisa"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktiivne ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Ühtegi saiti pole veel vabastatud"
+  },
+  "allowlistEmptyBody": {
+    "message": "Lisa ülal hostinimi, et sellel saidil puhastamine vahele jätta."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Eemalda"
+  },
+  "allowlistRemoveAria": {
+    "message": "Eemalda $$1 lubatute loendist"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Mitteaktiivne (Uuenda Pro, et taasaktiveerida)"
+  },
+  "allowlistColdBadge": {
+    "message": "Külm"
+  },
+  "errHostnameRequired": {
+    "message": "Sisesta hostinimi."
+  },
+  "errHostnameInvalid": {
+    "message": "Sisesta kehtiv hostinimi (nt example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 on juba lubatute loendis."
+  },
+  "errFreeCap": {
+    "message": "Tasuta tase on piiratud $$1 saidiga. Uuenda Pro peale piiramatute jaoks."
+  },
+  "flashFreeCap": {
+    "message": "Tasuta tase on piiratud $$1 saidiga. Uuenda Pro peale piiramatute jaoks."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 lisamine ebaõnnestus."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 eemaldamine ebaõnnestus."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 lisamine ebaõnnestus."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 eemaldamine ebaõnnestus."
+  },
+  "rulesTitle": {
+    "message": "Reeglid"
+  },
+  "rulesIntro": {
+    "message": "Lülita sisse või välja kureeritud reeglistikud, mida CleanURL kasutab. Lisa Pro-ga oma parameetrinimed (või regex)."
+  },
+  "rulesCoreName": {
+    "message": "Põhireeglistik"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 konservatiivset eemaldus- ja lahtipakkimisreeglit. Alati sees."
+  },
+  "rulesCoreBadge": {
+    "message": "SEES"
+  },
+  "rulesExtendedName": {
+    "message": "Laiendatud reeglistik"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agressiivset reeglit: partnersildid, turundus-ID-d."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Lülita laiendatud reeglistik sisse/välja"
+  },
+  "rulesCustomDesc": {
+    "message": "Eemalda sõnasõnaline parameetrinimi (nt mkt_tok) või regex-eesliide (nt ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameetrinimi või regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Käsitle sisendit regex-ina"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Lisa reegel"
+  },
+  "rulesEmptyList": {
+    "message": "Kohandatud reegleid pole veel."
+  },
+  "rulesDeleteBtn": {
+    "message": "Kustuta"
+  },
+  "rulesDeleteAria": {
+    "message": "Kustuta reegel $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "sõnasõnaline"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Ekspordi oma seaded, lubatute loend ja puhastatud linkide ajalugu JSON-ina. Kõik andmed jäävad ainult sellesse seadmesse."
+  },
+  "exportBtn": {
+    "message": "Ekspordi andmed (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "linkSupport": {
+    "message": "Tugi"
+  },
+  "licenseTitle": {
+    "message": "Litsents"
+  },
+  "licenseIntro": {
+    "message": "CleanURL on igavesti tasuta. Pro lisab laiendatud reeglistiku, kohandatud reeglid ja piiramatu lubatute loendi."
+  },
+  "licenseCurrentAria": {
+    "message": "Praegune pakett"
+  },
+  "licensePlanPro": {
+    "message": "Pro — eluaegne"
+  },
+  "licensePlanTrial": {
+    "message": "Prooviperiood — 7 päeva"
+  },
+  "licensePlanFree": {
+    "message": "Tasuta"
+  },
+  "licenseMsgPro": {
+    "message": "Aitäh. Kõik Pro-funktsioonid on avatud."
+  },
+  "licenseMsgTrial": {
+    "message": "Sul on kaardita prooviperiood. Uuenda igal ajal."
+  },
+  "licenseMsgFree": {
+    "message": "Uuenda, et avada laiendatud reeglistik, kohandatud reeglid ja piiramatu lubatute loend."
+  },
+  "licenseKeyLabel": {
+    "message": "Litsentsivõti"
+  },
+  "licenseKeyAria": {
+    "message": "Sisesta litsentsivõti"
+  },
+  "licenseVerify": {
+    "message": "Kinnita"
+  },
+  "licenseVerifying": {
+    "message": "Kinnitan…"
+  },
+  "licenseTrialTitle": {
+    "message": "Alusta 7-päevast tasuta prooviperioodi"
+  },
+  "licenseTrialBody": {
+    "message": "Ei mingit kaarti ega kontot. Avab laiendatud reeglistiku, kohandatud reeglid ja piiramatu lubatute loendi 7 päevaks."
+  },
+  "licenseTrialStart": {
+    "message": "Alusta tasuta prooviperioodi"
+  },
+  "licenseTrialStarting": {
+    "message": "Alustan…"
+  },
+  "flashExtendedLocked": {
+    "message": "Laiendatud reeglistik on Pro-funktsioon. Alusta esmalt prooviperioodi või uuenda."
+  },
+  "flashExtendedOn": {
+    "message": "Laiendatud reeglistik lubatud."
+  },
+  "flashExtendedOff": {
+    "message": "Laiendatud reeglistik keelatud."
+  },
+  "flashCustomLocked": {
+    "message": "Kohandatud reeglid on Pro-funktsioon. Alusta prooviperioodi või uuenda."
+  },
+  "flashDynCap": {
+    "message": "Dünaamiliste reeglite piir on saavutatud. Kustuta üks, et lisada teine."
+  },
+  "flashBadRegex": {
+    "message": "See regex lükati tagasi."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Reegli lisamine ebaõnnestus."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Reegli $$1 kustutamine ebaõnnestus."
+  },
+  "flashKeyTooShort": {
+    "message": "Litsentsivõtmed on vähemalt 8 tähemärki."
+  },
+  "flashKeyOk": {
+    "message": "Litsents kinnitatud. Pro-funktsioonid avatud."
+  },
+  "flashKeyFmt": {
+    "message": "Võtme vorming on liiga lühike."
+  },
+  "flashKeyRate": {
+    "message": "Liiga palju katseid. Oota üks minut."
+  },
+  "flashKeyNetwork": {
+    "message": "Võrguviga. Proovi uuesti."
+  },
+  "flashKeyTimeout": {
+    "message": "Kinnitamine aegus."
+  },
+  "flashKeyServer": {
+    "message": "Serveri viga ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Litsentsivõtit ei tuvastatud."
+  },
+  "flashTrialStarted": {
+    "message": "7-päevane prooviperiood alustatud. Pro-funktsioonid avatud."
+  },
+  "flashTrialUsed": {
+    "message": "Oled 7-päevast prooviperioodi juba kasutanud."
+  },
+  "flashTrialFailed": {
+    "message": "Prooviperioodi ei õnnestunud alustada. Palun proovi uuesti."
+  },
+  "validateRequired": {
+    "message": "Sisesta parameetrinimi."
+  },
+  "validateTooLong": {
+    "message": "Hoia see alla $$1 tähemärgi."
+  },
+  "validateLookaround": {
+    "message": "Lookaround pole lubatud."
+  },
+  "validateNested": {
+    "message": "Pesastatud kvantorid pole lubatud (ReDoS-oht)."
+  },
+  "validateComplex": {
+    "message": "See regex on liiga keeruline, et seda turvaliselt hinnata."
+  },
+  "validateBadRegex": {
+    "message": "Vigane regulaaravaldis."
+  },
+  "validateCharClass": {
+    "message": "Kasuta tähti, numbreid, punkti, alakriipsu või sidekriipsu."
+  }
+}

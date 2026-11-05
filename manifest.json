@@ -1,0 +1,50 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDesc__",
+  "version": "1.0.5",
+  "default_locale": "en",
+  "minimum_chrome_version": "116",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "storage",
+    "alarms"
+  ],
+  "optional_permissions": [],
+  "host_permissions": [],
+  "optional_host_permissions": [],
+  "background": {
+    "service_worker": "sw.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CleanURL"
+  },
+  "options_page": "options.html",
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "core",
+        "enabled": true,
+        "path": "rules/core.json"
+      },
+      {
+        "id": "extended",
+        "enabled": false,
+        "path": "rules/extended.json"
+      }
+    ]
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "web_accessible_resources": [],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'self' https://zgubxqomnbmxgbdhvwja.supabase.co; base-uri 'self'; form-action 'self'; frame-ancestors 'none';"
+  }
+}

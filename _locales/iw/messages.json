@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "מסיר בשקט רכיבי מעקב מקישורים שאתם פותחים, ופותח קיצורי הפניה. 100% מקומי."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "‏CleanURL איבד הרשאה."
+  },
+  "popupDegradedRegrant": {
+    "message": "העניקו אותה מחדש"
+  },
+  "popupDegradedResume": {
+    "message": "כדי לחדש את הניקוי."
+  },
+  "popupHeroLabelLinks": {
+    "message": "קישורים שנוקו"
+  },
+  "popupHeroLabelPaused": {
+    "message": "‏CleanURL מושהה"
+  },
+  "popupHeroResume": {
+    "message": "העבירו את המתג למטה כדי לחדש את הניקוי."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "נוקו היום"
+  },
+  "popupMasterToggleLabel": {
+    "message": "ניקוי קישורים אוטומטי"
+  },
+  "popupMasterToggleDisable": {
+    "message": "השבתת CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "הפעלת CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "ניהול רשימת היתרים והגדרות"
+  },
+  "popupOpenSettings": {
+    "message": "פתיחת הגדרות CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "שדרוג ל-Pro — $$99 לכל החיים"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "שדרוג ל-CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "הגדרות"
+  },
+  "popupRootAria": {
+    "message": "חלון קופץ של CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "שכבה חינמית"
+  },
+  "popupBootstrapError": {
+    "message": "‏CleanURL לא הצליח להתחיל. נסו לפתוח מחדש את החלון הקופץ."
+  },
+  "popupMasterToggleError": {
+    "message": "לא ניתן היה לשנות את המתג הראשי."
+  },
+  "optionsStatusActive": {
+    "message": "פעיל"
+  },
+  "optionsStatusPaused": {
+    "message": "מושהה"
+  },
+  "optionsPauseGlobally": {
+    "message": "השהיה גלובלית"
+  },
+  "optionsEnableGlobally": {
+    "message": "הפעלה גלובלית"
+  },
+  "optionsPauseAria": {
+    "message": "השהיית CleanURL באופן גלובלי"
+  },
+  "optionsEnableAria": {
+    "message": "הפעלת CleanURL באופן גלובלי"
+  },
+  "optionsSidebarAria": {
+    "message": "מקטעי הגדרות"
+  },
+  "optionsNavAria": {
+    "message": "הגדרות"
+  },
+  "optionsMasterToggleAria": {
+    "message": "מתג ניקוי ראשי"
+  },
+  "optionsCuratedAria": {
+    "message": "ערכות כללים מוכנות"
+  },
+  "optionsCustomAria": {
+    "message": "כללים מותאמים אישית"
+  },
+  "optionsDataAria": {
+    "message": "ייצוא נתונים"
+  },
+  "optionsBootstrapError": {
+    "message": "לא ניתן היה לטעון את הגדרות CleanURL. נסו לטעון מחדש את הדף."
+  },
+  "tabAllowlist": {
+    "message": "רשימת היתרים"
+  },
+  "tabRules": {
+    "message": "כללים"
+  },
+  "tabLicense": {
+    "message": "רישיון"
+  },
+  "eyebrowSites": {
+    "message": "אתרים הפטורים מניקוי"
+  },
+  "eyebrowRules": {
+    "message": "כללי ניקוי"
+  },
+  "eyebrowPlan": {
+    "message": "תוכנית ורישיון"
+  },
+  "eyebrowCustom": {
+    "message": "כללי פרמטרים מותאמים אישית"
+  },
+  "eyebrowYourData": {
+    "message": "הנתונים שלכם"
+  },
+  "eyebrowLinks": {
+    "message": "קישורים"
+  },
+  "eyebrowHaveKey": {
+    "message": "יש לכם מפתח רישיון?"
+  },
+  "allowlistTitle": {
+    "message": "רשימת היתרים"
+  },
+  "allowlistIntro": {
+    "message": "‏CleanURL לא ייגע בשום כתובת URL באתרים אלה."
+  },
+  "allowlistCapUsageFree": {
+    "message": "השכבה החינמית מאפשרת עד $$2 אתרים — נעשה שימוש ב-$$1 מתוך $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "שכבת Pro — אתרים ללא הגבלה."
+  },
+  "allowlistInputLabel": {
+    "message": "שם מארח (למשל shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "הוספה"
+  },
+  "allowlistActiveLabel": {
+    "message": "פעיל ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "עדיין לא נפטרו אתרים"
+  },
+  "allowlistEmptyBody": {
+    "message": "הוסיפו שם מארח למעלה כדי לדלג על ניקוי באתר זה."
+  },
+  "allowlistRemoveBtn": {
+    "message": "הסרה"
+  },
+  "allowlistRemoveAria": {
+    "message": "הסרת $$1 מרשימת ההיתרים"
+  },
+  "allowlistInactiveLabel": {
+    "message": "לא פעיל (חדשו את Pro כדי להפעיל מחדש)"
+  },
+  "allowlistColdBadge": {
+    "message": "קר"
+  },
+  "errHostnameRequired": {
+    "message": "הזינו שם מארח."
+  },
+  "errHostnameInvalid": {
+    "message": "הזינו שם מארח תקין (למשל example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 כבר נמצא ברשימת ההיתרים."
+  },
+  "errFreeCap": {
+    "message": "השכבה החינמית מוגבלת ל-$$1 אתרים. שדרגו ל-Pro ללא הגבלה."
+  },
+  "flashFreeCap": {
+    "message": "השכבה החינמית מוגבלת ל-$$1 אתרים. שדרגו ל-Pro ללא הגבלה."
+  },
+  "errCouldNotAdd": {
+    "message": "לא ניתן היה להוסיף את $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "לא ניתן היה להסיר את $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "לא ניתן היה להוסיף את $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "לא ניתן היה להסיר את $$1."
+  },
+  "rulesTitle": {
+    "message": "כללים"
+  },
+  "rulesIntro": {
+    "message": "החליפו את ערכות הכללים המוכנות שבהן CleanURL משתמש. הוסיפו שמות פרמטרים משלכם (או ביטויי regex) ב-Pro."
+  },
+  "rulesCoreName": {
+    "message": "ערכת כללים מרכזית"
+  },
+  "rulesCoreDesc": {
+    "message": "‏~120 כללי הסרה ופתיחה שמרניים. תמיד פעיל."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "ערכת כללים מורחבת"
+  },
+  "rulesExtendedDesc": {
+    "message": "‏~300 כללים אגרסיביים: תגי שותפים, מזהי שיווק."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "החלפת ערכת כללים מורחבת"
+  },
+  "rulesCustomDesc": {
+    "message": "הסירו שם פרמטר מילולי (למשל mkt_tok) או קידומת regex (למשל ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "שם פרמטר או regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "התייחסו לקלט כאל regex"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "הוספת כלל"
+  },
+  "rulesEmptyList": {
+    "message": "עדיין אין כללים מותאמים אישית."
+  },
+  "rulesDeleteBtn": {
+    "message": "מחיקה"
+  },
+  "rulesDeleteAria": {
+    "message": "מחיקת הכלל $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "מילולי"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "ייצאו את ההגדרות, רשימת ההיתרים והיסטוריית הקישורים שנוקו כ-JSON. כל הנתונים נשמרים רק במכשיר זה."
+  },
+  "exportBtn": {
+    "message": "ייצוא נתונים (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "מדיניות פרטיות"
+  },
+  "linkSupport": {
+    "message": "תמיכה"
+  },
+  "licenseTitle": {
+    "message": "רישיון"
+  },
+  "licenseIntro": {
+    "message": "‏CleanURL חינמי לתמיד. Pro מוסיף את ערכת הכללים המורחבת, כללים מותאמים אישית ורשימת היתרים ללא הגבלה."
+  },
+  "licenseCurrentAria": {
+    "message": "תוכנית נוכחית"
+  },
+  "licensePlanPro": {
+    "message": "Pro — לכל החיים"
+  },
+  "licensePlanTrial": {
+    "message": "ניסיון — 7 ימים"
+  },
+  "licensePlanFree": {
+    "message": "חינם"
+  },
+  "licenseMsgPro": {
+    "message": "תודה. כל תכונות Pro נפתחו."
+  },
+  "licenseMsgTrial": {
+    "message": "אתם בתקופת ניסיון ללא כרטיס. שדרגו בכל עת."
+  },
+  "licenseMsgFree": {
+    "message": "שדרגו כדי לפתוח את ערכת הכללים המורחבת, כללים מותאמים אישית ורשימת היתרים ללא הגבלה."
+  },
+  "licenseKeyLabel": {
+    "message": "מפתח רישיון"
+  },
+  "licenseKeyAria": {
+    "message": "הזינו מפתח רישיון"
+  },
+  "licenseVerify": {
+    "message": "אימות"
+  },
+  "licenseVerifying": {
+    "message": "מאמת…"
+  },
+  "licenseTrialTitle": {
+    "message": "התחילו ניסיון חינם ל-7 ימים"
+  },
+  "licenseTrialBody": {
+    "message": "ללא כרטיס, ללא חשבון. פותח את ערכת הכללים המורחבת, כללים מותאמים אישית ורשימת היתרים ללא הגבלה למשך 7 ימים."
+  },
+  "licenseTrialStart": {
+    "message": "התחלת ניסיון חינם"
+  },
+  "licenseTrialStarting": {
+    "message": "מתחיל…"
+  },
+  "flashExtendedLocked": {
+    "message": "ערכת הכללים המורחבת היא תכונת Pro. התחילו ניסיון או שדרגו תחילה."
+  },
+  "flashExtendedOn": {
+    "message": "ערכת הכללים המורחבת הופעלה."
+  },
+  "flashExtendedOff": {
+    "message": "ערכת הכללים המורחבת הושבתה."
+  },
+  "flashCustomLocked": {
+    "message": "כללים מותאמים אישית הם תכונת Pro. התחילו ניסיון או שדרגו."
+  },
+  "flashDynCap": {
+    "message": "הגעתם למגבלת הכללים הדינמיים. מחקו אחד כדי להוסיף עוד."
+  },
+  "flashBadRegex": {
+    "message": "ביטוי ה-regex הזה נדחה."
+  },
+  "flashCouldNotAddRule": {
+    "message": "לא ניתן היה להוסיף כלל."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "לא ניתן היה למחוק את הכלל $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "מפתחות רישיון הם באורך של 8 תווים לפחות."
+  },
+  "flashKeyOk": {
+    "message": "הרישיון אומת. תכונות Pro נפתחו."
+  },
+  "flashKeyFmt": {
+    "message": "פורמט המפתח קצר מדי."
+  },
+  "flashKeyRate": {
+    "message": "יותר מדי ניסיונות. המתינו דקה."
+  },
+  "flashKeyNetwork": {
+    "message": "שגיאת רשת. נסו שוב."
+  },
+  "flashKeyTimeout": {
+    "message": "תם הזמן הקצוב לאימות."
+  },
+  "flashKeyServer": {
+    "message": "שגיאת שרת ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "מפתח הרישיון לא זוהה."
+  },
+  "flashTrialStarted": {
+    "message": "ניסיון ל-7 ימים החל. תכונות Pro נפתחו."
+  },
+  "flashTrialUsed": {
+    "message": "כבר השתמשתם בניסיון ל-7 ימים."
+  },
+  "flashTrialFailed": {
+    "message": "לא ניתן היה להתחיל ניסיון. אנא נסו שוב."
+  },
+  "validateRequired": {
+    "message": "הזינו שם פרמטר."
+  },
+  "validateTooLong": {
+    "message": "השאירו זאת מתחת ל-$$1 תווים."
+  },
+  "validateLookaround": {
+    "message": "‏Lookaround אינו מותר."
+  },
+  "validateNested": {
+    "message": "מכמתים מקוננים אינם מותרים (סיכון ReDoS)."
+  },
+  "validateComplex": {
+    "message": "ביטוי ה-regex מורכב מדי מכדי להעריכו בבטחה."
+  },
+  "validateBadRegex": {
+    "message": "ביטוי רגולרי לא תקין."
+  },
+  "validateCharClass": {
+    "message": "השתמשו באותיות, ספרות, נקודה, קו תחתון או מקף."
+  }
+}

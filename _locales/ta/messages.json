@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "நீங்கள் திறக்கும் இணைப்புகளிலிருந்து கண்காணிப்பான்களை அமைதியாக நீக்கி, திருப்பிவிடும் குறுக்குவழிகளை விரிக்கிறது. 100% உள்ளூரில்."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL ஒரு அனுமதியை இழந்தது."
+  },
+  "popupDegradedRegrant": {
+    "message": "அதை மீண்டும் வழங்கவும்"
+  },
+  "popupDegradedResume": {
+    "message": "சுத்தம் செய்வதைத் தொடர."
+  },
+  "popupHeroLabelLinks": {
+    "message": "சுத்தம் செய்யப்பட்ட இணைப்புகள்"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL இடைநிறுத்தப்பட்டுள்ளது"
+  },
+  "popupHeroResume": {
+    "message": "சுத்தம் செய்வதைத் தொடர கீழே உள்ள நிலைமாற்றியை மாற்றவும்."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "இன்று சுத்தம் செய்யப்பட்டது"
+  },
+  "popupMasterToggleLabel": {
+    "message": "இணைப்புகளைத் தானாகவே சுத்தம் செய்யவும்"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL ஐ முடக்கவும்"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL ஐ இயக்கவும்"
+  },
+  "popupManageSettings": {
+    "message": "அனுமதிப்பட்டியல் & அமைப்புகளை நிர்வகிக்கவும்"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL அமைப்புகளைத் திறக்கவும்"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro க்கு மேம்படுத்தவும் — $$99 வாழ்நாள்"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro க்கு மேம்படுத்தவும்"
+  },
+  "popupSettingsLink": {
+    "message": "அமைப்புகள்"
+  },
+  "popupRootAria": {
+    "message": "CleanURL பாப்அப்"
+  },
+  "popupFreeTierAria": {
+    "message": "இலவச அடுக்கு"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ஐ தொடங்க முடியவில்லை. பாப்அப்பை மீண்டும் திறக்க முயற்சிக்கவும்."
+  },
+  "popupMasterToggleError": {
+    "message": "முதன்மை நிலைமாற்றியை மாற்ற முடியவில்லை."
+  },
+  "optionsStatusActive": {
+    "message": "செயலில்"
+  },
+  "optionsStatusPaused": {
+    "message": "இடைநிறுத்தப்பட்டது"
+  },
+  "optionsPauseGlobally": {
+    "message": "உலகளவில் இடைநிறுத்தவும்"
+  },
+  "optionsEnableGlobally": {
+    "message": "உலகளவில் இயக்கவும்"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL ஐ உலகளவில் இடைநிறுத்தவும்"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL ஐ உலகளவில் இயக்கவும்"
+  },
+  "optionsSidebarAria": {
+    "message": "அமைப்புப் பிரிவுகள்"
+  },
+  "optionsNavAria": {
+    "message": "அமைப்புகள்"
+  },
+  "optionsMasterToggleAria": {
+    "message": "முதன்மை சுத்தம் நிலைமாற்றி"
+  },
+  "optionsCuratedAria": {
+    "message": "தேர்ந்தெடுக்கப்பட்ட விதிதொகுப்புகள்"
+  },
+  "optionsCustomAria": {
+    "message": "தனிப்பயன் விதிகள்"
+  },
+  "optionsDataAria": {
+    "message": "தரவு ஏற்றுமதி"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL அமைப்புகளை ஏற்ற முடியவில்லை. பக்கத்தை மீண்டும் ஏற்ற முயற்சிக்கவும்."
+  },
+  "tabAllowlist": {
+    "message": "அனுமதிப்பட்டியல்"
+  },
+  "tabRules": {
+    "message": "விதிகள்"
+  },
+  "tabLicense": {
+    "message": "உரிமம்"
+  },
+  "eyebrowSites": {
+    "message": "சுத்தம் செய்வதிலிருந்து விலக்கப்பட்ட தளங்கள்"
+  },
+  "eyebrowRules": {
+    "message": "சுத்தம் செய்யும் விதிகள்"
+  },
+  "eyebrowPlan": {
+    "message": "திட்டம் & உரிமம்"
+  },
+  "eyebrowCustom": {
+    "message": "தனிப்பயன் அளவுரு விதிகள்"
+  },
+  "eyebrowYourData": {
+    "message": "உங்கள் தரவு"
+  },
+  "eyebrowLinks": {
+    "message": "இணைப்புகள்"
+  },
+  "eyebrowHaveKey": {
+    "message": "உரிமச் சாவி உள்ளதா?"
+  },
+  "allowlistTitle": {
+    "message": "அனுமதிப்பட்டியல்"
+  },
+  "allowlistIntro": {
+    "message": "இந்தத் தளங்களில் உள்ள எந்த URL ஐயும் CleanURL தொடாது."
+  },
+  "allowlistCapUsageFree": {
+    "message": "இலவச அடுக்கு $$2 தளங்கள் வரை அனுமதிக்கிறது — $$2 இல் $$1 பயன்படுத்தப்பட்டது."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro அடுக்கு — வரம்பற்ற தளங்கள்."
+  },
+  "allowlistInputLabel": {
+    "message": "புரவலன் பெயர் (எ.கா. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "சேர்"
+  },
+  "allowlistActiveLabel": {
+    "message": "செயலில் ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "இன்னும் எந்தத் தளமும் விலக்கப்படவில்லை"
+  },
+  "allowlistEmptyBody": {
+    "message": "அந்தத் தளத்தில் சுத்தம் செய்வதைத் தவிர்க்க மேலே ஒரு புரவலன் பெயரைச் சேர்க்கவும்."
+  },
+  "allowlistRemoveBtn": {
+    "message": "அகற்று"
+  },
+  "allowlistRemoveAria": {
+    "message": "அனுமதிப்பட்டியலிலிருந்து $$1 ஐ அகற்றவும்"
+  },
+  "allowlistInactiveLabel": {
+    "message": "செயலற்றது (மீண்டும் செயல்படுத்த Pro இல் மீண்டும் சேரவும்)"
+  },
+  "allowlistColdBadge": {
+    "message": "குளிர்"
+  },
+  "errHostnameRequired": {
+    "message": "ஒரு புரவலன் பெயரை உள்ளிடவும்."
+  },
+  "errHostnameInvalid": {
+    "message": "செல்லுபடியாகும் புரவலன் பெயரை உள்ளிடவும் (எ.கா. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ஏற்கனவே அனுமதிப்பட்டியலில் உள்ளது."
+  },
+  "errFreeCap": {
+    "message": "இலவச அடுக்கு $$1 தளங்களில் வரம்பிடப்பட்டுள்ளது. வரம்பற்றதற்கு Pro க்கு மேம்படுத்தவும்."
+  },
+  "flashFreeCap": {
+    "message": "இலவச அடுக்கு $$1 தளங்களில் வரம்பிடப்பட்டுள்ளது. வரம்பற்றதற்கு Pro க்கு மேம்படுத்தவும்."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 ஐ சேர்க்க முடியவில்லை."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 ஐ அகற்ற முடியவில்லை."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 ஐ சேர்க்க முடியவில்லை."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 ஐ அகற்ற முடியவில்லை."
+  },
+  "rulesTitle": {
+    "message": "விதிகள்"
+  },
+  "rulesIntro": {
+    "message": "CleanURL பயன்படுத்தும் தேர்ந்தெடுக்கப்பட்ட விதிதொகுப்புகளை நிலைமாற்றவும். Pro இல் உங்கள் சொந்த அளவுருப் பெயர்களை (அல்லது regex ஐ) சேர்க்கவும்."
+  },
+  "rulesCoreName": {
+    "message": "மைய விதிதொகுப்பு"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 எச்சரிக்கையான நீக்கு + விரி விதிகள். எப்போதும் இயக்கத்தில்."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பு"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 தீவிர விதிகள்: இணைப்பாளர் குறிச்சொற்கள், சந்தைப்படுத்தல் IDகள்."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பை நிலைமாற்றவும்"
+  },
+  "rulesCustomDesc": {
+    "message": "ஒரு அப்படியான அளவுருப் பெயரை (எ.கா. mkt_tok) அல்லது ஒரு regex முன்னொட்டை (எ.கா. ^ig_) நீக்கவும்."
+  },
+  "rulesParamLabel": {
+    "message": "அளவுருப் பெயர் அல்லது regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "உள்ளீட்டை regex ஆகக் கருதவும்"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "விதியைச் சேர்"
+  },
+  "rulesEmptyList": {
+    "message": "இன்னும் தனிப்பயன் விதிகள் இல்லை."
+  },
+  "rulesDeleteBtn": {
+    "message": "நீக்கு"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 விதியை நீக்கவும்"
+  },
+  "rulesLiteralKind": {
+    "message": "அப்படியானது"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "உங்கள் அமைப்புகள், அனுமதிப்பட்டியல் மற்றும் சுத்தம் செய்யப்பட்ட இணைப்பு வரலாற்றை JSON ஆக ஏற்றுமதி செய்யவும். எல்லாத் தரவும் இந்தச் சாதனத்தில் மட்டுமே இருக்கும்."
+  },
+  "exportBtn": {
+    "message": "தரவை ஏற்றுமதி செய் (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "தனியுரிமைக் கொள்கை"
+  },
+  "linkSupport": {
+    "message": "ஆதரவு"
+  },
+  "licenseTitle": {
+    "message": "உரிமம்"
+  },
+  "licenseIntro": {
+    "message": "CleanURL என்றென்றும் இலவசம். Pro விரிவாக்கப்பட்ட விதிதொகுப்பு, தனிப்பயன் விதிகள் மற்றும் வரம்பற்ற அனுமதிப்பட்டியலைச் சேர்க்கிறது."
+  },
+  "licenseCurrentAria": {
+    "message": "தற்போதைய திட்டம்"
+  },
+  "licensePlanPro": {
+    "message": "Pro — வாழ்நாள்"
+  },
+  "licensePlanTrial": {
+    "message": "சோதனை — 7 நாட்கள்"
+  },
+  "licensePlanFree": {
+    "message": "இலவசம்"
+  },
+  "licenseMsgPro": {
+    "message": "நன்றி. எல்லா Pro அம்சங்களும் திறக்கப்பட்டன."
+  },
+  "licenseMsgTrial": {
+    "message": "நீங்கள் அட்டையில்லா சோதனையில் உள்ளீர்கள். எப்போது வேண்டுமானாலும் மேம்படுத்தலாம்."
+  },
+  "licenseMsgFree": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பு, தனிப்பயன் விதிகள் மற்றும் வரம்பற்ற அனுமதிப்பட்டியலைத் திறக்க மேம்படுத்தவும்."
+  },
+  "licenseKeyLabel": {
+    "message": "உரிமச் சாவி"
+  },
+  "licenseKeyAria": {
+    "message": "உரிமச் சாவியை உள்ளிடவும்"
+  },
+  "licenseVerify": {
+    "message": "சரிபார்"
+  },
+  "licenseVerifying": {
+    "message": "சரிபார்க்கிறது…"
+  },
+  "licenseTrialTitle": {
+    "message": "7-நாள் இலவச சோதனையைத் தொடங்கு"
+  },
+  "licenseTrialBody": {
+    "message": "அட்டை இல்லை, கணக்கு இல்லை. விரிவாக்கப்பட்ட விதிதொகுப்பு, தனிப்பயன் விதிகள் மற்றும் வரம்பற்ற அனுமதிப்பட்டியலை 7 நாட்களுக்குத் திறக்கிறது."
+  },
+  "licenseTrialStart": {
+    "message": "இலவச சோதனையைத் தொடங்கு"
+  },
+  "licenseTrialStarting": {
+    "message": "தொடங்குகிறது…"
+  },
+  "flashExtendedLocked": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பு ஒரு Pro அம்சம். முதலில் ஒரு சோதனையைத் தொடங்கவும் அல்லது மேம்படுத்தவும்."
+  },
+  "flashExtendedOn": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பு இயக்கப்பட்டது."
+  },
+  "flashExtendedOff": {
+    "message": "விரிவாக்கப்பட்ட விதிதொகுப்பு முடக்கப்பட்டது."
+  },
+  "flashCustomLocked": {
+    "message": "தனிப்பயன் விதிகள் ஒரு Pro அம்சம். ஒரு சோதனையைத் தொடங்கவும் அல்லது மேம்படுத்தவும்."
+  },
+  "flashDynCap": {
+    "message": "இயங்குநிலை விதி வரம்பு எட்டப்பட்டது. மற்றொன்றைச் சேர்க்க ஒன்றை நீக்கவும்."
+  },
+  "flashBadRegex": {
+    "message": "அந்த regex நிராகரிக்கப்பட்டது."
+  },
+  "flashCouldNotAddRule": {
+    "message": "விதியைச் சேர்க்க முடியவில்லை."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "$$1 விதியை நீக்க முடியவில்லை."
+  },
+  "flashKeyTooShort": {
+    "message": "உரிமச் சாவிகள் குறைந்தது 8 எழுத்துகள் கொண்டவை."
+  },
+  "flashKeyOk": {
+    "message": "உரிமம் சரிபார்க்கப்பட்டது. Pro அம்சங்கள் திறக்கப்பட்டன."
+  },
+  "flashKeyFmt": {
+    "message": "சாவி வடிவம் மிகவும் குறுகியது."
+  },
+  "flashKeyRate": {
+    "message": "அதிக முயற்சிகள். ஒரு நிமிடம் காத்திருக்கவும்."
+  },
+  "flashKeyNetwork": {
+    "message": "வலையமைப்புப் பிழை. மீண்டும் முயற்சிக்கவும்."
+  },
+  "flashKeyTimeout": {
+    "message": "சரிபார்ப்பு நேரம் முடிந்தது."
+  },
+  "flashKeyServer": {
+    "message": "சேவையகப் பிழை ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "உரிமச் சாவி அங்கீகரிக்கப்படவில்லை."
+  },
+  "flashTrialStarted": {
+    "message": "7-நாள் சோதனை தொடங்கியது. Pro அம்சங்கள் திறக்கப்பட்டன."
+  },
+  "flashTrialUsed": {
+    "message": "நீங்கள் ஏற்கனவே 7-நாள் சோதனையைப் பயன்படுத்திவிட்டீர்கள்."
+  },
+  "flashTrialFailed": {
+    "message": "சோதனையைத் தொடங்க முடியவில்லை. தயவுசெய்து மீண்டும் முயற்சிக்கவும்."
+  },
+  "validateRequired": {
+    "message": "ஒரு அளவுருப் பெயரை உள்ளிடவும்."
+  },
+  "validateTooLong": {
+    "message": "அதை $$1 எழுத்துகளுக்குள் வைத்திருக்கவும்."
+  },
+  "validateLookaround": {
+    "message": "Lookaround அனுமதிக்கப்படவில்லை."
+  },
+  "validateNested": {
+    "message": "உள்ளடங்கிய அளவுகாட்டிகள் அனுமதிக்கப்படவில்லை (ReDoS ஆபத்து)."
+  },
+  "validateComplex": {
+    "message": "Regex பாதுகாப்பாக மதிப்பிட முடியாத அளவுக்குச் சிக்கலானது."
+  },
+  "validateBadRegex": {
+    "message": "செல்லுபடியாகாத regular expression."
+  },
+  "validateCharClass": {
+    "message": "எழுத்துகள், இலக்கங்கள், புள்ளி, அடிக்கோடு அல்லது இடைக்கோட்டைப் பயன்படுத்தவும்."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — noņem izsekotājus"
+  },
+  "extDesc": {
+    "message": "Klusi noņem izsekotājus no saitēm, ko atverat, un atritina novirzīšanas saīsnes. 100% lokāli."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL zaudēja atļauju."
+  },
+  "popupDegradedRegrant": {
+    "message": "Piešķiriet to atkārtoti"
+  },
+  "popupDegradedResume": {
+    "message": "lai atsāktu tīrīšanu."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Notīrītās saites"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL ir apturēts"
+  },
+  "popupHeroResume": {
+    "message": "Pārslēdziet zemāk esošo slēdzi, lai atsāktu tīrīšanu."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "notīrītas šodien"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Automātiski tīrīt saites"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Atspējot CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Iespējot CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Pārvaldīt atļauto sarakstu un iestatījumus"
+  },
+  "popupOpenSettings": {
+    "message": "Atvērt CleanURL iestatījumus"
+  },
+  "popupUpgradeCta": {
+    "message": "Jaunināt uz Pro — $$99 uz mūžu"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Jaunināt uz CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Iestatījumi"
+  },
+  "popupRootAria": {
+    "message": "CleanURL uznirstošais logs"
+  },
+  "popupFreeTierAria": {
+    "message": "Bezmaksas līmenis"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL nevarēja sākties. Mēģiniet atkārtoti atvērt uznirstošo logu."
+  },
+  "popupMasterToggleError": {
+    "message": "Neizdevās mainīt galveno slēdzi."
+  },
+  "optionsStatusActive": {
+    "message": "Aktīvs"
+  },
+  "optionsStatusPaused": {
+    "message": "Apturēts"
+  },
+  "optionsPauseGlobally": {
+    "message": "Apturēt globāli"
+  },
+  "optionsEnableGlobally": {
+    "message": "Iespējot globāli"
+  },
+  "optionsPauseAria": {
+    "message": "Apturēt CleanURL globāli"
+  },
+  "optionsEnableAria": {
+    "message": "Iespējot CleanURL globāli"
+  },
+  "optionsSidebarAria": {
+    "message": "Iestatījumu sadaļas"
+  },
+  "optionsNavAria": {
+    "message": "Iestatījumi"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Galvenais tīrīšanas slēdzis"
+  },
+  "optionsCuratedAria": {
+    "message": "Atlasītie noteikumu kopumi"
+  },
+  "optionsCustomAria": {
+    "message": "Pielāgotie noteikumi"
+  },
+  "optionsDataAria": {
+    "message": "Datu eksports"
+  },
+  "optionsBootstrapError": {
+    "message": "Neizdevās ielādēt CleanURL iestatījumus. Mēģiniet pārlādēt lapu."
+  },
+  "tabAllowlist": {
+    "message": "Atļauto saraksts"
+  },
+  "tabRules": {
+    "message": "Noteikumi"
+  },
+  "tabLicense": {
+    "message": "Licence"
+  },
+  "eyebrowSites": {
+    "message": "Vietnes, kas atbrīvotas no tīrīšanas"
+  },
+  "eyebrowRules": {
+    "message": "Tīrīšanas noteikumi"
+  },
+  "eyebrowPlan": {
+    "message": "Plāns un licence"
+  },
+  "eyebrowCustom": {
+    "message": "Pielāgoti parametru noteikumi"
+  },
+  "eyebrowYourData": {
+    "message": "Jūsu dati"
+  },
+  "eyebrowLinks": {
+    "message": "Saites"
+  },
+  "eyebrowHaveKey": {
+    "message": "Vai jums ir licences atslēga?"
+  },
+  "allowlistTitle": {
+    "message": "Atļauto saraksts"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL neaizskars nevienu URL šajās vietnēs."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Bezmaksas līmenis atļauj līdz $$2 vietnēm — izmantotas $$1 no $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro līmenis — neierobežotas vietnes."
+  },
+  "allowlistInputLabel": {
+    "message": "Resursdatora nosaukums (piem., shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Pievienot"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktīvas ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Vēl nav atbrīvotu vietņu"
+  },
+  "allowlistEmptyBody": {
+    "message": "Pievienojiet resursdatora nosaukumu augstāk, lai izlaistu tīrīšanu šajā vietnē."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Noņemt"
+  },
+  "allowlistRemoveAria": {
+    "message": "Noņemt $$1 no atļauto saraksta"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Neaktīvs (Atkārtoti pievienojieties Pro, lai atkārtoti aktivizētu)"
+  },
+  "allowlistColdBadge": {
+    "message": "Auksts"
+  },
+  "errHostnameRequired": {
+    "message": "Ievadiet resursdatora nosaukumu."
+  },
+  "errHostnameInvalid": {
+    "message": "Ievadiet derīgu resursdatora nosaukumu (piem., example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 jau ir atļauto sarakstā."
+  },
+  "errFreeCap": {
+    "message": "Bezmaksas līmenis ir ierobežots līdz $$1 vietnēm. Jauniniet uz Pro neierobežotai lietošanai."
+  },
+  "flashFreeCap": {
+    "message": "Bezmaksas līmenis ir ierobežots līdz $$1 vietnēm. Jauniniet uz Pro neierobežotai lietošanai."
+  },
+  "errCouldNotAdd": {
+    "message": "Neizdevās pievienot $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Neizdevās noņemt $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Neizdevās pievienot $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Neizdevās noņemt $$1."
+  },
+  "rulesTitle": {
+    "message": "Noteikumi"
+  },
+  "rulesIntro": {
+    "message": "Pārslēdziet atlasītos noteikumu kopumus, ko izmanto CleanURL. Pievienojiet savus parametru nosaukumus (vai regex) Pro versijā."
+  },
+  "rulesCoreName": {
+    "message": "Pamata noteikumu kopums"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 konservatīvi noņemšanas + atritināšanas noteikumi. Vienmēr ieslēgti."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Paplašinātais noteikumu kopums"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresīvi noteikumi: partneru tagi, mārketinga ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Pārslēgt paplašināto noteikumu kopumu"
+  },
+  "rulesCustomDesc": {
+    "message": "Noņemiet burtisku parametra nosaukumu (piem., mkt_tok) vai regex prefiksu (piem., ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parametra nosaukums vai regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Uzskatīt ievadi par regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Pievienot noteikumu"
+  },
+  "rulesEmptyList": {
+    "message": "Vēl nav pielāgotu noteikumu."
+  },
+  "rulesDeleteBtn": {
+    "message": "Dzēst"
+  },
+  "rulesDeleteAria": {
+    "message": "Dzēst noteikumu $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "burtisks"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Eksportējiet savus iestatījumus, atļauto sarakstu un notīrīto saišu vēsturi JSON formātā. Visi dati atrodas tikai šajā ierīcē."
+  },
+  "exportBtn": {
+    "message": "Eksportēt datus (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privātuma politika"
+  },
+  "linkSupport": {
+    "message": "Atbalsts"
+  },
+  "licenseTitle": {
+    "message": "Licence"
+  },
+  "licenseIntro": {
+    "message": "CleanURL ir bezmaksas mūžīgi. Pro pievieno paplašināto noteikumu kopumu, pielāgotus noteikumus un neierobežotu atļauto sarakstu."
+  },
+  "licenseCurrentAria": {
+    "message": "Pašreizējais plāns"
+  },
+  "licensePlanPro": {
+    "message": "Pro — uz mūžu"
+  },
+  "licensePlanTrial": {
+    "message": "Izmēģinājums — 7 dienas"
+  },
+  "licensePlanFree": {
+    "message": "Bezmaksas"
+  },
+  "licenseMsgPro": {
+    "message": "Paldies. Visas Pro funkcijas atbloķētas."
+  },
+  "licenseMsgTrial": {
+    "message": "Jūs izmantojat izmēģinājumu bez kartes. Jauniniet jebkurā laikā."
+  },
+  "licenseMsgFree": {
+    "message": "Jauniniet, lai atbloķētu paplašināto noteikumu kopumu, pielāgotus noteikumus un neierobežotu atļauto sarakstu."
+  },
+  "licenseKeyLabel": {
+    "message": "Licences atslēga"
+  },
+  "licenseKeyAria": {
+    "message": "Ievadiet licences atslēgu"
+  },
+  "licenseVerify": {
+    "message": "Pārbaudīt"
+  },
+  "licenseVerifying": {
+    "message": "Notiek pārbaude…"
+  },
+  "licenseTrialTitle": {
+    "message": "Sākt 7 dienu bezmaksas izmēģinājumu"
+  },
+  "licenseTrialBody": {
+    "message": "Bez kartes, bez konta. Atbloķē paplašināto noteikumu kopumu, pielāgotus noteikumus un neierobežotu atļauto sarakstu uz 7 dienām."
+  },
+  "licenseTrialStart": {
+    "message": "Sākt bezmaksas izmēģinājumu"
+  },
+  "licenseTrialStarting": {
+    "message": "Notiek sākšana…"
+  },
+  "flashExtendedLocked": {
+    "message": "Paplašinātais noteikumu kopums ir Pro funkcija. Vispirms sāciet izmēģinājumu vai jauniniet."
+  },
+  "flashExtendedOn": {
+    "message": "Paplašinātais noteikumu kopums iespējots."
+  },
+  "flashExtendedOff": {
+    "message": "Paplašinātais noteikumu kopums atspējots."
+  },
+  "flashCustomLocked": {
+    "message": "Pielāgotie noteikumi ir Pro funkcija. Sāciet izmēģinājumu vai jauniniet."
+  },
+  "flashDynCap": {
+    "message": "Sasniegts dinamisko noteikumu ierobežojums. Dzēsiet vienu, lai pievienotu citu."
+  },
+  "flashBadRegex": {
+    "message": "Šis regex tika noraidīts."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Neizdevās pievienot noteikumu."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Neizdevās dzēst noteikumu $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Licences atslēgas ir vismaz 8 rakstzīmes."
+  },
+  "flashKeyOk": {
+    "message": "Licence pārbaudīta. Pro funkcijas atbloķētas."
+  },
+  "flashKeyFmt": {
+    "message": "Atslēgas formāts ir pārāk īss."
+  },
+  "flashKeyRate": {
+    "message": "Pārāk daudz mēģinājumu. Uzgaidiet minūti."
+  },
+  "flashKeyNetwork": {
+    "message": "Tīkla kļūda. Mēģiniet vēlreiz."
+  },
+  "flashKeyTimeout": {
+    "message": "Pārbaudei beidzās noildze."
+  },
+  "flashKeyServer": {
+    "message": "Servera kļūda ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licences atslēga nav atpazīta."
+  },
+  "flashTrialStarted": {
+    "message": "7 dienu izmēģinājums sākts. Pro funkcijas atbloķētas."
+  },
+  "flashTrialUsed": {
+    "message": "Jūs jau esat izmantojis 7 dienu izmēģinājumu."
+  },
+  "flashTrialFailed": {
+    "message": "Neizdevās sākt izmēģinājumu. Lūdzu, mēģiniet vēlreiz."
+  },
+  "validateRequired": {
+    "message": "Ievadiet parametra nosaukumu."
+  },
+  "validateTooLong": {
+    "message": "Saglabājiet to zem $$1 rakstzīmēm."
+  },
+  "validateLookaround": {
+    "message": "Lookaround nav atļauts."
+  },
+  "validateNested": {
+    "message": "Ligzdoti kvantifikatori nav atļauti (ReDoS risks)."
+  },
+  "validateComplex": {
+    "message": "Regex ir pārāk sarežģīts, lai to droši novērtētu."
+  },
+  "validateBadRegex": {
+    "message": "Nederīga regulārā izteiksme."
+  },
+  "validateCharClass": {
+    "message": "Izmantojiet burtus, ciparus, punktu, pasvītrojumu vai defisi."
+  }
+}

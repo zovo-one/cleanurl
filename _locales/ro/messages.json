@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Elimină urmăritoarele"
+  },
+  "extDesc": {
+    "message": "Elimină discret elementele de urmărire din linkurile pe care le deschizi și desfășoară scurtăturile de redirecționare. 100% local."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL a pierdut o permisiune."
+  },
+  "popupDegradedRegrant": {
+    "message": "Acord-o din nou"
+  },
+  "popupDegradedResume": {
+    "message": "pentru a relua curățarea."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Linkuri curățate"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL este în pauză"
+  },
+  "popupHeroResume": {
+    "message": "Activează comutatorul de mai jos pentru a relua curățarea."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "curățate azi"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Curăță linkurile automat"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Dezactivează CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Activează CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Gestionează lista de permise și setările"
+  },
+  "popupOpenSettings": {
+    "message": "Deschide setările CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Treci la Pro — $$99 pe viață"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Treci la CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Setări"
+  },
+  "popupRootAria": {
+    "message": "Fereastră CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Plan gratuit"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL nu a putut porni. Încearcă să redeschizi fereastra."
+  },
+  "popupMasterToggleError": {
+    "message": "Comutatorul principal nu a putut fi schimbat."
+  },
+  "optionsStatusActive": {
+    "message": "Activ"
+  },
+  "optionsStatusPaused": {
+    "message": "În pauză"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pune în pauză global"
+  },
+  "optionsEnableGlobally": {
+    "message": "Activează global"
+  },
+  "optionsPauseAria": {
+    "message": "Pune CleanURL în pauză global"
+  },
+  "optionsEnableAria": {
+    "message": "Activează CleanURL global"
+  },
+  "optionsSidebarAria": {
+    "message": "Secțiuni de setări"
+  },
+  "optionsNavAria": {
+    "message": "Setări"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Comutator principal de curățare"
+  },
+  "optionsCuratedAria": {
+    "message": "Seturi de reguli selectate"
+  },
+  "optionsCustomAria": {
+    "message": "Reguli personalizate"
+  },
+  "optionsDataAria": {
+    "message": "Export de date"
+  },
+  "optionsBootstrapError": {
+    "message": "Setările CleanURL nu au putut fi încărcate. Încearcă să reîncarci pagina."
+  },
+  "tabAllowlist": {
+    "message": "Listă de permise"
+  },
+  "tabRules": {
+    "message": "Reguli"
+  },
+  "tabLicense": {
+    "message": "Licență"
+  },
+  "eyebrowSites": {
+    "message": "Site-uri exceptate de la curățare"
+  },
+  "eyebrowRules": {
+    "message": "Reguli de curățare"
+  },
+  "eyebrowPlan": {
+    "message": "Plan și licență"
+  },
+  "eyebrowCustom": {
+    "message": "Reguli de parametri personalizate"
+  },
+  "eyebrowYourData": {
+    "message": "Datele tale"
+  },
+  "eyebrowLinks": {
+    "message": "Linkuri"
+  },
+  "eyebrowHaveKey": {
+    "message": "Ai o cheie de licență?"
+  },
+  "allowlistTitle": {
+    "message": "Listă de permise"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL nu va atinge niciun URL de pe aceste site-uri."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Planul gratuit permite până la $$2 site-uri — $$1 din $$2 utilizate."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Plan Pro — site-uri nelimitate."
+  },
+  "allowlistInputLabel": {
+    "message": "Nume de gazdă (de ex. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Adaugă"
+  },
+  "allowlistActiveLabel": {
+    "message": "Active ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Niciun site exceptat încă"
+  },
+  "allowlistEmptyBody": {
+    "message": "Adaugă un nume de gazdă mai sus pentru a sări peste curățare pe acel site."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Elimină"
+  },
+  "allowlistRemoveAria": {
+    "message": "Elimină $$1 din lista de permise"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inactive (revino la Pro pentru a reactiva)"
+  },
+  "allowlistColdBadge": {
+    "message": "Rece"
+  },
+  "errHostnameRequired": {
+    "message": "Introdu un nume de gazdă."
+  },
+  "errHostnameInvalid": {
+    "message": "Introdu un nume de gazdă valid (de ex. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 este deja în lista de permise."
+  },
+  "errFreeCap": {
+    "message": "Planul gratuit este limitat la $$1 site-uri. Treci la Pro pentru nelimitat."
+  },
+  "flashFreeCap": {
+    "message": "Planul gratuit este limitat la $$1 site-uri. Treci la Pro pentru nelimitat."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 nu a putut fi adăugat."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 nu a putut fi eliminat."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 nu a putut fi adăugat."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 nu a putut fi eliminat."
+  },
+  "rulesTitle": {
+    "message": "Reguli"
+  },
+  "rulesIntro": {
+    "message": "Activează seturile de reguli selectate pe care le folosește CleanURL. Adaugă propriile nume de parametri (sau regex) cu Pro."
+  },
+  "rulesCoreName": {
+    "message": "Set de reguli de bază"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 de reguli prudente de eliminare și desfășurare. Mereu activ."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Set de reguli extins"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 de reguli agresive: etichete de afiliere, ID-uri de marketing."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Comută setul de reguli extins"
+  },
+  "rulesCustomDesc": {
+    "message": "Elimină un nume de parametru literal (de ex. mkt_tok) sau un prefix regex (de ex. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Nume de parametru sau regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Tratează intrarea ca regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Adaugă regulă"
+  },
+  "rulesEmptyList": {
+    "message": "Nicio regulă personalizată încă."
+  },
+  "rulesDeleteBtn": {
+    "message": "Șterge"
+  },
+  "rulesDeleteAria": {
+    "message": "Șterge regula $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "literal"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exportă setările, lista de permise și istoricul linkurilor curățate ca JSON. Toate datele rămân doar pe acest dispozitiv."
+  },
+  "exportBtn": {
+    "message": "Exportă datele (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Politică de confidențialitate"
+  },
+  "linkSupport": {
+    "message": "Asistență"
+  },
+  "licenseTitle": {
+    "message": "Licență"
+  },
+  "licenseIntro": {
+    "message": "CleanURL este gratuit pentru totdeauna. Pro adaugă setul de reguli extins, regulile personalizate și o listă de permise nelimitată."
+  },
+  "licenseCurrentAria": {
+    "message": "Plan curent"
+  },
+  "licensePlanPro": {
+    "message": "Pro — pe viață"
+  },
+  "licensePlanTrial": {
+    "message": "Perioadă de probă — 7 zile"
+  },
+  "licensePlanFree": {
+    "message": "Gratuit"
+  },
+  "licenseMsgPro": {
+    "message": "Mulțumim. Toate funcțiile Pro sunt deblocate."
+  },
+  "licenseMsgTrial": {
+    "message": "Ești într-o probă fără card. Treci la Pro oricând."
+  },
+  "licenseMsgFree": {
+    "message": "Treci la Pro pentru a debloca setul de reguli extins, regulile personalizate și lista de permise nelimitată."
+  },
+  "licenseKeyLabel": {
+    "message": "Cheie de licență"
+  },
+  "licenseKeyAria": {
+    "message": "Introdu cheia de licență"
+  },
+  "licenseVerify": {
+    "message": "Verifică"
+  },
+  "licenseVerifying": {
+    "message": "Se verifică…"
+  },
+  "licenseTrialTitle": {
+    "message": "Începe proba gratuită de 7 zile"
+  },
+  "licenseTrialBody": {
+    "message": "Fără card, fără cont. Deblochează setul de reguli extins, regulile personalizate și lista de permise nelimitată timp de 7 zile."
+  },
+  "licenseTrialStart": {
+    "message": "Începe proba gratuită"
+  },
+  "licenseTrialStarting": {
+    "message": "Se începe…"
+  },
+  "flashExtendedLocked": {
+    "message": "Setul de reguli extins este o funcție Pro. Începe mai întâi o probă sau treci la Pro."
+  },
+  "flashExtendedOn": {
+    "message": "Set de reguli extins activat."
+  },
+  "flashExtendedOff": {
+    "message": "Set de reguli extins dezactivat."
+  },
+  "flashCustomLocked": {
+    "message": "Regulile personalizate sunt o funcție Pro. Începe o probă sau treci la Pro."
+  },
+  "flashDynCap": {
+    "message": "Limita de reguli dinamice a fost atinsă. Șterge una pentru a adăuga alta."
+  },
+  "flashBadRegex": {
+    "message": "Acel regex a fost respins."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Regula nu a putut fi adăugată."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Regula $$1 nu a putut fi ștearsă."
+  },
+  "flashKeyTooShort": {
+    "message": "Cheile de licență au cel puțin 8 caractere."
+  },
+  "flashKeyOk": {
+    "message": "Licență verificată. Funcții Pro deblocate."
+  },
+  "flashKeyFmt": {
+    "message": "Formatul cheii este prea scurt."
+  },
+  "flashKeyRate": {
+    "message": "Prea multe încercări. Așteaptă un minut."
+  },
+  "flashKeyNetwork": {
+    "message": "Eroare de rețea. Încearcă din nou."
+  },
+  "flashKeyTimeout": {
+    "message": "Verificarea a expirat."
+  },
+  "flashKeyServer": {
+    "message": "Eroare de server ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Cheie de licență nerecunoscută."
+  },
+  "flashTrialStarted": {
+    "message": "Proba de 7 zile a început. Funcții Pro deblocate."
+  },
+  "flashTrialUsed": {
+    "message": "Ai folosit deja proba de 7 zile."
+  },
+  "flashTrialFailed": {
+    "message": "Proba nu a putut fi începută. Încearcă din nou."
+  },
+  "validateRequired": {
+    "message": "Introdu un nume de parametru."
+  },
+  "validateTooLong": {
+    "message": "Păstrează-l sub $$1 de caractere."
+  },
+  "validateLookaround": {
+    "message": "Lookaround nu este permis."
+  },
+  "validateNested": {
+    "message": "Cuantificatorii imbricați nu sunt permiși (risc ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regexul este prea complex pentru a fi evaluat în siguranță."
+  },
+  "validateBadRegex": {
+    "message": "Expresie regulată nevalidă."
+  },
+  "validateCharClass": {
+    "message": "Folosește litere, cifre, punct, liniuță de subliniere sau cratimă."
+  }
+}

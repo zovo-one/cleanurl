@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Követők eltávolítása"
+  },
+  "extDesc": {
+    "message": "Csendben eltávolítja a követőket a megnyitott hivatkozásokból, és kibontja az átirányítási parancsikonokat. 100% helyi."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "A CleanURL elvesztett egy engedélyt."
+  },
+  "popupDegradedRegrant": {
+    "message": "Adja meg újra"
+  },
+  "popupDegradedResume": {
+    "message": "a tisztítás folytatásához."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Megtisztított hivatkozások"
+  },
+  "popupHeroLabelPaused": {
+    "message": "A CleanURL szüneteltetve van"
+  },
+  "popupHeroResume": {
+    "message": "Kapcsolja be az alábbi kapcsolót a tisztítás folytatásához."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "megtisztítva ma"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Hivatkozások automatikus tisztítása"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL letiltása"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL engedélyezése"
+  },
+  "popupManageSettings": {
+    "message": "Engedélyezési lista és beállítások kezelése"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL beállítások megnyitása"
+  },
+  "popupUpgradeCta": {
+    "message": "Frissítés Pro-ra — $$99 örökre"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Frissítés CleanURL Pro-ra"
+  },
+  "popupSettingsLink": {
+    "message": "Beállítások"
+  },
+  "popupRootAria": {
+    "message": "CleanURL felugró ablak"
+  },
+  "popupFreeTierAria": {
+    "message": "Ingyenes szint"
+  },
+  "popupBootstrapError": {
+    "message": "A CleanURL nem tudott elindulni. Próbálja meg újra megnyitni a felugró ablakot."
+  },
+  "popupMasterToggleError": {
+    "message": "A főkapcsolót nem sikerült módosítani."
+  },
+  "optionsStatusActive": {
+    "message": "Aktív"
+  },
+  "optionsStatusPaused": {
+    "message": "Szüneteltetve"
+  },
+  "optionsPauseGlobally": {
+    "message": "Globális szüneteltetés"
+  },
+  "optionsEnableGlobally": {
+    "message": "Globális engedélyezés"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL globális szüneteltetése"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL globális engedélyezése"
+  },
+  "optionsSidebarAria": {
+    "message": "Beállítási szakaszok"
+  },
+  "optionsNavAria": {
+    "message": "Beállítások"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Fő tisztítási kapcsoló"
+  },
+  "optionsCuratedAria": {
+    "message": "Válogatott szabálykészletek"
+  },
+  "optionsCustomAria": {
+    "message": "Egyéni szabályok"
+  },
+  "optionsDataAria": {
+    "message": "Adatexportálás"
+  },
+  "optionsBootstrapError": {
+    "message": "A CleanURL beállításait nem sikerült betölteni. Próbálja meg újratölteni az oldalt."
+  },
+  "tabAllowlist": {
+    "message": "Engedélyezési lista"
+  },
+  "tabRules": {
+    "message": "Szabályok"
+  },
+  "tabLicense": {
+    "message": "Licenc"
+  },
+  "eyebrowSites": {
+    "message": "A tisztítás alól kivont webhelyek"
+  },
+  "eyebrowRules": {
+    "message": "Tisztítási szabályok"
+  },
+  "eyebrowPlan": {
+    "message": "Csomag és licenc"
+  },
+  "eyebrowCustom": {
+    "message": "Egyéni paraméterszabályok"
+  },
+  "eyebrowYourData": {
+    "message": "Az Ön adatai"
+  },
+  "eyebrowLinks": {
+    "message": "Hivatkozások"
+  },
+  "eyebrowHaveKey": {
+    "message": "Van licenckulcsa?"
+  },
+  "allowlistTitle": {
+    "message": "Engedélyezési lista"
+  },
+  "allowlistIntro": {
+    "message": "A CleanURL nem nyúl egyetlen URL-hez sem ezeken a webhelyeken."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Az ingyenes szint legfeljebb $$2 webhelyet enged — $$1/$$2 felhasználva."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro szint — korlátlan webhely."
+  },
+  "allowlistInputLabel": {
+    "message": "Gazdanév (pl. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Hozzáadás"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktív ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Még nincs kivont webhely"
+  },
+  "allowlistEmptyBody": {
+    "message": "Adjon hozzá egy gazdanevet fent, hogy kihagyja a tisztítást azon a webhelyen."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Eltávolítás"
+  },
+  "allowlistRemoveAria": {
+    "message": "$$1 eltávolítása az engedélyezési listáról"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inaktív (Csatlakozzon újra a Pro-hoz az újraaktiváláshoz)"
+  },
+  "allowlistColdBadge": {
+    "message": "Hideg"
+  },
+  "errHostnameRequired": {
+    "message": "Adjon meg egy gazdanevet."
+  },
+  "errHostnameInvalid": {
+    "message": "Adjon meg egy érvényes gazdanevet (pl. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "A(z) $$1 már szerepel az engedélyezési listán."
+  },
+  "errFreeCap": {
+    "message": "Az ingyenes szint $$1 webhelyre korlátozott. Frissítsen Pro-ra a korlátlan használatért."
+  },
+  "flashFreeCap": {
+    "message": "Az ingyenes szint $$1 webhelyre korlátozott. Frissítsen Pro-ra a korlátlan használatért."
+  },
+  "errCouldNotAdd": {
+    "message": "A(z) $$1 hozzáadása nem sikerült."
+  },
+  "errCouldNotRemove": {
+    "message": "A(z) $$1 eltávolítása nem sikerült."
+  },
+  "flashCouldNotAddHost": {
+    "message": "A(z) $$1 hozzáadása nem sikerült."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "A(z) $$1 eltávolítása nem sikerült."
+  },
+  "rulesTitle": {
+    "message": "Szabályok"
+  },
+  "rulesIntro": {
+    "message": "Kapcsolja be a CleanURL által használt válogatott szabálykészleteket. A Pro verzióban saját paraméterneveket (vagy regexeket) is hozzáadhat."
+  },
+  "rulesCoreName": {
+    "message": "Alapszabálykészlet"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 óvatos eltávolítási + kibontási szabály. Mindig bekapcsolva."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Kibővített szabálykészlet"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresszív szabály: partnercímkék, marketingazonosítók."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Kibővített szabálykészlet ki-/bekapcsolása"
+  },
+  "rulesCustomDesc": {
+    "message": "Távolítson el egy szó szerinti paraméternevet (pl. mkt_tok) vagy egy regex-előtagot (pl. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Paraméternév vagy regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "A bevitel kezelése regexként"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Szabály hozzáadása"
+  },
+  "rulesEmptyList": {
+    "message": "Még nincsenek egyéni szabályok."
+  },
+  "rulesDeleteBtn": {
+    "message": "Törlés"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 szabály törlése"
+  },
+  "rulesLiteralKind": {
+    "message": "szó szerinti"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exportálja a beállításait, engedélyezési listáját és a megtisztított hivatkozások előzményeit JSON formátumban. Minden adat csak ezen az eszközön található."
+  },
+  "exportBtn": {
+    "message": "Adatok exportálása (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Adatvédelmi szabályzat"
+  },
+  "linkSupport": {
+    "message": "Támogatás"
+  },
+  "licenseTitle": {
+    "message": "Licenc"
+  },
+  "licenseIntro": {
+    "message": "A CleanURL örökre ingyenes. A Pro hozzáadja a kibővített szabálykészletet, az egyéni szabályokat és a korlátlan engedélyezési listát."
+  },
+  "licenseCurrentAria": {
+    "message": "Jelenlegi csomag"
+  },
+  "licensePlanPro": {
+    "message": "Pro — örökre"
+  },
+  "licensePlanTrial": {
+    "message": "Próba — 7 nap"
+  },
+  "licensePlanFree": {
+    "message": "Ingyenes"
+  },
+  "licenseMsgPro": {
+    "message": "Köszönjük. Minden Pro funkció feloldva."
+  },
+  "licenseMsgTrial": {
+    "message": "Kártya nélküli próbaidőszakot használ. Bármikor frissíthet."
+  },
+  "licenseMsgFree": {
+    "message": "Frissítsen a kibővített szabálykészlet, az egyéni szabályok és a korlátlan engedélyezési lista feloldásához."
+  },
+  "licenseKeyLabel": {
+    "message": "Licenckulcs"
+  },
+  "licenseKeyAria": {
+    "message": "Licenckulcs megadása"
+  },
+  "licenseVerify": {
+    "message": "Ellenőrzés"
+  },
+  "licenseVerifying": {
+    "message": "Ellenőrzés…"
+  },
+  "licenseTrialTitle": {
+    "message": "7 napos ingyenes próba indítása"
+  },
+  "licenseTrialBody": {
+    "message": "Kártya nélkül, fiók nélkül. Feloldja a kibővített szabálykészletet, az egyéni szabályokat és a korlátlan engedélyezési listát 7 napra."
+  },
+  "licenseTrialStart": {
+    "message": "Ingyenes próba indítása"
+  },
+  "licenseTrialStarting": {
+    "message": "Indítás…"
+  },
+  "flashExtendedLocked": {
+    "message": "A kibővített szabálykészlet Pro funkció. Indítson próbát vagy frissítsen először."
+  },
+  "flashExtendedOn": {
+    "message": "Kibővített szabálykészlet engedélyezve."
+  },
+  "flashExtendedOff": {
+    "message": "Kibővített szabálykészlet letiltva."
+  },
+  "flashCustomLocked": {
+    "message": "Az egyéni szabályok Pro funkciók. Indítson próbát vagy frissítsen."
+  },
+  "flashDynCap": {
+    "message": "A dinamikus szabályok korlátja elérve. Töröljön egyet egy másik hozzáadásához."
+  },
+  "flashBadRegex": {
+    "message": "Ezt a regexet elutasította a rendszer."
+  },
+  "flashCouldNotAddRule": {
+    "message": "A szabály hozzáadása nem sikerült."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "A(z) $$1 szabály törlése nem sikerült."
+  },
+  "flashKeyTooShort": {
+    "message": "A licenckulcsok legalább 8 karakter hosszúak."
+  },
+  "flashKeyOk": {
+    "message": "Licenc ellenőrizve. Pro funkciók feloldva."
+  },
+  "flashKeyFmt": {
+    "message": "A kulcs formátuma túl rövid."
+  },
+  "flashKeyRate": {
+    "message": "Túl sok próbálkozás. Várjon egy percet."
+  },
+  "flashKeyNetwork": {
+    "message": "Hálózati hiba. Próbálja újra."
+  },
+  "flashKeyTimeout": {
+    "message": "Az ellenőrzés időtúllépést okozott."
+  },
+  "flashKeyServer": {
+    "message": "Szerverhiba ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "A licenckulcs nem ismerhető fel."
+  },
+  "flashTrialStarted": {
+    "message": "A 7 napos próba elindult. Pro funkciók feloldva."
+  },
+  "flashTrialUsed": {
+    "message": "Már felhasználta a 7 napos próbát."
+  },
+  "flashTrialFailed": {
+    "message": "A próba indítása nem sikerült. Kérjük, próbálja újra."
+  },
+  "validateRequired": {
+    "message": "Adjon meg egy paraméternevet."
+  },
+  "validateTooLong": {
+    "message": "Tartsa $$1 karakter alatt."
+  },
+  "validateLookaround": {
+    "message": "A lookaround nem engedélyezett."
+  },
+  "validateNested": {
+    "message": "Beágyazott kvantorok nem engedélyezettek (ReDoS-kockázat)."
+  },
+  "validateComplex": {
+    "message": "A regex túl összetett a biztonságos kiértékeléshez."
+  },
+  "validateBadRegex": {
+    "message": "Érvénytelen reguláris kifejezés."
+  },
+  "validateCharClass": {
+    "message": "Használjon betűket, számjegyeket, pontot, aláhúzást vagy kötőjelet."
+  }
+}

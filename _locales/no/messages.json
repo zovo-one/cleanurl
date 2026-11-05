@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Fjern sporing"
+  },
+  "extDesc": {
+    "message": "Fjerner diskret sporere fra lenkene du åpner, og pakker ut viderekoblinger. 100 % lokalt."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL mistet en tillatelse."
+  },
+  "popupDegradedRegrant": {
+    "message": "Gi den på nytt"
+  },
+  "popupDegradedResume": {
+    "message": "for å gjenoppta rensing."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Rensede lenker"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL er satt på pause"
+  },
+  "popupHeroResume": {
+    "message": "Slå på bryteren nedenfor for å gjenoppta rensing."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "renset i dag"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Rens lenker automatisk"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Deaktiver CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Aktiver CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Administrer tillatelsesliste & innstillinger"
+  },
+  "popupOpenSettings": {
+    "message": "Åpne CleanURL-innstillinger"
+  },
+  "popupUpgradeCta": {
+    "message": "Oppgrader til Pro — $$99 for alltid"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Oppgrader til CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Innstillinger"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-popup"
+  },
+  "popupFreeTierAria": {
+    "message": "Gratisnivå"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL kunne ikke starte. Prøv å åpne popup-vinduet på nytt."
+  },
+  "popupMasterToggleError": {
+    "message": "Kunne ikke endre hovedbryteren."
+  },
+  "optionsStatusActive": {
+    "message": "Aktiv"
+  },
+  "optionsStatusPaused": {
+    "message": "På pause"
+  },
+  "optionsPauseGlobally": {
+    "message": "Sett på pause globalt"
+  },
+  "optionsEnableGlobally": {
+    "message": "Aktiver globalt"
+  },
+  "optionsPauseAria": {
+    "message": "Sett CleanURL på pause globalt"
+  },
+  "optionsEnableAria": {
+    "message": "Aktiver CleanURL globalt"
+  },
+  "optionsSidebarAria": {
+    "message": "Innstillingsseksjoner"
+  },
+  "optionsNavAria": {
+    "message": "Innstillinger"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Hovedbryter for rensing"
+  },
+  "optionsCuratedAria": {
+    "message": "Kuraterte regelsett"
+  },
+  "optionsCustomAria": {
+    "message": "Egendefinerte regler"
+  },
+  "optionsDataAria": {
+    "message": "Dataeksport"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL-innstillingene kunne ikke lastes. Prøv å laste siden på nytt."
+  },
+  "tabAllowlist": {
+    "message": "Tillatelsesliste"
+  },
+  "tabRules": {
+    "message": "Regler"
+  },
+  "tabLicense": {
+    "message": "Lisens"
+  },
+  "eyebrowSites": {
+    "message": "Nettsteder unntatt fra rensing"
+  },
+  "eyebrowRules": {
+    "message": "Renseregler"
+  },
+  "eyebrowPlan": {
+    "message": "Abonnement & lisens"
+  },
+  "eyebrowCustom": {
+    "message": "Egendefinerte parameterregler"
+  },
+  "eyebrowYourData": {
+    "message": "Dine data"
+  },
+  "eyebrowLinks": {
+    "message": "Lenker"
+  },
+  "eyebrowHaveKey": {
+    "message": "Har du en lisensnøkkel?"
+  },
+  "allowlistTitle": {
+    "message": "Tillatelsesliste"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL rører ingen URL på disse nettstedene."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Gratisnivået tillater opptil $$2 nettsteder — $$1 av $$2 brukt."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-nivå — ubegrenset antall nettsteder."
+  },
+  "allowlistInputLabel": {
+    "message": "Vertsnavn (f.eks. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Legg til"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktiv ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Ingen nettsteder unntatt ennå"
+  },
+  "allowlistEmptyBody": {
+    "message": "Legg til et vertsnavn ovenfor for å hoppe over rensing på det nettstedet."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Fjern"
+  },
+  "allowlistRemoveAria": {
+    "message": "Fjern $$1 fra tillatelseslisten"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inaktiv (Forny Pro for å reaktivere)"
+  },
+  "allowlistColdBadge": {
+    "message": "Kald"
+  },
+  "errHostnameRequired": {
+    "message": "Skriv inn et vertsnavn."
+  },
+  "errHostnameInvalid": {
+    "message": "Skriv inn et gyldig vertsnavn (f.eks. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 er allerede på tillatelseslisten."
+  },
+  "errFreeCap": {
+    "message": "Gratisnivået er begrenset til $$1 nettsteder. Oppgrader til Pro for ubegrenset."
+  },
+  "flashFreeCap": {
+    "message": "Gratisnivået er begrenset til $$1 nettsteder. Oppgrader til Pro for ubegrenset."
+  },
+  "errCouldNotAdd": {
+    "message": "Kunne ikke legge til $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Kunne ikke fjerne $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Kunne ikke legge til $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Kunne ikke fjerne $$1."
+  },
+  "rulesTitle": {
+    "message": "Regler"
+  },
+  "rulesIntro": {
+    "message": "Slå de kuraterte regelsettene CleanURL bruker av og på. Legg til dine egne parameternavn (eller regex) med Pro."
+  },
+  "rulesCoreName": {
+    "message": "Kjerneregelsett"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 forsiktige fjern- og utpakkingsregler. Alltid på."
+  },
+  "rulesCoreBadge": {
+    "message": "PÅ"
+  },
+  "rulesExtendedName": {
+    "message": "Utvidet regelsett"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 aggressive regler: affiliate-tagger, markedsførings-ID-er."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Slå utvidet regelsett av/på"
+  },
+  "rulesCustomDesc": {
+    "message": "Fjern et bokstavelig parameternavn (f.eks. mkt_tok) eller et regex-prefiks (f.eks. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameternavn eller regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Behandle inndata som regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Legg til regel"
+  },
+  "rulesEmptyList": {
+    "message": "Ingen egendefinerte regler ennå."
+  },
+  "rulesDeleteBtn": {
+    "message": "Slett"
+  },
+  "rulesDeleteAria": {
+    "message": "Slett regel $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "bokstavelig"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Eksporter innstillingene, tillatelseslisten og historikken over rensede lenker som JSON. Alle data forblir kun på denne enheten."
+  },
+  "exportBtn": {
+    "message": "Eksporter data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Personvernerklæring"
+  },
+  "linkSupport": {
+    "message": "Kundestøtte"
+  },
+  "licenseTitle": {
+    "message": "Lisens"
+  },
+  "licenseIntro": {
+    "message": "CleanURL er gratis for alltid. Pro legger til det utvidede regelsettet, egendefinerte regler og en ubegrenset tillatelsesliste."
+  },
+  "licenseCurrentAria": {
+    "message": "Nåværende abonnement"
+  },
+  "licensePlanPro": {
+    "message": "Pro — for alltid"
+  },
+  "licensePlanTrial": {
+    "message": "Prøveperiode — 7 dager"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Takk. Alle Pro-funksjoner er låst opp."
+  },
+  "licenseMsgTrial": {
+    "message": "Du er på en prøveperiode uten kort. Oppgrader når som helst."
+  },
+  "licenseMsgFree": {
+    "message": "Oppgrader for å låse opp det utvidede regelsettet, egendefinerte regler og ubegrenset tillatelsesliste."
+  },
+  "licenseKeyLabel": {
+    "message": "Lisensnøkkel"
+  },
+  "licenseKeyAria": {
+    "message": "Skriv inn lisensnøkkel"
+  },
+  "licenseVerify": {
+    "message": "Bekreft"
+  },
+  "licenseVerifying": {
+    "message": "Bekrefter…"
+  },
+  "licenseTrialTitle": {
+    "message": "Start 7-dagers gratis prøveperiode"
+  },
+  "licenseTrialBody": {
+    "message": "Ingen kort, ingen konto. Låser opp det utvidede regelsettet, egendefinerte regler og ubegrenset tillatelsesliste i 7 dager."
+  },
+  "licenseTrialStart": {
+    "message": "Start gratis prøveperiode"
+  },
+  "licenseTrialStarting": {
+    "message": "Starter…"
+  },
+  "flashExtendedLocked": {
+    "message": "Det utvidede regelsettet er en Pro-funksjon. Start en prøveperiode eller oppgrader først."
+  },
+  "flashExtendedOn": {
+    "message": "Utvidet regelsett aktivert."
+  },
+  "flashExtendedOff": {
+    "message": "Utvidet regelsett deaktivert."
+  },
+  "flashCustomLocked": {
+    "message": "Egendefinerte regler er en Pro-funksjon. Start en prøveperiode eller oppgrader."
+  },
+  "flashDynCap": {
+    "message": "Grensen for dynamiske regler er nådd. Slett en for å legge til en annen."
+  },
+  "flashBadRegex": {
+    "message": "Den regex-en ble avvist."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Kunne ikke legge til regel."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Kunne ikke slette regel $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Lisensnøkler har minst 8 tegn."
+  },
+  "flashKeyOk": {
+    "message": "Lisens bekreftet. Pro-funksjoner låst opp."
+  },
+  "flashKeyFmt": {
+    "message": "Nøkkelformatet er for kort."
+  },
+  "flashKeyRate": {
+    "message": "For mange forsøk. Vent ett minutt."
+  },
+  "flashKeyNetwork": {
+    "message": "Nettverksfeil. Prøv igjen."
+  },
+  "flashKeyTimeout": {
+    "message": "Bekreftelsen fikk tidsavbrudd."
+  },
+  "flashKeyServer": {
+    "message": "Serverfeil ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Lisensnøkkel ikke gjenkjent."
+  },
+  "flashTrialStarted": {
+    "message": "7-dagers prøveperiode startet. Pro-funksjoner låst opp."
+  },
+  "flashTrialUsed": {
+    "message": "Du har allerede brukt 7-dagers prøveperioden."
+  },
+  "flashTrialFailed": {
+    "message": "Kunne ikke starte prøveperioden. Prøv igjen."
+  },
+  "validateRequired": {
+    "message": "Skriv inn et parameternavn."
+  },
+  "validateTooLong": {
+    "message": "Hold det under $$1 tegn."
+  },
+  "validateLookaround": {
+    "message": "Lookaround er ikke tillatt."
+  },
+  "validateNested": {
+    "message": "Nøstede kvantifikatorer er ikke tillatt (ReDoS-risiko)."
+  },
+  "validateComplex": {
+    "message": "Denne regex-en er for kompleks til å evalueres trygt."
+  },
+  "validateBadRegex": {
+    "message": "Ugyldig regulært uttrykk."
+  },
+  "validateCharClass": {
+    "message": "Bruk bokstaver, tall, punktum, understrek eller bindestrek."
+  }
+}

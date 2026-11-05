@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "మీరు తెరిచే లింక్‌ల నుండి ట్రాకర్‌లను నిశ్శబ్దంగా తొలగిస్తుంది, రీడైరెక్ట్ షార్ట్‌కట్‌లను విప్పుతుంది. 100% లోకల్."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL ఒక అనుమతిని కోల్పోయింది."
+  },
+  "popupDegradedRegrant": {
+    "message": "దాన్ని మళ్లీ మంజూరు చేయండి"
+  },
+  "popupDegradedResume": {
+    "message": "శుభ్రపరచడం కొనసాగించడానికి."
+  },
+  "popupHeroLabelLinks": {
+    "message": "శుభ్రం చేసిన లింక్‌లు"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL పాజ్ చేయబడింది"
+  },
+  "popupHeroResume": {
+    "message": "శుభ్రపరచడం కొనసాగించడానికి కింది టోగుల్‌ను మార్చండి."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "ఈరోజు శుభ్రం చేయబడ్డాయి"
+  },
+  "popupMasterToggleLabel": {
+    "message": "లింక్‌లను స్వయంచాలకంగా శుభ్రపరచండి"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL నిలిపివేయండి"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL ప్రారంభించండి"
+  },
+  "popupManageSettings": {
+    "message": "అనుమతి జాబితా & సెట్టింగ్‌లను నిర్వహించండి"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL సెట్టింగ్‌లను తెరవండి"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro కు అప్‌గ్రేడ్ చేయండి — $$99 జీవితకాలం"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro కు అప్‌గ్రేడ్ చేయండి"
+  },
+  "popupSettingsLink": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "popupRootAria": {
+    "message": "CleanURL పాపప్"
+  },
+  "popupFreeTierAria": {
+    "message": "ఉచిత శ్రేణి"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ప్రారంభించలేకపోయింది. పాపప్‌ను మళ్లీ తెరవడానికి ప్రయత్నించండి."
+  },
+  "popupMasterToggleError": {
+    "message": "మాస్టర్ టోగుల్‌ను మార్చలేకపోయింది."
+  },
+  "optionsStatusActive": {
+    "message": "సక్రియం"
+  },
+  "optionsStatusPaused": {
+    "message": "పాజ్ చేయబడింది"
+  },
+  "optionsPauseGlobally": {
+    "message": "అన్నిచోట్లా పాజ్ చేయండి"
+  },
+  "optionsEnableGlobally": {
+    "message": "అన్నిచోట్లా ప్రారంభించండి"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL ను అన్నిచోట్లా పాజ్ చేయండి"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL ను అన్నిచోట్లా ప్రారంభించండి"
+  },
+  "optionsSidebarAria": {
+    "message": "సెట్టింగ్‌ల విభాగాలు"
+  },
+  "optionsNavAria": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "optionsMasterToggleAria": {
+    "message": "మాస్టర్ శుభ్రపరచు టోగుల్"
+  },
+  "optionsCuratedAria": {
+    "message": "క్యూరేటెడ్ రూల్‌సెట్‌లు"
+  },
+  "optionsCustomAria": {
+    "message": "అనుకూల నియమాలు"
+  },
+  "optionsDataAria": {
+    "message": "డేటా ఎగుమతి"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL సెట్టింగ్‌లు లోడ్ కాలేదు. పేజీని మళ్లీ లోడ్ చేయడానికి ప్రయత్నించండి."
+  },
+  "tabAllowlist": {
+    "message": "అనుమతి జాబితా"
+  },
+  "tabRules": {
+    "message": "నియమాలు"
+  },
+  "tabLicense": {
+    "message": "లైసెన్స్"
+  },
+  "eyebrowSites": {
+    "message": "శుభ్రపరచడం నుండి మినహాయించిన సైట్‌లు"
+  },
+  "eyebrowRules": {
+    "message": "శుభ్రపరచు నియమాలు"
+  },
+  "eyebrowPlan": {
+    "message": "ప్లాన్ & లైసెన్స్"
+  },
+  "eyebrowCustom": {
+    "message": "అనుకూల పరామితి నియమాలు"
+  },
+  "eyebrowYourData": {
+    "message": "మీ డేటా"
+  },
+  "eyebrowLinks": {
+    "message": "లింక్‌లు"
+  },
+  "eyebrowHaveKey": {
+    "message": "లైసెన్స్ కీ ఉందా?"
+  },
+  "allowlistTitle": {
+    "message": "అనుమతి జాబితా"
+  },
+  "allowlistIntro": {
+    "message": "ఈ సైట్‌లలోని ఏ URLను CleanURL తాకదు."
+  },
+  "allowlistCapUsageFree": {
+    "message": "ఉచిత శ్రేణి $$2 సైట్‌ల వరకు అనుమతిస్తుంది — $$2 లో $$1 ఉపయోగించబడ్డాయి."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro శ్రేణి — అపరిమిత సైట్‌లు."
+  },
+  "allowlistInputLabel": {
+    "message": "హోస్ట్‌నేమ్ (ఉదా. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "జోడించు"
+  },
+  "allowlistActiveLabel": {
+    "message": "సక్రియం ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "ఇంకా ఏ సైట్‌లూ మినహాయించబడలేదు"
+  },
+  "allowlistEmptyBody": {
+    "message": "ఆ సైట్‌లో శుభ్రపరచడాన్ని దాటవేయడానికి పైన హోస్ట్‌నేమ్‌ను జోడించండి."
+  },
+  "allowlistRemoveBtn": {
+    "message": "తొలగించు"
+  },
+  "allowlistRemoveAria": {
+    "message": "అనుమతి జాబితా నుండి $$1 ను తొలగించు"
+  },
+  "allowlistInactiveLabel": {
+    "message": "నిష్క్రియం (మళ్లీ సక్రియం చేయడానికి Pro కు తిరిగి చేరండి)"
+  },
+  "allowlistColdBadge": {
+    "message": "కోల్డ్"
+  },
+  "errHostnameRequired": {
+    "message": "హోస్ట్‌నేమ్‌ను నమోదు చేయండి."
+  },
+  "errHostnameInvalid": {
+    "message": "చెల్లుబాటు అయ్యే హోస్ట్‌నేమ్‌ను నమోదు చేయండి (ఉదా. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ఇప్పటికే అనుమతి జాబితాలో ఉంది."
+  },
+  "errFreeCap": {
+    "message": "ఉచిత శ్రేణి $$1 సైట్‌లకు పరిమితం. అపరిమితం కోసం Pro కు అప్‌గ్రేడ్ చేయండి."
+  },
+  "flashFreeCap": {
+    "message": "ఉచిత శ్రేణి $$1 సైట్‌లకు పరిమితం చేయబడింది. అపరిమితం కోసం Pro కు అప్‌గ్రేడ్ చేయండి."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 ను జోడించలేకపోయింది."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 ను తొలగించలేకపోయింది."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 ను జోడించలేకపోయింది."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 ను తొలగించలేకపోయింది."
+  },
+  "rulesTitle": {
+    "message": "నియమాలు"
+  },
+  "rulesIntro": {
+    "message": "CleanURL ఉపయోగించే క్యూరేటెడ్ రూల్‌సెట్‌లను టోగుల్ చేయండి. Pro లో మీ స్వంత పరామితి పేర్లను (లేదా regexలను) జోడించండి."
+  },
+  "rulesCoreName": {
+    "message": "కోర్ రూల్‌సెట్"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 సంప్రదాయ తొలగింపు + విప్పు నియమాలు. ఎల్లప్పుడూ ఆన్."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "విస్తరించిన రూల్‌సెట్"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 దూకుడు నియమాలు: అనుబంధ ట్యాగ్‌లు, మార్కెటింగ్ IDలు."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "విస్తరించిన రూల్‌సెట్‌ను టోగుల్ చేయండి"
+  },
+  "rulesCustomDesc": {
+    "message": "అక్షరాలా పరామితి పేరును (ఉదా. mkt_tok) లేదా regex ఉపసర్గను (ఉదా. ^ig_) తొలగించండి."
+  },
+  "rulesParamLabel": {
+    "message": "పరామితి పేరు లేదా regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ఇన్‌పుట్‌ను regex గా పరిగణించండి"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "నియమాన్ని జోడించు"
+  },
+  "rulesEmptyList": {
+    "message": "ఇంకా అనుకూల నియమాలు లేవు."
+  },
+  "rulesDeleteBtn": {
+    "message": "తొలగించు"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 నియమాన్ని తొలగించు"
+  },
+  "rulesLiteralKind": {
+    "message": "అక్షరాలా"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "మీ సెట్టింగ్‌లు, అనుమతి జాబితా మరియు శుభ్రం చేసిన లింక్‌ల చరిత్రను JSON గా ఎగుమతి చేయండి. మొత్తం డేటా ఈ పరికరంలో మాత్రమే ఉంటుంది."
+  },
+  "exportBtn": {
+    "message": "డేటాను ఎగుమతి చేయండి (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "గోప్యతా విధానం"
+  },
+  "linkSupport": {
+    "message": "మద్దతు"
+  },
+  "licenseTitle": {
+    "message": "లైసెన్స్"
+  },
+  "licenseIntro": {
+    "message": "CleanURL ఎప్పటికీ ఉచితం. Pro విస్తరించిన రూల్‌సెట్, అనుకూల నియమాలు మరియు అపరిమిత అనుమతి జాబితాను జోడిస్తుంది."
+  },
+  "licenseCurrentAria": {
+    "message": "ప్రస్తుత ప్లాన్"
+  },
+  "licensePlanPro": {
+    "message": "Pro — జీవితకాలం"
+  },
+  "licensePlanTrial": {
+    "message": "ట్రయల్ — 7 రోజులు"
+  },
+  "licensePlanFree": {
+    "message": "ఉచితం"
+  },
+  "licenseMsgPro": {
+    "message": "ధన్యవాదాలు. అన్ని Pro ఫీచర్‌లు అన్‌లాక్ చేయబడ్డాయి."
+  },
+  "licenseMsgTrial": {
+    "message": "మీరు కార్డు అవసరం లేని ట్రయల్‌లో ఉన్నారు. ఎప్పుడైనా అప్‌గ్రేడ్ చేయండి."
+  },
+  "licenseMsgFree": {
+    "message": "విస్తరించిన రూల్‌సెట్, అనుకూల నియమాలు మరియు అపరిమిత అనుమతి జాబితాను అన్‌లాక్ చేయడానికి అప్‌గ్రేడ్ చేయండి."
+  },
+  "licenseKeyLabel": {
+    "message": "లైసెన్స్ కీ"
+  },
+  "licenseKeyAria": {
+    "message": "లైసెన్స్ కీని నమోదు చేయండి"
+  },
+  "licenseVerify": {
+    "message": "ధృవీకరించు"
+  },
+  "licenseVerifying": {
+    "message": "ధృవీకరిస్తోంది…"
+  },
+  "licenseTrialTitle": {
+    "message": "7-రోజుల ఉచిత ట్రయల్‌ను ప్రారంభించండి"
+  },
+  "licenseTrialBody": {
+    "message": "కార్డు లేదు, ఖాతా లేదు. విస్తరించిన రూల్‌సెట్, అనుకూల నియమాలు మరియు అపరిమిత అనుమతి జాబితాను 7 రోజుల పాటు అన్‌లాక్ చేస్తుంది."
+  },
+  "licenseTrialStart": {
+    "message": "ఉచిత ట్రయల్‌ను ప్రారంభించండి"
+  },
+  "licenseTrialStarting": {
+    "message": "ప్రారంభిస్తోంది…"
+  },
+  "flashExtendedLocked": {
+    "message": "విస్తరించిన రూల్‌సెట్ ఒక Pro ఫీచర్. ముందుగా ట్రయల్‌ను ప్రారంభించండి లేదా అప్‌గ్రేడ్ చేయండి."
+  },
+  "flashExtendedOn": {
+    "message": "విస్తరించిన రూల్‌సెట్ ప్రారంభించబడింది."
+  },
+  "flashExtendedOff": {
+    "message": "విస్తరించిన రూల్‌సెట్ నిలిపివేయబడింది."
+  },
+  "flashCustomLocked": {
+    "message": "అనుకూల నియమాలు ఒక Pro ఫీచర్. ట్రయల్‌ను ప్రారంభించండి లేదా అప్‌గ్రేడ్ చేయండి."
+  },
+  "flashDynCap": {
+    "message": "డైనమిక్-నియమ పరిమితి చేరుకుంది. మరొకటి జోడించడానికి ఒకదాన్ని తొలగించండి."
+  },
+  "flashBadRegex": {
+    "message": "ఆ regex తిరస్కరించబడింది."
+  },
+  "flashCouldNotAddRule": {
+    "message": "నియమాన్ని జోడించలేకపోయింది."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "$$1 నియమాన్ని తొలగించలేకపోయింది."
+  },
+  "flashKeyTooShort": {
+    "message": "లైసెన్స్ కీలు కనీసం 8 అక్షరాలు ఉంటాయి."
+  },
+  "flashKeyOk": {
+    "message": "లైసెన్స్ ధృవీకరించబడింది. Pro ఫీచర్‌లు అన్‌లాక్ చేయబడ్డాయి."
+  },
+  "flashKeyFmt": {
+    "message": "కీ ఆకృతి చాలా చిన్నది."
+  },
+  "flashKeyRate": {
+    "message": "చాలా ప్రయత్నాలు. ఒక నిమిషం వేచి ఉండండి."
+  },
+  "flashKeyNetwork": {
+    "message": "నెట్‌వర్క్ లోపం. మళ్లీ ప్రయత్నించండి."
+  },
+  "flashKeyTimeout": {
+    "message": "ధృవీకరణ గడువు ముగిసింది."
+  },
+  "flashKeyServer": {
+    "message": "సర్వర్ లోపం ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "లైసెన్స్ కీ గుర్తించబడలేదు."
+  },
+  "flashTrialStarted": {
+    "message": "7-రోజుల ట్రయల్ ప్రారంభమైంది. Pro ఫీచర్‌లు అన్‌లాక్ చేయబడ్డాయి."
+  },
+  "flashTrialUsed": {
+    "message": "మీరు ఇప్పటికే 7-రోజుల ట్రయల్‌ను ఉపయోగించారు."
+  },
+  "flashTrialFailed": {
+    "message": "ట్రయల్‌ను ప్రారంభించలేకపోయింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+  },
+  "validateRequired": {
+    "message": "పరామితి పేరును నమోదు చేయండి."
+  },
+  "validateTooLong": {
+    "message": "దీన్ని $$1 అక్షరాల లోపు ఉంచండి."
+  },
+  "validateLookaround": {
+    "message": "లుకరౌండ్ అనుమతించబడదు."
+  },
+  "validateNested": {
+    "message": "సమూహ పరిమాణకాలు అనుమతించబడవు (ReDoS ప్రమాదం)."
+  },
+  "validateComplex": {
+    "message": "regex సురక్షితంగా మూల్యాంకనం చేయడానికి చాలా సంక్లిష్టంగా ఉంది."
+  },
+  "validateBadRegex": {
+    "message": "చెల్లని రెగ్యులర్ ఎక్స్‌ప్రెషన్."
+  },
+  "validateCharClass": {
+    "message": "అక్షరాలు, అంకెలు, చుక్క, అండర్‌స్కోర్ లేదా హైఫన్‌ను ఉపయోగించండి."
+  }
+}

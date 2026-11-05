@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Strip Tracking"
+  },
+  "extDesc": {
+    "message": "Quietly strips tracking tags from links you open. 100% local."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL lost a permission."
+  },
+  "popupDegradedRegrant": {
+    "message": "Re-grant it"
+  },
+  "popupDegradedResume": {
+    "message": "to resume cleaning."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Links cleaned"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL is paused"
+  },
+  "popupHeroResume": {
+    "message": "Flip the toggle below to resume cleaning."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "cleaned today"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Clean links automatically"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Disable CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Enable CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Manage allowlist & settings"
+  },
+  "popupOpenSettings": {
+    "message": "Open CleanURL settings"
+  },
+  "popupUpgradeCta": {
+    "message": "Upgrade to Pro — $$99 lifetime"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Upgrade to CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Settings"
+  },
+  "popupRootAria": {
+    "message": "CleanURL popup"
+  },
+  "popupFreeTierAria": {
+    "message": "Free tier"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL could not start. Try reopening the popup."
+  },
+  "popupMasterToggleError": {
+    "message": "Could not change the master toggle."
+  },
+  "optionsStatusActive": {
+    "message": "Active"
+  },
+  "optionsStatusPaused": {
+    "message": "Paused"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pause globally"
+  },
+  "optionsEnableGlobally": {
+    "message": "Enable globally"
+  },
+  "optionsPauseAria": {
+    "message": "Pause CleanURL globally"
+  },
+  "optionsEnableAria": {
+    "message": "Enable CleanURL globally"
+  },
+  "optionsSidebarAria": {
+    "message": "Settings sections"
+  },
+  "optionsNavAria": {
+    "message": "Settings"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Master clean toggle"
+  },
+  "optionsCuratedAria": {
+    "message": "Curated rulesets"
+  },
+  "optionsCustomAria": {
+    "message": "Custom rules"
+  },
+  "optionsDataAria": {
+    "message": "Data export"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL settings could not load. Try reloading the page."
+  },
+  "tabAllowlist": {
+    "message": "Allowlist"
+  },
+  "tabRules": {
+    "message": "Rules"
+  },
+  "tabLicense": {
+    "message": "License"
+  },
+  "eyebrowSites": {
+    "message": "Sites exempt from cleaning"
+  },
+  "eyebrowRules": {
+    "message": "Cleaning rules"
+  },
+  "eyebrowPlan": {
+    "message": "Plan & license"
+  },
+  "eyebrowCustom": {
+    "message": "Custom parameter rules"
+  },
+  "eyebrowYourData": {
+    "message": "Your data"
+  },
+  "eyebrowLinks": {
+    "message": "Links"
+  },
+  "eyebrowHaveKey": {
+    "message": "Have a license key?"
+  },
+  "allowlistTitle": {
+    "message": "Allowlist"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL will not touch any URL on these sites."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Free tier allows up to $$2 sites — $$1 of $$2 used."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro tier — unlimited sites."
+  },
+  "allowlistInputLabel": {
+    "message": "Hostname (e.g. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Add"
+  },
+  "allowlistActiveLabel": {
+    "message": "Active ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "No sites exempted yet"
+  },
+  "allowlistEmptyBody": {
+    "message": "Add a hostname above to skip cleaning on that site."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Remove"
+  },
+  "allowlistRemoveAria": {
+    "message": "Remove $$1 from allowlist"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inactive (Rejoin Pro to reactivate)"
+  },
+  "allowlistColdBadge": {
+    "message": "Cold"
+  },
+  "errHostnameRequired": {
+    "message": "Enter a hostname."
+  },
+  "errHostnameInvalid": {
+    "message": "Enter a valid hostname (e.g. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 is already allowlisted."
+  },
+  "errFreeCap": {
+    "message": "Free tier caps at $$1 sites. Upgrade to Pro for unlimited."
+  },
+  "flashFreeCap": {
+    "message": "Free tier is capped at $$1 sites. Upgrade to Pro for unlimited."
+  },
+  "errCouldNotAdd": {
+    "message": "Could not add $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Could not remove $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Could not add $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Could not remove $$1."
+  },
+  "rulesTitle": {
+    "message": "Rules"
+  },
+  "rulesIntro": {
+    "message": "Toggle the curated rulesets CleanURL uses. Add your own parameter names (or regexes) on Pro."
+  },
+  "rulesCoreName": {
+    "message": "Core ruleset"
+  },
+  "rulesCoreDesc": {
+    "message": "Conservative rules that strip the most common tracking parameters. Always on."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Extended ruleset"
+  },
+  "rulesExtendedDesc": {
+    "message": "Aggressive rules targeting affiliate tags and marketing IDs."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Toggle extended ruleset"
+  },
+  "rulesCustomDesc": {
+    "message": "Strip a literal parameter name (e.g. mkt_tok) or a regex prefix (e.g. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameter name or regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Treat input as regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Add rule"
+  },
+  "rulesEmptyList": {
+    "message": "No custom rules yet."
+  },
+  "rulesDeleteBtn": {
+    "message": "Delete"
+  },
+  "rulesDeleteAria": {
+    "message": "Delete rule $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "literal"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Export your settings, allowlist, and cleaned-link history as JSON. All data lives only on this device."
+  },
+  "exportBtn": {
+    "message": "Export data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privacy policy"
+  },
+  "linkSupport": {
+    "message": "Support"
+  },
+  "licenseTitle": {
+    "message": "License"
+  },
+  "licenseIntro": {
+    "message": "CleanURL is free forever. Pro adds the extended ruleset, custom rules, and an unlimited allowlist."
+  },
+  "licenseCurrentAria": {
+    "message": "Current plan"
+  },
+  "licensePlanPro": {
+    "message": "Pro — lifetime"
+  },
+  "licensePlanTrial": {
+    "message": "Trial — 7 days"
+  },
+  "licensePlanFree": {
+    "message": "Free"
+  },
+  "licenseMsgPro": {
+    "message": "Thank you. All Pro features unlocked."
+  },
+  "licenseMsgTrial": {
+    "message": "You are on a no-card trial. Upgrade any time."
+  },
+  "licenseMsgFree": {
+    "message": "Upgrade to unlock the extended ruleset, custom rules, and unlimited allowlist."
+  },
+  "licenseKeyLabel": {
+    "message": "License key"
+  },
+  "licenseKeyAria": {
+    "message": "Enter license key"
+  },
+  "licenseVerify": {
+    "message": "Verify"
+  },
+  "licenseVerifying": {
+    "message": "Verifying…"
+  },
+  "licenseTrialTitle": {
+    "message": "Start 7-day free trial"
+  },
+  "licenseTrialBody": {
+    "message": "No card, no account. Unlocks the extended ruleset, custom rules, and unlimited allowlist for 7 days."
+  },
+  "licenseTrialStart": {
+    "message": "Start free trial"
+  },
+  "licenseTrialStarting": {
+    "message": "Starting…"
+  },
+  "flashExtendedLocked": {
+    "message": "Extended ruleset is a Pro feature. Start a trial or upgrade first."
+  },
+  "flashExtendedOn": {
+    "message": "Extended ruleset enabled."
+  },
+  "flashExtendedOff": {
+    "message": "Extended ruleset disabled."
+  },
+  "flashCustomLocked": {
+    "message": "Custom rules are a Pro feature. Start a trial or upgrade."
+  },
+  "flashDynCap": {
+    "message": "Dynamic-rule limit reached. Delete one to add another."
+  },
+  "flashBadRegex": {
+    "message": "That regex was rejected."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Could not add rule."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Could not delete rule $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "License keys are at least 8 characters."
+  },
+  "flashKeyOk": {
+    "message": "License verified. Pro features unlocked."
+  },
+  "flashKeyFmt": {
+    "message": "Key format is too short."
+  },
+  "flashKeyRate": {
+    "message": "Too many attempts. Wait a minute."
+  },
+  "flashKeyNetwork": {
+    "message": "Network error. Try again."
+  },
+  "flashKeyTimeout": {
+    "message": "Verification timed out."
+  },
+  "flashKeyServer": {
+    "message": "Server error ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "License key not recognized."
+  },
+  "flashTrialStarted": {
+    "message": "7-day trial started. Pro features unlocked."
+  },
+  "flashTrialUsed": {
+    "message": "You have already used the 7-day trial."
+  },
+  "flashTrialFailed": {
+    "message": "Could not start trial. Please try again."
+  },
+  "validateRequired": {
+    "message": "Enter a parameter name."
+  },
+  "validateTooLong": {
+    "message": "Keep it under $$1 characters."
+  },
+  "validateLookaround": {
+    "message": "Lookaround is not allowed."
+  },
+  "validateNested": {
+    "message": "Nested quantifiers are not allowed (ReDoS risk)."
+  },
+  "validateComplex": {
+    "message": "Regex is too complex to evaluate safely."
+  },
+  "validateBadRegex": {
+    "message": "Invalid regular expression."
+  },
+  "validateCharClass": {
+    "message": "Use letters, digits, dot, underscore, or hyphen."
+  }
+}

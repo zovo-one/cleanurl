@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — トラッキング除去"
+  },
+  "extDesc": {
+    "message": "開くリンクからトラッカーを静かに除去し、リダイレクトの短縮リンクを展開します。100% ローカルで動作。"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL は権限を失いました。"
+  },
+  "popupDegradedRegrant": {
+    "message": "再付与する"
+  },
+  "popupDegradedResume": {
+    "message": "してクリーニングを再開します。"
+  },
+  "popupHeroLabelLinks": {
+    "message": "クリーニング済みリンク"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL は一時停止中"
+  },
+  "popupHeroResume": {
+    "message": "下のトグルを切り替えてクリーニングを再開します。"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "件を本日クリーニング"
+  },
+  "popupMasterToggleLabel": {
+    "message": "リンクを自動的にクリーニング"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL を無効化"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL を有効化"
+  },
+  "popupManageSettings": {
+    "message": "許可リストと設定を管理"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL の設定を開く"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro にアップグレード — $$99 買い切り"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro にアップグレード"
+  },
+  "popupSettingsLink": {
+    "message": "設定"
+  },
+  "popupRootAria": {
+    "message": "CleanURL ポップアップ"
+  },
+  "popupFreeTierAria": {
+    "message": "無料プラン"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL を起動できませんでした。ポップアップを開き直してください。"
+  },
+  "popupMasterToggleError": {
+    "message": "マスタートグルを切り替えできませんでした。"
+  },
+  "optionsStatusActive": {
+    "message": "有効"
+  },
+  "optionsStatusPaused": {
+    "message": "一時停止中"
+  },
+  "optionsPauseGlobally": {
+    "message": "全体で一時停止"
+  },
+  "optionsEnableGlobally": {
+    "message": "全体で有効化"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL を全体で一時停止"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL を全体で有効化"
+  },
+  "optionsSidebarAria": {
+    "message": "設定セクション"
+  },
+  "optionsNavAria": {
+    "message": "設定"
+  },
+  "optionsMasterToggleAria": {
+    "message": "マスタークリーニングトグル"
+  },
+  "optionsCuratedAria": {
+    "message": "厳選ルールセット"
+  },
+  "optionsCustomAria": {
+    "message": "カスタムルール"
+  },
+  "optionsDataAria": {
+    "message": "データのエクスポート"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL の設定を読み込めませんでした。ページを再読み込みしてください。"
+  },
+  "tabAllowlist": {
+    "message": "許可リスト"
+  },
+  "tabRules": {
+    "message": "ルール"
+  },
+  "tabLicense": {
+    "message": "ライセンス"
+  },
+  "eyebrowSites": {
+    "message": "クリーニングを除外するサイト"
+  },
+  "eyebrowRules": {
+    "message": "クリーニングルール"
+  },
+  "eyebrowPlan": {
+    "message": "プランとライセンス"
+  },
+  "eyebrowCustom": {
+    "message": "カスタムパラメータールール"
+  },
+  "eyebrowYourData": {
+    "message": "あなたのデータ"
+  },
+  "eyebrowLinks": {
+    "message": "リンク"
+  },
+  "eyebrowHaveKey": {
+    "message": "ライセンスキーをお持ちですか？"
+  },
+  "allowlistTitle": {
+    "message": "許可リスト"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL はこれらのサイト上のいかなる URL にも手を加えません。"
+  },
+  "allowlistCapUsageFree": {
+    "message": "無料プランは最大 $$2 サイトまで — $$2 中 $$1 使用中。"
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro プラン — サイト数は無制限。"
+  },
+  "allowlistInputLabel": {
+    "message": "ホスト名（例: shop.example.com）"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "追加"
+  },
+  "allowlistActiveLabel": {
+    "message": "有効（$$1）"
+  },
+  "allowlistEmptyTitle": {
+    "message": "除外したサイトはまだありません"
+  },
+  "allowlistEmptyBody": {
+    "message": "上でホスト名を追加すると、そのサイトでクリーニングをスキップします。"
+  },
+  "allowlistRemoveBtn": {
+    "message": "削除"
+  },
+  "allowlistRemoveAria": {
+    "message": "許可リストから $$1 を削除"
+  },
+  "allowlistInactiveLabel": {
+    "message": "無効（Pro に再加入して再有効化）"
+  },
+  "allowlistColdBadge": {
+    "message": "コールド"
+  },
+  "errHostnameRequired": {
+    "message": "ホスト名を入力してください。"
+  },
+  "errHostnameInvalid": {
+    "message": "有効なホスト名を入力してください（例: example.com）。"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 はすでに許可リストに登録されています。"
+  },
+  "errFreeCap": {
+    "message": "無料プランは $$1 サイトが上限です。Pro にアップグレードすると無制限になります。"
+  },
+  "flashFreeCap": {
+    "message": "無料プランは $$1 サイトが上限です。Pro にアップグレードすると無制限になります。"
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 を追加できませんでした。"
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 を削除できませんでした。"
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 を追加できませんでした。"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 を削除できませんでした。"
+  },
+  "rulesTitle": {
+    "message": "ルール"
+  },
+  "rulesIntro": {
+    "message": "CleanURL が使用する厳選ルールセットを切り替えます。Pro では独自のパラメーター名（または regex）を追加できます。"
+  },
+  "rulesCoreName": {
+    "message": "コアルールセット"
+  },
+  "rulesCoreDesc": {
+    "message": "約 120 件の保守的な除去 + 展開ルール。常に有効。"
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "拡張ルールセット"
+  },
+  "rulesExtendedDesc": {
+    "message": "約 300 件の積極的なルール: アフィリエイトタグ、マーケティング ID。"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "拡張ルールセットを切り替え"
+  },
+  "rulesCustomDesc": {
+    "message": "リテラルなパラメーター名（例: mkt_tok）または regex 接頭辞（例: ^ig_）を除去します。"
+  },
+  "rulesParamLabel": {
+    "message": "パラメーター名または regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "入力を regex として扱う"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "ルールを追加"
+  },
+  "rulesEmptyList": {
+    "message": "カスタムルールはまだありません。"
+  },
+  "rulesDeleteBtn": {
+    "message": "削除"
+  },
+  "rulesDeleteAria": {
+    "message": "ルール $$1 を削除"
+  },
+  "rulesLiteralKind": {
+    "message": "リテラル"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "設定、許可リスト、クリーニング済みリンク履歴を JSON としてエクスポートします。すべてのデータはこのデバイス上にのみ保存されます。"
+  },
+  "exportBtn": {
+    "message": "データをエクスポート（JSON）"
+  },
+  "linkPrivacy": {
+    "message": "プライバシーポリシー"
+  },
+  "linkSupport": {
+    "message": "サポート"
+  },
+  "licenseTitle": {
+    "message": "ライセンス"
+  },
+  "licenseIntro": {
+    "message": "CleanURL は永久に無料です。Pro では拡張ルールセット、カスタムルール、無制限の許可リストが追加されます。"
+  },
+  "licenseCurrentAria": {
+    "message": "現在のプラン"
+  },
+  "licensePlanPro": {
+    "message": "Pro — 買い切り"
+  },
+  "licensePlanTrial": {
+    "message": "トライアル — 7 日間"
+  },
+  "licensePlanFree": {
+    "message": "無料"
+  },
+  "licenseMsgPro": {
+    "message": "ありがとうございます。すべての Pro 機能がアンロックされました。"
+  },
+  "licenseMsgTrial": {
+    "message": "カード不要のトライアル中です。いつでもアップグレードできます。"
+  },
+  "licenseMsgFree": {
+    "message": "アップグレードして拡張ルールセット、カスタムルール、無制限の許可リストをアンロックしましょう。"
+  },
+  "licenseKeyLabel": {
+    "message": "ライセンスキー"
+  },
+  "licenseKeyAria": {
+    "message": "ライセンスキーを入力"
+  },
+  "licenseVerify": {
+    "message": "確認"
+  },
+  "licenseVerifying": {
+    "message": "確認中…"
+  },
+  "licenseTrialTitle": {
+    "message": "7 日間の無料トライアルを開始"
+  },
+  "licenseTrialBody": {
+    "message": "カード不要、アカウント不要。拡張ルールセット、カスタムルール、無制限の許可リストを 7 日間アンロックします。"
+  },
+  "licenseTrialStart": {
+    "message": "無料トライアルを開始"
+  },
+  "licenseTrialStarting": {
+    "message": "開始中…"
+  },
+  "flashExtendedLocked": {
+    "message": "拡張ルールセットは Pro 機能です。まずトライアルを開始するかアップグレードしてください。"
+  },
+  "flashExtendedOn": {
+    "message": "拡張ルールセットを有効にしました。"
+  },
+  "flashExtendedOff": {
+    "message": "拡張ルールセットを無効にしました。"
+  },
+  "flashCustomLocked": {
+    "message": "カスタムルールは Pro 機能です。トライアルを開始するかアップグレードしてください。"
+  },
+  "flashDynCap": {
+    "message": "動的ルールの上限に達しました。1 つ削除してから追加してください。"
+  },
+  "flashBadRegex": {
+    "message": "その regex は拒否されました。"
+  },
+  "flashCouldNotAddRule": {
+    "message": "ルールを追加できませんでした。"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "ルール $$1 を削除できませんでした。"
+  },
+  "flashKeyTooShort": {
+    "message": "ライセンスキーは 8 文字以上です。"
+  },
+  "flashKeyOk": {
+    "message": "ライセンスを確認しました。Pro 機能がアンロックされました。"
+  },
+  "flashKeyFmt": {
+    "message": "キーの形式が短すぎます。"
+  },
+  "flashKeyRate": {
+    "message": "試行回数が多すぎます。1 分お待ちください。"
+  },
+  "flashKeyNetwork": {
+    "message": "ネットワークエラー。もう一度お試しください。"
+  },
+  "flashKeyTimeout": {
+    "message": "確認がタイムアウトしました。"
+  },
+  "flashKeyServer": {
+    "message": "サーバーエラー（$$1）。"
+  },
+  "flashKeyUnknown": {
+    "message": "ライセンスキーが認識されませんでした。"
+  },
+  "flashTrialStarted": {
+    "message": "7 日間のトライアルを開始しました。Pro 機能がアンロックされました。"
+  },
+  "flashTrialUsed": {
+    "message": "7 日間のトライアルはすでに使用済みです。"
+  },
+  "flashTrialFailed": {
+    "message": "トライアルを開始できませんでした。もう一度お試しください。"
+  },
+  "validateRequired": {
+    "message": "パラメーター名を入力してください。"
+  },
+  "validateTooLong": {
+    "message": "$$1 文字以内にしてください。"
+  },
+  "validateLookaround": {
+    "message": "先読み・後読み（lookaround）は使用できません。"
+  },
+  "validateNested": {
+    "message": "入れ子の量指定子は使用できません（ReDoS リスク）。"
+  },
+  "validateComplex": {
+    "message": "Regex が複雑すぎて安全に評価できません。"
+  },
+  "validateBadRegex": {
+    "message": "無効な正規表現です。"
+  },
+  "validateCharClass": {
+    "message": "英字、数字、ドット、アンダースコア、またはハイフンを使用してください。"
+  }
+}

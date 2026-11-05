@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Trackers verwijderen"
+  },
+  "extDesc": {
+    "message": "Verwijdert stilletjes trackers uit de links die je opent, en pakt doorverwijzingen uit. 100% lokaal."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL heeft een machtiging verloren."
+  },
+  "popupDegradedRegrant": {
+    "message": "Opnieuw toekennen"
+  },
+  "popupDegradedResume": {
+    "message": "om het opschonen te hervatten."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Opgeschoonde links"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL is gepauzeerd"
+  },
+  "popupHeroResume": {
+    "message": "Zet de schakelaar hieronder om om het opschonen te hervatten."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "vandaag opgeschoond"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Links automatisch opschonen"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL uitschakelen"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL inschakelen"
+  },
+  "popupManageSettings": {
+    "message": "Toegestane lijst & instellingen beheren"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL-instellingen openen"
+  },
+  "popupUpgradeCta": {
+    "message": "Upgraden naar Pro — $$99 levenslang"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Upgraden naar CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Instellingen"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-pop-up"
+  },
+  "popupFreeTierAria": {
+    "message": "Gratis niveau"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL kon niet starten. Probeer de pop-up opnieuw te openen."
+  },
+  "popupMasterToggleError": {
+    "message": "De hoofdschakelaar kon niet worden gewijzigd."
+  },
+  "optionsStatusActive": {
+    "message": "Actief"
+  },
+  "optionsStatusPaused": {
+    "message": "Gepauzeerd"
+  },
+  "optionsPauseGlobally": {
+    "message": "Globaal pauzeren"
+  },
+  "optionsEnableGlobally": {
+    "message": "Globaal inschakelen"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL globaal pauzeren"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL globaal inschakelen"
+  },
+  "optionsSidebarAria": {
+    "message": "Instellingssecties"
+  },
+  "optionsNavAria": {
+    "message": "Instellingen"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Hoofdschakelaar opschonen"
+  },
+  "optionsCuratedAria": {
+    "message": "Samengestelde regelsets"
+  },
+  "optionsCustomAria": {
+    "message": "Aangepaste regels"
+  },
+  "optionsDataAria": {
+    "message": "Gegevensexport"
+  },
+  "optionsBootstrapError": {
+    "message": "De CleanURL-instellingen konden niet worden geladen. Probeer de pagina opnieuw te laden."
+  },
+  "tabAllowlist": {
+    "message": "Toegestane lijst"
+  },
+  "tabRules": {
+    "message": "Regels"
+  },
+  "tabLicense": {
+    "message": "Licentie"
+  },
+  "eyebrowSites": {
+    "message": "Sites uitgesloten van opschonen"
+  },
+  "eyebrowRules": {
+    "message": "Opschoonregels"
+  },
+  "eyebrowPlan": {
+    "message": "Abonnement & licentie"
+  },
+  "eyebrowCustom": {
+    "message": "Aangepaste parameterregels"
+  },
+  "eyebrowYourData": {
+    "message": "Jouw gegevens"
+  },
+  "eyebrowLinks": {
+    "message": "Links"
+  },
+  "eyebrowHaveKey": {
+    "message": "Heb je een licentiesleutel?"
+  },
+  "allowlistTitle": {
+    "message": "Toegestane lijst"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL raakt geen enkele URL op deze sites aan."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Gratis niveau staat maximaal $$2 sites toe — $$1 van $$2 gebruikt."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-niveau — onbeperkt sites."
+  },
+  "allowlistInputLabel": {
+    "message": "Hostnaam (bijv. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Toevoegen"
+  },
+  "allowlistActiveLabel": {
+    "message": "Actief ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Nog geen sites uitgesloten"
+  },
+  "allowlistEmptyBody": {
+    "message": "Voeg hierboven een hostnaam toe om het opschonen op die site over te slaan."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Verwijderen"
+  },
+  "allowlistRemoveAria": {
+    "message": "$$1 uit de toegestane lijst verwijderen"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inactief (Pro opnieuw activeren om te heractiveren)"
+  },
+  "allowlistColdBadge": {
+    "message": "Koud"
+  },
+  "errHostnameRequired": {
+    "message": "Voer een hostnaam in."
+  },
+  "errHostnameInvalid": {
+    "message": "Voer een geldige hostnaam in (bijv. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 staat al op de toegestane lijst."
+  },
+  "errFreeCap": {
+    "message": "Gratis niveau is beperkt tot $$1 sites. Upgrade naar Pro voor onbeperkt."
+  },
+  "flashFreeCap": {
+    "message": "Gratis niveau is beperkt tot $$1 sites. Upgrade naar Pro voor onbeperkt."
+  },
+  "errCouldNotAdd": {
+    "message": "Kon $$1 niet toevoegen."
+  },
+  "errCouldNotRemove": {
+    "message": "Kon $$1 niet verwijderen."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Kon $$1 niet toevoegen."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Kon $$1 niet verwijderen."
+  },
+  "rulesTitle": {
+    "message": "Regels"
+  },
+  "rulesIntro": {
+    "message": "Schakel de samengestelde regelsets in of uit die CleanURL gebruikt. Voeg met Pro je eigen parameternamen (of regex) toe."
+  },
+  "rulesCoreName": {
+    "message": "Kernregelset"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 voorzichtige verwijder- en uitpakregels. Altijd aan."
+  },
+  "rulesCoreBadge": {
+    "message": "AAN"
+  },
+  "rulesExtendedName": {
+    "message": "Uitgebreide regelset"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agressieve regels: affiliate-tags, marketing-ID's."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Uitgebreide regelset omschakelen"
+  },
+  "rulesCustomDesc": {
+    "message": "Verwijder een letterlijke parameternaam (bijv. mkt_tok) of een regex-voorvoegsel (bijv. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameternaam of regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Invoer als regex behandelen"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Regel toevoegen"
+  },
+  "rulesEmptyList": {
+    "message": "Nog geen aangepaste regels."
+  },
+  "rulesDeleteBtn": {
+    "message": "Verwijderen"
+  },
+  "rulesDeleteAria": {
+    "message": "Regel $$1 verwijderen"
+  },
+  "rulesLiteralKind": {
+    "message": "letterlijk"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exporteer je instellingen, toegestane lijst en geschiedenis van opgeschoonde links als JSON. Alle gegevens blijven alleen op dit apparaat."
+  },
+  "exportBtn": {
+    "message": "Gegevens exporteren (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privacybeleid"
+  },
+  "linkSupport": {
+    "message": "Ondersteuning"
+  },
+  "licenseTitle": {
+    "message": "Licentie"
+  },
+  "licenseIntro": {
+    "message": "CleanURL is voor altijd gratis. Pro voegt de uitgebreide regelset, aangepaste regels en een onbeperkte toegestane lijst toe."
+  },
+  "licenseCurrentAria": {
+    "message": "Huidig abonnement"
+  },
+  "licensePlanPro": {
+    "message": "Pro — levenslang"
+  },
+  "licensePlanTrial": {
+    "message": "Proefperiode — 7 dagen"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Bedankt. Alle Pro-functies ontgrendeld."
+  },
+  "licenseMsgTrial": {
+    "message": "Je gebruikt een proefperiode zonder kaart. Upgrade op elk moment."
+  },
+  "licenseMsgFree": {
+    "message": "Upgrade om de uitgebreide regelset, aangepaste regels en onbeperkte toegestane lijst te ontgrendelen."
+  },
+  "licenseKeyLabel": {
+    "message": "Licentiesleutel"
+  },
+  "licenseKeyAria": {
+    "message": "Licentiesleutel invoeren"
+  },
+  "licenseVerify": {
+    "message": "Verifiëren"
+  },
+  "licenseVerifying": {
+    "message": "Verifiëren…"
+  },
+  "licenseTrialTitle": {
+    "message": "Gratis proefperiode van 7 dagen starten"
+  },
+  "licenseTrialBody": {
+    "message": "Geen kaart, geen account. Ontgrendelt de uitgebreide regelset, aangepaste regels en onbeperkte toegestane lijst 7 dagen lang."
+  },
+  "licenseTrialStart": {
+    "message": "Gratis proefperiode starten"
+  },
+  "licenseTrialStarting": {
+    "message": "Starten…"
+  },
+  "flashExtendedLocked": {
+    "message": "De uitgebreide regelset is een Pro-functie. Start eerst een proefperiode of upgrade."
+  },
+  "flashExtendedOn": {
+    "message": "Uitgebreide regelset ingeschakeld."
+  },
+  "flashExtendedOff": {
+    "message": "Uitgebreide regelset uitgeschakeld."
+  },
+  "flashCustomLocked": {
+    "message": "Aangepaste regels zijn een Pro-functie. Start een proefperiode of upgrade."
+  },
+  "flashDynCap": {
+    "message": "Limiet voor dynamische regels bereikt. Verwijder er een om een andere toe te voegen."
+  },
+  "flashBadRegex": {
+    "message": "Die regex is geweigerd."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Kon regel niet toevoegen."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Kon regel $$1 niet verwijderen."
+  },
+  "flashKeyTooShort": {
+    "message": "Licentiesleutels bevatten minstens 8 tekens."
+  },
+  "flashKeyOk": {
+    "message": "Licentie geverifieerd. Pro-functies ontgrendeld."
+  },
+  "flashKeyFmt": {
+    "message": "Het sleutelformaat is te kort."
+  },
+  "flashKeyRate": {
+    "message": "Te veel pogingen. Wacht een minuut."
+  },
+  "flashKeyNetwork": {
+    "message": "Netwerkfout. Probeer het opnieuw."
+  },
+  "flashKeyTimeout": {
+    "message": "Verificatie duurde te lang."
+  },
+  "flashKeyServer": {
+    "message": "Serverfout ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licentiesleutel niet herkend."
+  },
+  "flashTrialStarted": {
+    "message": "Proefperiode van 7 dagen gestart. Pro-functies ontgrendeld."
+  },
+  "flashTrialUsed": {
+    "message": "Je hebt de proefperiode van 7 dagen al gebruikt."
+  },
+  "flashTrialFailed": {
+    "message": "Kon proefperiode niet starten. Probeer het opnieuw."
+  },
+  "validateRequired": {
+    "message": "Voer een parameternaam in."
+  },
+  "validateTooLong": {
+    "message": "Houd het onder $$1 tekens."
+  },
+  "validateLookaround": {
+    "message": "Lookaround is niet toegestaan."
+  },
+  "validateNested": {
+    "message": "Geneste kwantoren zijn niet toegestaan (ReDoS-risico)."
+  },
+  "validateComplex": {
+    "message": "De regex is te complex om veilig te evalueren."
+  },
+  "validateBadRegex": {
+    "message": "Ongeldige reguliere expressie."
+  },
+  "validateCharClass": {
+    "message": "Gebruik letters, cijfers, punt, onderstrepingsteken of koppelteken."
+  }
+}

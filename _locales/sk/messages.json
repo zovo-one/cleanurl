@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — odstránenie sledovania"
+  },
+  "extDesc": {
+    "message": "Nenápadne odstraňuje sledovacie prvky z odkazov, ktoré otvárate, a rozbaľuje presmerovania. 100% lokálne."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL stratil oprávnenie."
+  },
+  "popupDegradedRegrant": {
+    "message": "Udeľte ho znova"
+  },
+  "popupDegradedResume": {
+    "message": "na obnovenie čistenia."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Vyčistených odkazov"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL je pozastavený"
+  },
+  "popupHeroResume": {
+    "message": "Prepnite prepínač nižšie na obnovenie čistenia."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "vyčistené dnes"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Automaticky čistiť odkazy"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Vypnúť CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Zapnúť CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Spravovať zoznam povolených a nastavenia"
+  },
+  "popupOpenSettings": {
+    "message": "Otvoriť nastavenia CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Prejsť na Pro — $$99 doživotne"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Prejsť na CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Nastavenia"
+  },
+  "popupRootAria": {
+    "message": "Vyskakovacie okno CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Bezplatná úroveň"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL sa nepodarilo spustiť. Skúste okno otvoriť znova."
+  },
+  "popupMasterToggleError": {
+    "message": "Hlavný prepínač sa nepodarilo zmeniť."
+  },
+  "optionsStatusActive": {
+    "message": "Aktívne"
+  },
+  "optionsStatusPaused": {
+    "message": "Pozastavené"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pozastaviť globálne"
+  },
+  "optionsEnableGlobally": {
+    "message": "Zapnúť globálne"
+  },
+  "optionsPauseAria": {
+    "message": "Pozastaviť CleanURL globálne"
+  },
+  "optionsEnableAria": {
+    "message": "Zapnúť CleanURL globálne"
+  },
+  "optionsSidebarAria": {
+    "message": "Sekcie nastavení"
+  },
+  "optionsNavAria": {
+    "message": "Nastavenia"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Hlavný prepínač čistenia"
+  },
+  "optionsCuratedAria": {
+    "message": "Pripravené sady pravidiel"
+  },
+  "optionsCustomAria": {
+    "message": "Vlastné pravidlá"
+  },
+  "optionsDataAria": {
+    "message": "Export údajov"
+  },
+  "optionsBootstrapError": {
+    "message": "Nastavenia CleanURL sa nepodarilo načítať. Skúste stránku načítať znova."
+  },
+  "tabAllowlist": {
+    "message": "Zoznam povolených"
+  },
+  "tabRules": {
+    "message": "Pravidlá"
+  },
+  "tabLicense": {
+    "message": "Licencia"
+  },
+  "eyebrowSites": {
+    "message": "Weby vyňaté z čistenia"
+  },
+  "eyebrowRules": {
+    "message": "Pravidlá čistenia"
+  },
+  "eyebrowPlan": {
+    "message": "Plán a licencia"
+  },
+  "eyebrowCustom": {
+    "message": "Vlastné pravidlá parametrov"
+  },
+  "eyebrowYourData": {
+    "message": "Vaše údaje"
+  },
+  "eyebrowLinks": {
+    "message": "Odkazy"
+  },
+  "eyebrowHaveKey": {
+    "message": "Máte licenčný kľúč?"
+  },
+  "allowlistTitle": {
+    "message": "Zoznam povolených"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL sa nedotkne žiadnej adresy URL na týchto weboch."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Bezplatná úroveň umožňuje až $$2 webov — použitých $$1 z $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Úroveň Pro — neobmedzený počet webov."
+  },
+  "allowlistInputLabel": {
+    "message": "Názov hostiteľa (napr. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Pridať"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktívne ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Zatiaľ žiadne vyňaté weby"
+  },
+  "allowlistEmptyBody": {
+    "message": "Pridajte názov hostiteľa vyššie, aby ste na tomto webe preskočili čistenie."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Odstrániť"
+  },
+  "allowlistRemoveAria": {
+    "message": "Odstrániť $$1 zo zoznamu povolených"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Neaktívne (Obnovte Pro na opätovnú aktiváciu)"
+  },
+  "allowlistColdBadge": {
+    "message": "Studený"
+  },
+  "errHostnameRequired": {
+    "message": "Zadajte názov hostiteľa."
+  },
+  "errHostnameInvalid": {
+    "message": "Zadajte platný názov hostiteľa (napr. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 je už v zozname povolených."
+  },
+  "errFreeCap": {
+    "message": "Bezplatná úroveň je obmedzená na $$1 webov. Prejdite na Pro pre neobmedzený počet."
+  },
+  "flashFreeCap": {
+    "message": "Bezplatná úroveň je obmedzená na $$1 webov. Prejdite na Pro pre neobmedzený počet."
+  },
+  "errCouldNotAdd": {
+    "message": "Nepodarilo sa pridať $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Nepodarilo sa odstrániť $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Nepodarilo sa pridať $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Nepodarilo sa odstrániť $$1."
+  },
+  "rulesTitle": {
+    "message": "Pravidlá"
+  },
+  "rulesIntro": {
+    "message": "Prepínajte pripravené sady pravidiel, ktoré CleanURL používa. Pridávajte vlastné názvy parametrov (alebo regex) v Pro."
+  },
+  "rulesCoreName": {
+    "message": "Základná sada pravidiel"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 konzervatívnych pravidiel na odstránenie a rozbalenie. Vždy zapnuté."
+  },
+  "rulesCoreBadge": {
+    "message": "ZAP"
+  },
+  "rulesExtendedName": {
+    "message": "Rozšírená sada pravidiel"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresívnych pravidiel: affiliate značky, marketingové ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Prepnúť rozšírenú sadu pravidiel"
+  },
+  "rulesCustomDesc": {
+    "message": "Odstrániť doslovný názov parametra (napr. mkt_tok) alebo regex prefix (napr. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Názov parametra alebo regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Považovať vstup za regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Pridať pravidlo"
+  },
+  "rulesEmptyList": {
+    "message": "Zatiaľ žiadne vlastné pravidlá."
+  },
+  "rulesDeleteBtn": {
+    "message": "Odstrániť"
+  },
+  "rulesDeleteAria": {
+    "message": "Odstrániť pravidlo $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "doslovný"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exportujte svoje nastavenia, zoznam povolených a históriu vyčistených odkazov ako JSON. Všetky údaje zostávajú iba v tomto zariadení."
+  },
+  "exportBtn": {
+    "message": "Exportovať údaje (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Zásady ochrany súkromia"
+  },
+  "linkSupport": {
+    "message": "Podpora"
+  },
+  "licenseTitle": {
+    "message": "Licencia"
+  },
+  "licenseIntro": {
+    "message": "CleanURL je zadarmo navždy. Pro pridáva rozšírenú sadu pravidiel, vlastné pravidlá a neobmedzený zoznam povolených."
+  },
+  "licenseCurrentAria": {
+    "message": "Aktuálny plán"
+  },
+  "licensePlanPro": {
+    "message": "Pro — doživotne"
+  },
+  "licensePlanTrial": {
+    "message": "Skúšobná — 7 dní"
+  },
+  "licensePlanFree": {
+    "message": "Bezplatný"
+  },
+  "licenseMsgPro": {
+    "message": "Ďakujeme. Všetky funkcie Pro sú odomknuté."
+  },
+  "licenseMsgTrial": {
+    "message": "Používate skúšobnú verziu bez karty. Kedykoľvek prejdite na Pro."
+  },
+  "licenseMsgFree": {
+    "message": "Prejdite na Pro na odomknutie rozšírenej sady pravidiel, vlastných pravidiel a neobmedzeného zoznamu povolených."
+  },
+  "licenseKeyLabel": {
+    "message": "Licenčný kľúč"
+  },
+  "licenseKeyAria": {
+    "message": "Zadajte licenčný kľúč"
+  },
+  "licenseVerify": {
+    "message": "Overiť"
+  },
+  "licenseVerifying": {
+    "message": "Overovanie…"
+  },
+  "licenseTrialTitle": {
+    "message": "Spustiť 7-dňovú bezplatnú skúšobnú verziu"
+  },
+  "licenseTrialBody": {
+    "message": "Bez karty, bez účtu. Odomkne rozšírenú sadu pravidiel, vlastné pravidlá a neobmedzený zoznam povolených na 7 dní."
+  },
+  "licenseTrialStart": {
+    "message": "Spustiť bezplatnú skúšobnú verziu"
+  },
+  "licenseTrialStarting": {
+    "message": "Spúšťanie…"
+  },
+  "flashExtendedLocked": {
+    "message": "Rozšírená sada pravidiel je funkcia Pro. Najprv spustite skúšobnú verziu alebo prejdite na Pro."
+  },
+  "flashExtendedOn": {
+    "message": "Rozšírená sada pravidiel zapnutá."
+  },
+  "flashExtendedOff": {
+    "message": "Rozšírená sada pravidiel vypnutá."
+  },
+  "flashCustomLocked": {
+    "message": "Vlastné pravidlá sú funkcia Pro. Spustite skúšobnú verziu alebo prejdite na Pro."
+  },
+  "flashDynCap": {
+    "message": "Dosiahnutý limit dynamických pravidiel. Jedno odstráňte, aby ste mohli pridať ďalšie."
+  },
+  "flashBadRegex": {
+    "message": "Tento regex bol odmietnutý."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Nepodarilo sa pridať pravidlo."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Nepodarilo sa odstrániť pravidlo $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Licenčné kľúče majú aspoň 8 znakov."
+  },
+  "flashKeyOk": {
+    "message": "Licencia overená. Funkcie Pro odomknuté."
+  },
+  "flashKeyFmt": {
+    "message": "Formát kľúča je príliš krátky."
+  },
+  "flashKeyRate": {
+    "message": "Príliš veľa pokusov. Počkajte chvíľu."
+  },
+  "flashKeyNetwork": {
+    "message": "Chyba siete. Skúste to znova."
+  },
+  "flashKeyTimeout": {
+    "message": "Vypršal časový limit overenia."
+  },
+  "flashKeyServer": {
+    "message": "Chyba servera ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licenčný kľúč nebol rozpoznaný."
+  },
+  "flashTrialStarted": {
+    "message": "7-dňová skúšobná verzia spustená. Funkcie Pro odomknuté."
+  },
+  "flashTrialUsed": {
+    "message": "7-dňovú skúšobnú verziu ste už využili."
+  },
+  "flashTrialFailed": {
+    "message": "Skúšobnú verziu sa nepodarilo spustiť. Skúste to prosím znova."
+  },
+  "validateRequired": {
+    "message": "Zadajte názov parametra."
+  },
+  "validateTooLong": {
+    "message": "Maximálne $$1 znakov."
+  },
+  "validateLookaround": {
+    "message": "Lookaround nie je povolený."
+  },
+  "validateNested": {
+    "message": "Vnorené kvantifikátory nie sú povolené (riziko ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex je príliš zložitý na bezpečné vyhodnotenie."
+  },
+  "validateBadRegex": {
+    "message": "Neplatný regulárny výraz."
+  },
+  "validateCharClass": {
+    "message": "Používajte písmená, číslice, bodku, podčiarknutie alebo pomlčku."
+  }
+}

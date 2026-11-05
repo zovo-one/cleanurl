@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — ลบตัวติดตาม"
+  },
+  "extDesc": {
+    "message": "ลบตัวติดตามออกจากลิงก์ที่คุณเปิดอย่างเงียบ ๆ และคลี่ลิงก์ทางลัดที่เปลี่ยนเส้นทาง ทำงานในเครื่อง 100%"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL สูญเสียสิทธิ์การเข้าถึงหนึ่งอย่าง"
+  },
+  "popupDegradedRegrant": {
+    "message": "ให้สิทธิ์อีกครั้ง"
+  },
+  "popupDegradedResume": {
+    "message": "เพื่อกลับมาทำความสะอาดต่อ"
+  },
+  "popupHeroLabelLinks": {
+    "message": "ลิงก์ที่ทำความสะอาดแล้ว"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL หยุดชั่วคราวอยู่"
+  },
+  "popupHeroResume": {
+    "message": "สลับสวิตช์ด้านล่างเพื่อกลับมาทำความสะอาดต่อ"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "ทำความสะอาดวันนี้"
+  },
+  "popupMasterToggleLabel": {
+    "message": "ทำความสะอาดลิงก์โดยอัตโนมัติ"
+  },
+  "popupMasterToggleDisable": {
+    "message": "ปิดใช้งาน CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "เปิดใช้งาน CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "จัดการรายการที่อนุญาตและการตั้งค่า"
+  },
+  "popupOpenSettings": {
+    "message": "เปิดการตั้งค่า CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "อัปเกรดเป็น Pro — $$99 ตลอดชีพ"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "อัปเกรดเป็น CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "การตั้งค่า"
+  },
+  "popupRootAria": {
+    "message": "ป๊อปอัป CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "ระดับฟรี"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ไม่สามารถเริ่มทำงานได้ ลองเปิดป๊อปอัปใหม่อีกครั้ง"
+  },
+  "popupMasterToggleError": {
+    "message": "ไม่สามารถเปลี่ยนสวิตช์หลักได้"
+  },
+  "optionsStatusActive": {
+    "message": "ทำงานอยู่"
+  },
+  "optionsStatusPaused": {
+    "message": "หยุดชั่วคราว"
+  },
+  "optionsPauseGlobally": {
+    "message": "หยุดชั่วคราวทั้งหมด"
+  },
+  "optionsEnableGlobally": {
+    "message": "เปิดใช้งานทั้งหมด"
+  },
+  "optionsPauseAria": {
+    "message": "หยุด CleanURL ชั่วคราวทั้งหมด"
+  },
+  "optionsEnableAria": {
+    "message": "เปิดใช้งาน CleanURL ทั้งหมด"
+  },
+  "optionsSidebarAria": {
+    "message": "ส่วนต่าง ๆ ของการตั้งค่า"
+  },
+  "optionsNavAria": {
+    "message": "การตั้งค่า"
+  },
+  "optionsMasterToggleAria": {
+    "message": "สวิตช์ทำความสะอาดหลัก"
+  },
+  "optionsCuratedAria": {
+    "message": "ชุดกฎที่คัดสรร"
+  },
+  "optionsCustomAria": {
+    "message": "กฎที่กำหนดเอง"
+  },
+  "optionsDataAria": {
+    "message": "ส่งออกข้อมูล"
+  },
+  "optionsBootstrapError": {
+    "message": "ไม่สามารถโหลดการตั้งค่า CleanURL ได้ ลองโหลดหน้าใหม่อีกครั้ง"
+  },
+  "tabAllowlist": {
+    "message": "รายการที่อนุญาต"
+  },
+  "tabRules": {
+    "message": "กฎ"
+  },
+  "tabLicense": {
+    "message": "ใบอนุญาต"
+  },
+  "eyebrowSites": {
+    "message": "เว็บไซต์ที่ยกเว้นจากการทำความสะอาด"
+  },
+  "eyebrowRules": {
+    "message": "กฎการทำความสะอาด"
+  },
+  "eyebrowPlan": {
+    "message": "แพ็กเกจและใบอนุญาต"
+  },
+  "eyebrowCustom": {
+    "message": "กฎพารามิเตอร์ที่กำหนดเอง"
+  },
+  "eyebrowYourData": {
+    "message": "ข้อมูลของคุณ"
+  },
+  "eyebrowLinks": {
+    "message": "ลิงก์"
+  },
+  "eyebrowHaveKey": {
+    "message": "มีคีย์ใบอนุญาตหรือไม่?"
+  },
+  "allowlistTitle": {
+    "message": "รายการที่อนุญาต"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL จะไม่แตะต้อง URL ใด ๆ บนเว็บไซต์เหล่านี้"
+  },
+  "allowlistCapUsageFree": {
+    "message": "ระดับฟรีอนุญาตสูงสุด $$2 เว็บไซต์ — ใช้ไป $$1 จาก $$2"
+  },
+  "allowlistCapUsagePro": {
+    "message": "ระดับ Pro — เว็บไซต์ไม่จำกัด"
+  },
+  "allowlistInputLabel": {
+    "message": "ชื่อโฮสต์ (เช่น shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "เพิ่ม"
+  },
+  "allowlistActiveLabel": {
+    "message": "ทำงานอยู่ ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "ยังไม่มีเว็บไซต์ที่ได้รับการยกเว้น"
+  },
+  "allowlistEmptyBody": {
+    "message": "เพิ่มชื่อโฮสต์ด้านบนเพื่อข้ามการทำความสะอาดบนเว็บไซต์นั้น"
+  },
+  "allowlistRemoveBtn": {
+    "message": "นำออก"
+  },
+  "allowlistRemoveAria": {
+    "message": "นำ $$1 ออกจากรายการที่อนุญาต"
+  },
+  "allowlistInactiveLabel": {
+    "message": "ไม่ทำงาน (เข้าร่วม Pro อีกครั้งเพื่อเปิดใช้งานใหม่)"
+  },
+  "allowlistColdBadge": {
+    "message": "เย็น"
+  },
+  "errHostnameRequired": {
+    "message": "กรอกชื่อโฮสต์"
+  },
+  "errHostnameInvalid": {
+    "message": "กรอกชื่อโฮสต์ที่ถูกต้อง (เช่น example.com)"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 อยู่ในรายการที่อนุญาตแล้ว"
+  },
+  "errFreeCap": {
+    "message": "ระดับฟรีจำกัดที่ $$1 เว็บไซต์ อัปเกรดเป็น Pro เพื่อไม่จำกัด"
+  },
+  "flashFreeCap": {
+    "message": "ระดับฟรีจำกัดที่ $$1 เว็บไซต์ อัปเกรดเป็น Pro เพื่อไม่จำกัด"
+  },
+  "errCouldNotAdd": {
+    "message": "ไม่สามารถเพิ่ม $$1 ได้"
+  },
+  "errCouldNotRemove": {
+    "message": "ไม่สามารถนำ $$1 ออกได้"
+  },
+  "flashCouldNotAddHost": {
+    "message": "ไม่สามารถเพิ่ม $$1 ได้"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "ไม่สามารถนำ $$1 ออกได้"
+  },
+  "rulesTitle": {
+    "message": "กฎ"
+  },
+  "rulesIntro": {
+    "message": "สลับชุดกฎที่คัดสรรซึ่ง CleanURL ใช้ เพิ่มชื่อพารามิเตอร์ของคุณเอง (หรือ regex) ได้ในระดับ Pro"
+  },
+  "rulesCoreName": {
+    "message": "ชุดกฎหลัก"
+  },
+  "rulesCoreDesc": {
+    "message": "กฎการลบ + คลี่ลิงก์แบบระมัดระวังราว 120 ข้อ เปิดใช้งานเสมอ"
+  },
+  "rulesCoreBadge": {
+    "message": "เปิด"
+  },
+  "rulesExtendedName": {
+    "message": "ชุดกฎขยาย"
+  },
+  "rulesExtendedDesc": {
+    "message": "กฎเชิงรุกราว 300 ข้อ: แท็กพันธมิตร, ID การตลาด"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "สลับชุดกฎขยาย"
+  },
+  "rulesCustomDesc": {
+    "message": "ลบชื่อพารามิเตอร์แบบตัวอักษร (เช่น mkt_tok) หรือคำนำหน้า regex (เช่น ^ig_)"
+  },
+  "rulesParamLabel": {
+    "message": "ชื่อพารามิเตอร์หรือ regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ถือว่าอินพุตเป็น regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "เพิ่มกฎ"
+  },
+  "rulesEmptyList": {
+    "message": "ยังไม่มีกฎที่กำหนดเอง"
+  },
+  "rulesDeleteBtn": {
+    "message": "ลบ"
+  },
+  "rulesDeleteAria": {
+    "message": "ลบกฎ $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "ตัวอักษร"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "ส่งออกการตั้งค่า รายการที่อนุญาต และประวัติลิงก์ที่ทำความสะอาดแล้วเป็น JSON ข้อมูลทั้งหมดอยู่บนอุปกรณ์นี้เท่านั้น"
+  },
+  "exportBtn": {
+    "message": "ส่งออกข้อมูล (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "นโยบายความเป็นส่วนตัว"
+  },
+  "linkSupport": {
+    "message": "สนับสนุน"
+  },
+  "licenseTitle": {
+    "message": "ใบอนุญาต"
+  },
+  "licenseIntro": {
+    "message": "CleanURL ฟรีตลอดไป Pro เพิ่มชุดกฎขยาย กฎที่กำหนดเอง และรายการที่อนุญาตแบบไม่จำกัด"
+  },
+  "licenseCurrentAria": {
+    "message": "แพ็กเกจปัจจุบัน"
+  },
+  "licensePlanPro": {
+    "message": "Pro — ตลอดชีพ"
+  },
+  "licensePlanTrial": {
+    "message": "ทดลองใช้ — 7 วัน"
+  },
+  "licensePlanFree": {
+    "message": "ฟรี"
+  },
+  "licenseMsgPro": {
+    "message": "ขอบคุณ ปลดล็อกฟีเจอร์ Pro ทั้งหมดแล้ว"
+  },
+  "licenseMsgTrial": {
+    "message": "คุณกำลังทดลองใช้แบบไม่ต้องใช้บัตร อัปเกรดได้ทุกเมื่อ"
+  },
+  "licenseMsgFree": {
+    "message": "อัปเกรดเพื่อปลดล็อกชุดกฎขยาย กฎที่กำหนดเอง และรายการที่อนุญาตแบบไม่จำกัด"
+  },
+  "licenseKeyLabel": {
+    "message": "คีย์ใบอนุญาต"
+  },
+  "licenseKeyAria": {
+    "message": "กรอกคีย์ใบอนุญาต"
+  },
+  "licenseVerify": {
+    "message": "ยืนยัน"
+  },
+  "licenseVerifying": {
+    "message": "กำลังยืนยัน…"
+  },
+  "licenseTrialTitle": {
+    "message": "เริ่มทดลองใช้ฟรี 7 วัน"
+  },
+  "licenseTrialBody": {
+    "message": "ไม่ต้องใช้บัตร ไม่ต้องมีบัญชี ปลดล็อกชุดกฎขยาย กฎที่กำหนดเอง และรายการที่อนุญาตแบบไม่จำกัดเป็นเวลา 7 วัน"
+  },
+  "licenseTrialStart": {
+    "message": "เริ่มทดลองใช้ฟรี"
+  },
+  "licenseTrialStarting": {
+    "message": "กำลังเริ่ม…"
+  },
+  "flashExtendedLocked": {
+    "message": "ชุดกฎขยายเป็นฟีเจอร์ Pro เริ่มทดลองใช้หรืออัปเกรดก่อน"
+  },
+  "flashExtendedOn": {
+    "message": "เปิดใช้งานชุดกฎขยายแล้ว"
+  },
+  "flashExtendedOff": {
+    "message": "ปิดใช้งานชุดกฎขยายแล้ว"
+  },
+  "flashCustomLocked": {
+    "message": "กฎที่กำหนดเองเป็นฟีเจอร์ Pro เริ่มทดลองใช้หรืออัปเกรด"
+  },
+  "flashDynCap": {
+    "message": "ถึงขีดจำกัดกฎแบบไดนามิกแล้ว ลบหนึ่งข้อเพื่อเพิ่มข้อใหม่"
+  },
+  "flashBadRegex": {
+    "message": "regex นั้นถูกปฏิเสธ"
+  },
+  "flashCouldNotAddRule": {
+    "message": "ไม่สามารถเพิ่มกฎได้"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "ไม่สามารถลบกฎ $$1 ได้"
+  },
+  "flashKeyTooShort": {
+    "message": "คีย์ใบอนุญาตต้องมีอย่างน้อย 8 อักขระ"
+  },
+  "flashKeyOk": {
+    "message": "ยืนยันใบอนุญาตแล้ว ปลดล็อกฟีเจอร์ Pro แล้ว"
+  },
+  "flashKeyFmt": {
+    "message": "รูปแบบคีย์สั้นเกินไป"
+  },
+  "flashKeyRate": {
+    "message": "พยายามมากเกินไป รอสักหนึ่งนาที"
+  },
+  "flashKeyNetwork": {
+    "message": "ข้อผิดพลาดเครือข่าย ลองอีกครั้ง"
+  },
+  "flashKeyTimeout": {
+    "message": "การยืนยันหมดเวลา"
+  },
+  "flashKeyServer": {
+    "message": "ข้อผิดพลาดเซิร์ฟเวอร์ ($$1)"
+  },
+  "flashKeyUnknown": {
+    "message": "ไม่รู้จักคีย์ใบอนุญาตนี้"
+  },
+  "flashTrialStarted": {
+    "message": "เริ่มทดลองใช้ 7 วันแล้ว ปลดล็อกฟีเจอร์ Pro แล้ว"
+  },
+  "flashTrialUsed": {
+    "message": "คุณใช้การทดลอง 7 วันไปแล้ว"
+  },
+  "flashTrialFailed": {
+    "message": "ไม่สามารถเริ่มการทดลองได้ โปรดลองอีกครั้ง"
+  },
+  "validateRequired": {
+    "message": "กรอกชื่อพารามิเตอร์"
+  },
+  "validateTooLong": {
+    "message": "ให้อยู่ในไม่เกิน $$1 อักขระ"
+  },
+  "validateLookaround": {
+    "message": "ไม่อนุญาตให้ใช้ lookaround"
+  },
+  "validateNested": {
+    "message": "ไม่อนุญาตให้ใช้ตัวระบุจำนวนซ้อนกัน (เสี่ยง ReDoS)"
+  },
+  "validateComplex": {
+    "message": "Regex ซับซ้อนเกินกว่าจะประเมินได้อย่างปลอดภัย"
+  },
+  "validateBadRegex": {
+    "message": "นิพจน์ทั่วไปไม่ถูกต้อง"
+  },
+  "validateCharClass": {
+    "message": "ใช้ตัวอักษร ตัวเลข จุด ขีดล่าง หรือยัติภังค์"
+  }
+}

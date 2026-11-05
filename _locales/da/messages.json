@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Fjern sporing"
+  },
+  "extDesc": {
+    "message": "Fjerner diskret sporingsparametre fra de links, du åbner, og udpakker viderestillingsgenveje. 100 % lokalt."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL mistede en tilladelse."
+  },
+  "popupDegradedRegrant": {
+    "message": "Giv den igen"
+  },
+  "popupDegradedResume": {
+    "message": "for at genoptage rensning."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Rensede links"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL er sat på pause"
+  },
+  "popupHeroResume": {
+    "message": "Slå kontakten nedenfor til for at genoptage rensning."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "renset i dag"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Rens links automatisk"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Deaktivér CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Aktivér CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Administrér tilladelsesliste & indstillinger"
+  },
+  "popupOpenSettings": {
+    "message": "Åbn CleanURL-indstillinger"
+  },
+  "popupUpgradeCta": {
+    "message": "Opgradér til Pro — $$99 for altid"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Opgradér til CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Indstillinger"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-pop op"
+  },
+  "popupFreeTierAria": {
+    "message": "Gratis niveau"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL kunne ikke starte. Prøv at åbne pop op-vinduet igen."
+  },
+  "popupMasterToggleError": {
+    "message": "Hovedkontakten kunne ikke ændres."
+  },
+  "optionsStatusActive": {
+    "message": "Aktiv"
+  },
+  "optionsStatusPaused": {
+    "message": "Sat på pause"
+  },
+  "optionsPauseGlobally": {
+    "message": "Sæt på pause globalt"
+  },
+  "optionsEnableGlobally": {
+    "message": "Aktivér globalt"
+  },
+  "optionsPauseAria": {
+    "message": "Sæt CleanURL på pause globalt"
+  },
+  "optionsEnableAria": {
+    "message": "Aktivér CleanURL globalt"
+  },
+  "optionsSidebarAria": {
+    "message": "Indstillingssektioner"
+  },
+  "optionsNavAria": {
+    "message": "Indstillinger"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Hovedkontakt for rensning"
+  },
+  "optionsCuratedAria": {
+    "message": "Kuraterede regelsæt"
+  },
+  "optionsCustomAria": {
+    "message": "Brugerdefinerede regler"
+  },
+  "optionsDataAria": {
+    "message": "Dataeksport"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL-indstillingerne kunne ikke indlæses. Prøv at genindlæse siden."
+  },
+  "tabAllowlist": {
+    "message": "Tilladelsesliste"
+  },
+  "tabRules": {
+    "message": "Regler"
+  },
+  "tabLicense": {
+    "message": "Licens"
+  },
+  "eyebrowSites": {
+    "message": "Sider undtaget fra rensning"
+  },
+  "eyebrowRules": {
+    "message": "Renseregler"
+  },
+  "eyebrowPlan": {
+    "message": "Abonnement & licens"
+  },
+  "eyebrowCustom": {
+    "message": "Brugerdefinerede parameterregler"
+  },
+  "eyebrowYourData": {
+    "message": "Dine data"
+  },
+  "eyebrowLinks": {
+    "message": "Links"
+  },
+  "eyebrowHaveKey": {
+    "message": "Har du en licensnøgle?"
+  },
+  "allowlistTitle": {
+    "message": "Tilladelsesliste"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL rører ikke nogen URL på disse sider."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Gratis niveau tillader op til $$2 sider — $$1 af $$2 brugt."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-niveau — ubegrænset antal sider."
+  },
+  "allowlistInputLabel": {
+    "message": "Værtsnavn (f.eks. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Tilføj"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktiv ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Ingen sider undtaget endnu"
+  },
+  "allowlistEmptyBody": {
+    "message": "Tilføj et værtsnavn ovenfor for at springe rensning over på den side."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Fjern"
+  },
+  "allowlistRemoveAria": {
+    "message": "Fjern $$1 fra tilladelseslisten"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inaktiv (Forny Pro for at genaktivere)"
+  },
+  "allowlistColdBadge": {
+    "message": "Kold"
+  },
+  "errHostnameRequired": {
+    "message": "Indtast et værtsnavn."
+  },
+  "errHostnameInvalid": {
+    "message": "Indtast et gyldigt værtsnavn (f.eks. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 er allerede på tilladelseslisten."
+  },
+  "errFreeCap": {
+    "message": "Gratis niveau er begrænset til $$1 sider. Opgradér til Pro for ubegrænset."
+  },
+  "flashFreeCap": {
+    "message": "Gratis niveau er begrænset til $$1 sider. Opgradér til Pro for ubegrænset."
+  },
+  "errCouldNotAdd": {
+    "message": "Kunne ikke tilføje $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Kunne ikke fjerne $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Kunne ikke tilføje $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Kunne ikke fjerne $$1."
+  },
+  "rulesTitle": {
+    "message": "Regler"
+  },
+  "rulesIntro": {
+    "message": "Slå de kuraterede regelsæt til og fra, som CleanURL bruger. Tilføj dine egne parameternavne (eller regex) med Pro."
+  },
+  "rulesCoreName": {
+    "message": "Kerneregelsæt"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 forsigtige fjern- og udpakningsregler. Altid slået til."
+  },
+  "rulesCoreBadge": {
+    "message": "TIL"
+  },
+  "rulesExtendedName": {
+    "message": "Udvidet regelsæt"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 aggressive regler: affiliate-tags, marketing-id'er."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Slå udvidet regelsæt til/fra"
+  },
+  "rulesCustomDesc": {
+    "message": "Fjern et bogstaveligt parameternavn (f.eks. mkt_tok) eller et regex-præfiks (f.eks. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameternavn eller regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Behandl input som regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Tilføj regel"
+  },
+  "rulesEmptyList": {
+    "message": "Ingen brugerdefinerede regler endnu."
+  },
+  "rulesDeleteBtn": {
+    "message": "Slet"
+  },
+  "rulesDeleteAria": {
+    "message": "Slet regel $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "bogstavelig"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Eksportér dine indstillinger, tilladelsesliste og historik over rensede links som JSON. Alle data forbliver kun på denne enhed."
+  },
+  "exportBtn": {
+    "message": "Eksportér data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privatlivspolitik"
+  },
+  "linkSupport": {
+    "message": "Support"
+  },
+  "licenseTitle": {
+    "message": "Licens"
+  },
+  "licenseIntro": {
+    "message": "CleanURL er gratis for altid. Pro tilføjer det udvidede regelsæt, brugerdefinerede regler og en ubegrænset tilladelsesliste."
+  },
+  "licenseCurrentAria": {
+    "message": "Nuværende abonnement"
+  },
+  "licensePlanPro": {
+    "message": "Pro — for altid"
+  },
+  "licensePlanTrial": {
+    "message": "Prøveperiode — 7 dage"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Tak. Alle Pro-funktioner er låst op."
+  },
+  "licenseMsgTrial": {
+    "message": "Du er på en prøveperiode uden kort. Opgradér når som helst."
+  },
+  "licenseMsgFree": {
+    "message": "Opgradér for at låse det udvidede regelsæt, brugerdefinerede regler og ubegrænset tilladelsesliste op."
+  },
+  "licenseKeyLabel": {
+    "message": "Licensnøgle"
+  },
+  "licenseKeyAria": {
+    "message": "Indtast licensnøgle"
+  },
+  "licenseVerify": {
+    "message": "Bekræft"
+  },
+  "licenseVerifying": {
+    "message": "Bekræfter…"
+  },
+  "licenseTrialTitle": {
+    "message": "Start 7-dages gratis prøveperiode"
+  },
+  "licenseTrialBody": {
+    "message": "Intet kort, ingen konto. Låser det udvidede regelsæt, brugerdefinerede regler og ubegrænset tilladelsesliste op i 7 dage."
+  },
+  "licenseTrialStart": {
+    "message": "Start gratis prøveperiode"
+  },
+  "licenseTrialStarting": {
+    "message": "Starter…"
+  },
+  "flashExtendedLocked": {
+    "message": "Det udvidede regelsæt er en Pro-funktion. Start en prøveperiode eller opgradér først."
+  },
+  "flashExtendedOn": {
+    "message": "Udvidet regelsæt aktiveret."
+  },
+  "flashExtendedOff": {
+    "message": "Udvidet regelsæt deaktiveret."
+  },
+  "flashCustomLocked": {
+    "message": "Brugerdefinerede regler er en Pro-funktion. Start en prøveperiode eller opgradér."
+  },
+  "flashDynCap": {
+    "message": "Grænsen for dynamiske regler er nået. Slet en for at tilføje en anden."
+  },
+  "flashBadRegex": {
+    "message": "Denne regex blev afvist."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Kunne ikke tilføje regel."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Kunne ikke slette regel $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Licensnøgler er på mindst 8 tegn."
+  },
+  "flashKeyOk": {
+    "message": "Licens bekræftet. Pro-funktioner låst op."
+  },
+  "flashKeyFmt": {
+    "message": "Nøgleformatet er for kort."
+  },
+  "flashKeyRate": {
+    "message": "For mange forsøg. Vent et minut."
+  },
+  "flashKeyNetwork": {
+    "message": "Netværksfejl. Prøv igen."
+  },
+  "flashKeyTimeout": {
+    "message": "Bekræftelsen fik timeout."
+  },
+  "flashKeyServer": {
+    "message": "Serverfejl ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licensnøgle ikke genkendt."
+  },
+  "flashTrialStarted": {
+    "message": "7-dages prøveperiode startet. Pro-funktioner låst op."
+  },
+  "flashTrialUsed": {
+    "message": "Du har allerede brugt 7-dages prøveperioden."
+  },
+  "flashTrialFailed": {
+    "message": "Kunne ikke starte prøveperioden. Prøv venligst igen."
+  },
+  "validateRequired": {
+    "message": "Indtast et parameternavn."
+  },
+  "validateTooLong": {
+    "message": "Hold det under $$1 tegn."
+  },
+  "validateLookaround": {
+    "message": "Lookaround er ikke tilladt."
+  },
+  "validateNested": {
+    "message": "Indlejrede kvantorer er ikke tilladt (ReDoS-risiko)."
+  },
+  "validateComplex": {
+    "message": "Denne regex er for kompleks til at evaluere sikkert."
+  },
+  "validateBadRegex": {
+    "message": "Ugyldigt regulært udtryk."
+  },
+  "validateCharClass": {
+    "message": "Brug bogstaver, tal, punktum, understregning eller bindestreg."
+  }
+}

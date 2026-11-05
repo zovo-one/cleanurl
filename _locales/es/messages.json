@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Elimina rastreadores"
+  },
+  "extDesc": {
+    "message": "Elimina discretamente los rastreadores de los enlaces que abres, y desenvuelve los atajos de redirección. 100% local."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL perdió un permiso."
+  },
+  "popupDegradedRegrant": {
+    "message": "Vuelve a concederlo"
+  },
+  "popupDegradedResume": {
+    "message": "para reanudar la limpieza."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Enlaces limpiados"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL está en pausa"
+  },
+  "popupHeroResume": {
+    "message": "Activa el interruptor de abajo para reanudar la limpieza."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "limpiados hoy"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Limpiar enlaces automáticamente"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Desactivar CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Activar CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Gestionar lista de permitidos y ajustes"
+  },
+  "popupOpenSettings": {
+    "message": "Abrir los ajustes de CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Pasa a Pro — $$99 de por vida"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Pasa a CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Ajustes"
+  },
+  "popupRootAria": {
+    "message": "Ventana emergente de CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Plan gratuito"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL no pudo iniciarse. Intenta reabrir la ventana emergente."
+  },
+  "popupMasterToggleError": {
+    "message": "No se pudo cambiar el interruptor principal."
+  },
+  "optionsStatusActive": {
+    "message": "Activo"
+  },
+  "optionsStatusPaused": {
+    "message": "En pausa"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pausar globalmente"
+  },
+  "optionsEnableGlobally": {
+    "message": "Activar globalmente"
+  },
+  "optionsPauseAria": {
+    "message": "Pausar CleanURL globalmente"
+  },
+  "optionsEnableAria": {
+    "message": "Activar CleanURL globalmente"
+  },
+  "optionsSidebarAria": {
+    "message": "Secciones de ajustes"
+  },
+  "optionsNavAria": {
+    "message": "Ajustes"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Interruptor principal de limpieza"
+  },
+  "optionsCuratedAria": {
+    "message": "Conjuntos de reglas seleccionados"
+  },
+  "optionsCustomAria": {
+    "message": "Reglas personalizadas"
+  },
+  "optionsDataAria": {
+    "message": "Exportación de datos"
+  },
+  "optionsBootstrapError": {
+    "message": "No se pudieron cargar los ajustes de CleanURL. Intenta recargar la página."
+  },
+  "tabAllowlist": {
+    "message": "Lista de permitidos"
+  },
+  "tabRules": {
+    "message": "Reglas"
+  },
+  "tabLicense": {
+    "message": "Licencia"
+  },
+  "eyebrowSites": {
+    "message": "Sitios exentos de limpieza"
+  },
+  "eyebrowRules": {
+    "message": "Reglas de limpieza"
+  },
+  "eyebrowPlan": {
+    "message": "Plan y licencia"
+  },
+  "eyebrowCustom": {
+    "message": "Reglas de parámetros personalizadas"
+  },
+  "eyebrowYourData": {
+    "message": "Tus datos"
+  },
+  "eyebrowLinks": {
+    "message": "Enlaces"
+  },
+  "eyebrowHaveKey": {
+    "message": "¿Tienes una clave de licencia?"
+  },
+  "allowlistTitle": {
+    "message": "Lista de permitidos"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL no tocará ninguna URL en estos sitios."
+  },
+  "allowlistCapUsageFree": {
+    "message": "El plan gratuito permite hasta $$2 sitios — $$1 de $$2 usados."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Plan Pro — sitios ilimitados."
+  },
+  "allowlistInputLabel": {
+    "message": "Nombre de host (p. ej. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Añadir"
+  },
+  "allowlistActiveLabel": {
+    "message": "Activos ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Aún no hay sitios exentos"
+  },
+  "allowlistEmptyBody": {
+    "message": "Añade un nombre de host arriba para omitir la limpieza en ese sitio."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Quitar"
+  },
+  "allowlistRemoveAria": {
+    "message": "Quitar $$1 de la lista de permitidos"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inactivos (vuelve a Pro para reactivar)"
+  },
+  "allowlistColdBadge": {
+    "message": "Frío"
+  },
+  "errHostnameRequired": {
+    "message": "Introduce un nombre de host."
+  },
+  "errHostnameInvalid": {
+    "message": "Introduce un nombre de host válido (p. ej. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ya está en la lista de permitidos."
+  },
+  "errFreeCap": {
+    "message": "El plan gratuito se limita a $$1 sitios. Pasa a Pro para tener ilimitados."
+  },
+  "flashFreeCap": {
+    "message": "El plan gratuito se limita a $$1 sitios. Pasa a Pro para tener ilimitados."
+  },
+  "errCouldNotAdd": {
+    "message": "No se pudo añadir $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "No se pudo quitar $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "No se pudo añadir $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "No se pudo quitar $$1."
+  },
+  "rulesTitle": {
+    "message": "Reglas"
+  },
+  "rulesIntro": {
+    "message": "Activa los conjuntos de reglas seleccionados que usa CleanURL. Añade tus propios nombres de parámetros (o regex) en Pro."
+  },
+  "rulesCoreName": {
+    "message": "Conjunto de reglas básico"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 reglas conservadoras de eliminación y desenvoltura. Siempre activo."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Conjunto de reglas ampliado"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 reglas agresivas: etiquetas de afiliados, ID de marketing."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Alternar conjunto de reglas ampliado"
+  },
+  "rulesCustomDesc": {
+    "message": "Elimina un nombre de parámetro literal (p. ej. mkt_tok) o un prefijo regex (p. ej. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Nombre de parámetro o regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Tratar la entrada como regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Añadir regla"
+  },
+  "rulesEmptyList": {
+    "message": "Aún no hay reglas personalizadas."
+  },
+  "rulesDeleteBtn": {
+    "message": "Eliminar"
+  },
+  "rulesDeleteAria": {
+    "message": "Eliminar la regla $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "literal"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exporta tus ajustes, lista de permitidos e historial de enlaces limpiados como JSON. Todos los datos permanecen solo en este dispositivo."
+  },
+  "exportBtn": {
+    "message": "Exportar datos (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Política de privacidad"
+  },
+  "linkSupport": {
+    "message": "Soporte"
+  },
+  "licenseTitle": {
+    "message": "Licencia"
+  },
+  "licenseIntro": {
+    "message": "CleanURL es gratis para siempre. Pro añade el conjunto de reglas ampliado, las reglas personalizadas y una lista de permitidos ilimitada."
+  },
+  "licenseCurrentAria": {
+    "message": "Plan actual"
+  },
+  "licensePlanPro": {
+    "message": "Pro — de por vida"
+  },
+  "licensePlanTrial": {
+    "message": "Prueba — 7 días"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Gracias. Todas las funciones Pro están desbloqueadas."
+  },
+  "licenseMsgTrial": {
+    "message": "Estás en una prueba sin tarjeta. Mejora cuando quieras."
+  },
+  "licenseMsgFree": {
+    "message": "Mejora para desbloquear el conjunto de reglas ampliado, las reglas personalizadas y la lista de permitidos ilimitada."
+  },
+  "licenseKeyLabel": {
+    "message": "Clave de licencia"
+  },
+  "licenseKeyAria": {
+    "message": "Introduce la clave de licencia"
+  },
+  "licenseVerify": {
+    "message": "Verificar"
+  },
+  "licenseVerifying": {
+    "message": "Verificando…"
+  },
+  "licenseTrialTitle": {
+    "message": "Inicia la prueba gratuita de 7 días"
+  },
+  "licenseTrialBody": {
+    "message": "Sin tarjeta, sin cuenta. Desbloquea el conjunto de reglas ampliado, las reglas personalizadas y la lista de permitidos ilimitada durante 7 días."
+  },
+  "licenseTrialStart": {
+    "message": "Iniciar prueba gratuita"
+  },
+  "licenseTrialStarting": {
+    "message": "Iniciando…"
+  },
+  "flashExtendedLocked": {
+    "message": "El conjunto de reglas ampliado es una función Pro. Inicia una prueba o mejora primero."
+  },
+  "flashExtendedOn": {
+    "message": "Conjunto de reglas ampliado activado."
+  },
+  "flashExtendedOff": {
+    "message": "Conjunto de reglas ampliado desactivado."
+  },
+  "flashCustomLocked": {
+    "message": "Las reglas personalizadas son una función Pro. Inicia una prueba o mejora."
+  },
+  "flashDynCap": {
+    "message": "Se alcanzó el límite de reglas dinámicas. Elimina una para añadir otra."
+  },
+  "flashBadRegex": {
+    "message": "Ese regex fue rechazado."
+  },
+  "flashCouldNotAddRule": {
+    "message": "No se pudo añadir la regla."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "No se pudo eliminar la regla $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Las claves de licencia tienen al menos 8 caracteres."
+  },
+  "flashKeyOk": {
+    "message": "Licencia verificada. Funciones Pro desbloqueadas."
+  },
+  "flashKeyFmt": {
+    "message": "El formato de la clave es demasiado corto."
+  },
+  "flashKeyRate": {
+    "message": "Demasiados intentos. Espera un minuto."
+  },
+  "flashKeyNetwork": {
+    "message": "Error de red. Inténtalo de nuevo."
+  },
+  "flashKeyTimeout": {
+    "message": "La verificación superó el tiempo de espera."
+  },
+  "flashKeyServer": {
+    "message": "Error del servidor ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Clave de licencia no reconocida."
+  },
+  "flashTrialStarted": {
+    "message": "Prueba de 7 días iniciada. Funciones Pro desbloqueadas."
+  },
+  "flashTrialUsed": {
+    "message": "Ya has usado la prueba de 7 días."
+  },
+  "flashTrialFailed": {
+    "message": "No se pudo iniciar la prueba. Inténtalo de nuevo."
+  },
+  "validateRequired": {
+    "message": "Introduce un nombre de parámetro."
+  },
+  "validateTooLong": {
+    "message": "Mantenlo por debajo de $$1 caracteres."
+  },
+  "validateLookaround": {
+    "message": "No se permite lookaround."
+  },
+  "validateNested": {
+    "message": "No se permiten cuantificadores anidados (riesgo de ReDoS)."
+  },
+  "validateComplex": {
+    "message": "El regex es demasiado complejo para evaluarlo de forma segura."
+  },
+  "validateBadRegex": {
+    "message": "Expresión regular no válida."
+  },
+  "validateCharClass": {
+    "message": "Usa letras, dígitos, punto, guion bajo o guion."
+  }
+}

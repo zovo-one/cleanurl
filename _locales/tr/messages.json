@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — İzlemeyi Kaldır"
+  },
+  "extDesc": {
+    "message": "Açtığınız bağlantılardan izleyicileri sessizce kaldırır ve yönlendirme kısayollarını çözer. %100 yerel."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL bir izni kaybetti."
+  },
+  "popupDegradedRegrant": {
+    "message": "Yeniden ver"
+  },
+  "popupDegradedResume": {
+    "message": "temizlemeye devam etmek için."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Temizlenen bağlantı"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL duraklatıldı"
+  },
+  "popupHeroResume": {
+    "message": "Temizlemeye devam etmek için aşağıdaki düğmeyi değiştirin."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "bugün temizlendi"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Bağlantıları otomatik temizle"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL'yi devre dışı bırak"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL'yi etkinleştir"
+  },
+  "popupManageSettings": {
+    "message": "İzin listesini ve ayarları yönet"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL ayarlarını aç"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro'ya yükselt — $$99 ömür boyu"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro'ya yükselt"
+  },
+  "popupSettingsLink": {
+    "message": "Ayarlar"
+  },
+  "popupRootAria": {
+    "message": "CleanURL açılır penceresi"
+  },
+  "popupFreeTierAria": {
+    "message": "Ücretsiz katman"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL başlatılamadı. Açılır pencereyi yeniden açmayı deneyin."
+  },
+  "popupMasterToggleError": {
+    "message": "Ana düğme değiştirilemedi."
+  },
+  "optionsStatusActive": {
+    "message": "Etkin"
+  },
+  "optionsStatusPaused": {
+    "message": "Duraklatıldı"
+  },
+  "optionsPauseGlobally": {
+    "message": "Genel olarak duraklat"
+  },
+  "optionsEnableGlobally": {
+    "message": "Genel olarak etkinleştir"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL'yi genel olarak duraklat"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL'yi genel olarak etkinleştir"
+  },
+  "optionsSidebarAria": {
+    "message": "Ayar bölümleri"
+  },
+  "optionsNavAria": {
+    "message": "Ayarlar"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Ana temizleme düğmesi"
+  },
+  "optionsCuratedAria": {
+    "message": "Seçilmiş kural setleri"
+  },
+  "optionsCustomAria": {
+    "message": "Özel kurallar"
+  },
+  "optionsDataAria": {
+    "message": "Veri dışa aktarma"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL ayarları yüklenemedi. Sayfayı yeniden yüklemeyi deneyin."
+  },
+  "tabAllowlist": {
+    "message": "İzin listesi"
+  },
+  "tabRules": {
+    "message": "Kurallar"
+  },
+  "tabLicense": {
+    "message": "Lisans"
+  },
+  "eyebrowSites": {
+    "message": "Temizlemeden muaf siteler"
+  },
+  "eyebrowRules": {
+    "message": "Temizleme kuralları"
+  },
+  "eyebrowPlan": {
+    "message": "Plan ve lisans"
+  },
+  "eyebrowCustom": {
+    "message": "Özel parametre kuralları"
+  },
+  "eyebrowYourData": {
+    "message": "Verileriniz"
+  },
+  "eyebrowLinks": {
+    "message": "Bağlantılar"
+  },
+  "eyebrowHaveKey": {
+    "message": "Lisans anahtarınız var mı?"
+  },
+  "allowlistTitle": {
+    "message": "İzin listesi"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL bu sitelerdeki hiçbir URL'ye dokunmaz."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Ücretsiz katman en fazla $$2 siteye izin verir — $$2 siteden $$1 tanesi kullanıldı."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro katman — sınırsız site."
+  },
+  "allowlistInputLabel": {
+    "message": "Ana bilgisayar adı (ör. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Ekle"
+  },
+  "allowlistActiveLabel": {
+    "message": "Etkin ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Henüz muaf tutulan site yok"
+  },
+  "allowlistEmptyBody": {
+    "message": "O sitede temizlemeyi atlamak için yukarıya bir ana bilgisayar adı ekleyin."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Kaldır"
+  },
+  "allowlistRemoveAria": {
+    "message": "$$1 öğesini izin listesinden kaldır"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Etkin değil (yeniden etkinleştirmek için Pro'ya yeniden katılın)"
+  },
+  "allowlistColdBadge": {
+    "message": "Soğuk"
+  },
+  "errHostnameRequired": {
+    "message": "Bir ana bilgisayar adı girin."
+  },
+  "errHostnameInvalid": {
+    "message": "Geçerli bir ana bilgisayar adı girin (ör. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 zaten izin listesinde."
+  },
+  "errFreeCap": {
+    "message": "Ücretsiz katman $$1 site ile sınırlıdır. Sınırsız için Pro'ya yükseltin."
+  },
+  "flashFreeCap": {
+    "message": "Ücretsiz katman $$1 site ile sınırlıdır. Sınırsız için Pro'ya yükseltin."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 eklenemedi."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 kaldırılamadı."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 eklenemedi."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 kaldırılamadı."
+  },
+  "rulesTitle": {
+    "message": "Kurallar"
+  },
+  "rulesIntro": {
+    "message": "CleanURL'nin kullandığı seçilmiş kural setlerini değiştirin. Kendi parametre adlarınızı (veya regex) Pro'da ekleyin."
+  },
+  "rulesCoreName": {
+    "message": "Temel kural seti"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 tutucu kaldırma + çözme kuralı. Her zaman açık."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Genişletilmiş kural seti"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresif kural: bağlı kuruluş etiketleri, pazarlama kimlikleri."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Genişletilmiş kural setini değiştir"
+  },
+  "rulesCustomDesc": {
+    "message": "Değişmez bir parametre adını (ör. mkt_tok) veya bir regex önekini (ör. ^ig_) kaldırın."
+  },
+  "rulesParamLabel": {
+    "message": "Parametre adı veya regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Girişi regex olarak işle"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "Kural ekle"
+  },
+  "rulesEmptyList": {
+    "message": "Henüz özel kural yok."
+  },
+  "rulesDeleteBtn": {
+    "message": "Sil"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 kuralını sil"
+  },
+  "rulesLiteralKind": {
+    "message": "değişmez"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Ayarlarınızı, izin listenizi ve temizlenen bağlantı geçmişinizi JSON olarak dışa aktarın. Tüm veriler yalnızca bu cihazda kalır."
+  },
+  "exportBtn": {
+    "message": "Verileri dışa aktar (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Gizlilik politikası"
+  },
+  "linkSupport": {
+    "message": "Destek"
+  },
+  "licenseTitle": {
+    "message": "Lisans"
+  },
+  "licenseIntro": {
+    "message": "CleanURL sonsuza dek ücretsizdir. Pro; genişletilmiş kural setini, özel kuralları ve sınırsız izin listesini ekler."
+  },
+  "licenseCurrentAria": {
+    "message": "Mevcut plan"
+  },
+  "licensePlanPro": {
+    "message": "Pro — ömür boyu"
+  },
+  "licensePlanTrial": {
+    "message": "Deneme — 7 gün"
+  },
+  "licensePlanFree": {
+    "message": "Ücretsiz"
+  },
+  "licenseMsgPro": {
+    "message": "Teşekkürler. Tüm Pro özellikleri açıldı."
+  },
+  "licenseMsgTrial": {
+    "message": "Kartsız bir deneme sürümündesiniz. İstediğiniz zaman yükseltin."
+  },
+  "licenseMsgFree": {
+    "message": "Genişletilmiş kural setini, özel kuralları ve sınırsız izin listesini açmak için yükseltin."
+  },
+  "licenseKeyLabel": {
+    "message": "Lisans anahtarı"
+  },
+  "licenseKeyAria": {
+    "message": "Lisans anahtarını girin"
+  },
+  "licenseVerify": {
+    "message": "Doğrula"
+  },
+  "licenseVerifying": {
+    "message": "Doğrulanıyor…"
+  },
+  "licenseTrialTitle": {
+    "message": "7 günlük ücretsiz denemeyi başlat"
+  },
+  "licenseTrialBody": {
+    "message": "Kart yok, hesap yok. Genişletilmiş kural setini, özel kuralları ve sınırsız izin listesini 7 gün boyunca açar."
+  },
+  "licenseTrialStart": {
+    "message": "Ücretsiz denemeyi başlat"
+  },
+  "licenseTrialStarting": {
+    "message": "Başlatılıyor…"
+  },
+  "flashExtendedLocked": {
+    "message": "Genişletilmiş kural seti bir Pro özelliğidir. Önce bir deneme başlatın veya yükseltin."
+  },
+  "flashExtendedOn": {
+    "message": "Genişletilmiş kural seti etkinleştirildi."
+  },
+  "flashExtendedOff": {
+    "message": "Genişletilmiş kural seti devre dışı bırakıldı."
+  },
+  "flashCustomLocked": {
+    "message": "Özel kurallar bir Pro özelliğidir. Bir deneme başlatın veya yükseltin."
+  },
+  "flashDynCap": {
+    "message": "Dinamik kural sınırına ulaşıldı. Başka bir tane eklemek için birini silin."
+  },
+  "flashBadRegex": {
+    "message": "Bu regex reddedildi."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Kural eklenemedi."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "$$1 kuralı silinemedi."
+  },
+  "flashKeyTooShort": {
+    "message": "Lisans anahtarları en az 8 karakterdir."
+  },
+  "flashKeyOk": {
+    "message": "Lisans doğrulandı. Pro özellikleri açıldı."
+  },
+  "flashKeyFmt": {
+    "message": "Anahtar biçimi çok kısa."
+  },
+  "flashKeyRate": {
+    "message": "Çok fazla deneme. Bir dakika bekleyin."
+  },
+  "flashKeyNetwork": {
+    "message": "Ağ hatası. Tekrar deneyin."
+  },
+  "flashKeyTimeout": {
+    "message": "Doğrulama zaman aşımına uğradı."
+  },
+  "flashKeyServer": {
+    "message": "Sunucu hatası ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Lisans anahtarı tanınmadı."
+  },
+  "flashTrialStarted": {
+    "message": "7 günlük deneme başladı. Pro özellikleri açıldı."
+  },
+  "flashTrialUsed": {
+    "message": "7 günlük denemeyi zaten kullandınız."
+  },
+  "flashTrialFailed": {
+    "message": "Deneme başlatılamadı. Lütfen tekrar deneyin."
+  },
+  "validateRequired": {
+    "message": "Bir parametre adı girin."
+  },
+  "validateTooLong": {
+    "message": "$$1 karakterin altında tutun."
+  },
+  "validateLookaround": {
+    "message": "Lookaround'a izin verilmez."
+  },
+  "validateNested": {
+    "message": "İç içe niceleyicilere izin verilmez (ReDoS riski)."
+  },
+  "validateComplex": {
+    "message": "Regex güvenli bir şekilde değerlendirilemeyecek kadar karmaşık."
+  },
+  "validateBadRegex": {
+    "message": "Geçersiz düzenli ifade."
+  },
+  "validateCharClass": {
+    "message": "Harf, rakam, nokta, alt çizgi veya tire kullanın."
+  }
+}

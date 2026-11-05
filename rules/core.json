@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["fbclid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["gclid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["dclid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["msclkid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["mc_eid", "mkt_tok"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["igshid", "ytclid", "srsltid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["_hsenc", "_hsmi", "__hssc", "__hstc", "__hsfp", "hsCtaTracking"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["ref_src", "_branch_match_id", "twclid", "yclid", "gbraid", "wbraid"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["_ga", "_gl"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": ["spm", "scm", "pgrid", "pcrid", "campaign_id", "ad_group", "ad_set"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "regexRemoveParams": ["^utm_"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "regexRemoveParams": ["^pk_", "^sc_"]
+          }
+        }
+      }
+    },
+    "condition": {
+      "resourceTypes": ["main_frame", "sub_frame", "xmlhttprequest"]
+    }
+  }
+]

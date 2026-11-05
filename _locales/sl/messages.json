@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — odstranjevanje sledenja"
+  },
+  "extDesc": {
+    "message": "Neopazno odstrani sledilnike iz povezav, ki jih odprete, ter razširi preusmeritve. 100 % lokalno."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL je izgubil dovoljenje."
+  },
+  "popupDegradedRegrant": {
+    "message": "Znova ga dodelite"
+  },
+  "popupDegradedResume": {
+    "message": "za nadaljevanje čiščenja."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Očiščenih povezav"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL je začasno ustavljen"
+  },
+  "popupHeroResume": {
+    "message": "Preklopite stikalo spodaj za nadaljevanje čiščenja."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "očiščeno danes"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Samodejno čisti povezave"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Onemogoči CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Omogoči CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Upravljaj seznam dovoljenih in nastavitve"
+  },
+  "popupOpenSettings": {
+    "message": "Odpri nastavitve CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Nadgradnja na Pro — $$99 doživljenjsko"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Nadgradnja na CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Nastavitve"
+  },
+  "popupRootAria": {
+    "message": "Pojavno okno CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Brezplačna raven"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL se ni mogel zagnati. Poskusite znova odpreti okno."
+  },
+  "popupMasterToggleError": {
+    "message": "Glavnega stikala ni bilo mogoče spremeniti."
+  },
+  "optionsStatusActive": {
+    "message": "Aktivno"
+  },
+  "optionsStatusPaused": {
+    "message": "Začasno ustavljeno"
+  },
+  "optionsPauseGlobally": {
+    "message": "Začasno ustavi povsod"
+  },
+  "optionsEnableGlobally": {
+    "message": "Omogoči povsod"
+  },
+  "optionsPauseAria": {
+    "message": "Začasno ustavi CleanURL povsod"
+  },
+  "optionsEnableAria": {
+    "message": "Omogoči CleanURL povsod"
+  },
+  "optionsSidebarAria": {
+    "message": "Razdelki nastavitev"
+  },
+  "optionsNavAria": {
+    "message": "Nastavitve"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Glavno stikalo čiščenja"
+  },
+  "optionsCuratedAria": {
+    "message": "Pripravljeni nabori pravil"
+  },
+  "optionsCustomAria": {
+    "message": "Pravila po meri"
+  },
+  "optionsDataAria": {
+    "message": "Izvoz podatkov"
+  },
+  "optionsBootstrapError": {
+    "message": "Nastavitev CleanURL ni bilo mogoče naložiti. Poskusite znova naložiti stran."
+  },
+  "tabAllowlist": {
+    "message": "Seznam dovoljenih"
+  },
+  "tabRules": {
+    "message": "Pravila"
+  },
+  "tabLicense": {
+    "message": "Licenca"
+  },
+  "eyebrowSites": {
+    "message": "Spletna mesta, izvzeta iz čiščenja"
+  },
+  "eyebrowRules": {
+    "message": "Pravila čiščenja"
+  },
+  "eyebrowPlan": {
+    "message": "Naročnina in licenca"
+  },
+  "eyebrowCustom": {
+    "message": "Pravila parametrov po meri"
+  },
+  "eyebrowYourData": {
+    "message": "Vaši podatki"
+  },
+  "eyebrowLinks": {
+    "message": "Povezave"
+  },
+  "eyebrowHaveKey": {
+    "message": "Imate licenčni ključ?"
+  },
+  "allowlistTitle": {
+    "message": "Seznam dovoljenih"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL se ne bo dotaknil nobenega naslova URL na teh spletnih mestih."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Brezplačna raven omogoča do $$2 spletnih mest — uporabljenih $$1 od $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Raven Pro — neomejeno število spletnih mest."
+  },
+  "allowlistInputLabel": {
+    "message": "Ime gostitelja (npr. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Dodaj"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktivno ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Zaenkrat ni izvzetih spletnih mest"
+  },
+  "allowlistEmptyBody": {
+    "message": "Zgoraj dodajte ime gostitelja, da preskočite čiščenje na tem spletnem mestu."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Odstrani"
+  },
+  "allowlistRemoveAria": {
+    "message": "Odstrani $$1 s seznama dovoljenih"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Neaktivno (Znova aktivirajte Pro za ponovno aktivacijo)"
+  },
+  "allowlistColdBadge": {
+    "message": "Hladno"
+  },
+  "errHostnameRequired": {
+    "message": "Vnesite ime gostitelja."
+  },
+  "errHostnameInvalid": {
+    "message": "Vnesite veljavno ime gostitelja (npr. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 je že na seznamu dovoljenih."
+  },
+  "errFreeCap": {
+    "message": "Brezplačna raven je omejena na $$1 spletnih mest. Nadgradite na Pro za neomejeno število."
+  },
+  "flashFreeCap": {
+    "message": "Brezplačna raven je omejena na $$1 spletnih mest. Nadgradite na Pro za neomejeno število."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 ni bilo mogoče dodati."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 ni bilo mogoče odstraniti."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 ni bilo mogoče dodati."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 ni bilo mogoče odstraniti."
+  },
+  "rulesTitle": {
+    "message": "Pravila"
+  },
+  "rulesIntro": {
+    "message": "Preklapljajte pripravljene nabore pravil, ki jih uporablja CleanURL. Dodajte lastna imena parametrov (ali regex) v različici Pro."
+  },
+  "rulesCoreName": {
+    "message": "Osnovni nabor pravil"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 konservativnih pravil za odstranjevanje in razširjanje. Vedno vklopljeno."
+  },
+  "rulesCoreBadge": {
+    "message": "VKL."
+  },
+  "rulesExtendedName": {
+    "message": "Razširjeni nabor pravil"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresivnih pravil: partnerske oznake, tržni ID-ji."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Preklopi razširjeni nabor pravil"
+  },
+  "rulesCustomDesc": {
+    "message": "Odstrani dobesedno ime parametra (npr. mkt_tok) ali predpono regex (npr. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Ime parametra ali regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Obravnavaj vnos kot regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Dodaj pravilo"
+  },
+  "rulesEmptyList": {
+    "message": "Zaenkrat ni pravil po meri."
+  },
+  "rulesDeleteBtn": {
+    "message": "Izbriši"
+  },
+  "rulesDeleteAria": {
+    "message": "Izbriši pravilo $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "dobesedno"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Izvozite svoje nastavitve, seznam dovoljenih in zgodovino očiščenih povezav kot JSON. Vsi podatki ostanejo samo v tej napravi."
+  },
+  "exportBtn": {
+    "message": "Izvozi podatke (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Pravilnik o zasebnosti"
+  },
+  "linkSupport": {
+    "message": "Podpora"
+  },
+  "licenseTitle": {
+    "message": "Licenca"
+  },
+  "licenseIntro": {
+    "message": "CleanURL je za vedno brezplačen. Pro dodaja razširjeni nabor pravil, pravila po meri in neomejen seznam dovoljenih."
+  },
+  "licenseCurrentAria": {
+    "message": "Trenutna naročnina"
+  },
+  "licensePlanPro": {
+    "message": "Pro — doživljenjsko"
+  },
+  "licensePlanTrial": {
+    "message": "Preizkus — 7 dni"
+  },
+  "licensePlanFree": {
+    "message": "Brezplačno"
+  },
+  "licenseMsgPro": {
+    "message": "Hvala. Vse funkcije Pro so odklenjene."
+  },
+  "licenseMsgTrial": {
+    "message": "Uporabljate preizkus brez kartice. Kadar koli nadgradite na Pro."
+  },
+  "licenseMsgFree": {
+    "message": "Nadgradite na Pro za odklep razširjenega nabora pravil, pravil po meri in neomejenega seznama dovoljenih."
+  },
+  "licenseKeyLabel": {
+    "message": "Licenčni ključ"
+  },
+  "licenseKeyAria": {
+    "message": "Vnesite licenčni ključ"
+  },
+  "licenseVerify": {
+    "message": "Preveri"
+  },
+  "licenseVerifying": {
+    "message": "Preverjanje…"
+  },
+  "licenseTrialTitle": {
+    "message": "Začni 7-dnevni brezplačni preizkus"
+  },
+  "licenseTrialBody": {
+    "message": "Brez kartice, brez računa. Odklene razširjeni nabor pravil, pravila po meri in neomejen seznam dovoljenih za 7 dni."
+  },
+  "licenseTrialStart": {
+    "message": "Začni brezplačni preizkus"
+  },
+  "licenseTrialStarting": {
+    "message": "Zagon…"
+  },
+  "flashExtendedLocked": {
+    "message": "Razširjeni nabor pravil je funkcija Pro. Najprej začnite preizkus ali nadgradite."
+  },
+  "flashExtendedOn": {
+    "message": "Razširjeni nabor pravil je omogočen."
+  },
+  "flashExtendedOff": {
+    "message": "Razširjeni nabor pravil je onemogočen."
+  },
+  "flashCustomLocked": {
+    "message": "Pravila po meri so funkcija Pro. Začnite preizkus ali nadgradite."
+  },
+  "flashDynCap": {
+    "message": "Dosežena omejitev dinamičnih pravil. Izbrišite eno, da dodate drugo."
+  },
+  "flashBadRegex": {
+    "message": "Ta regex je bil zavrnjen."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Pravila ni bilo mogoče dodati."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Pravila $$1 ni bilo mogoče izbrisati."
+  },
+  "flashKeyTooShort": {
+    "message": "Licenčni ključi imajo vsaj 8 znakov."
+  },
+  "flashKeyOk": {
+    "message": "Licenca preverjena. Funkcije Pro odklenjene."
+  },
+  "flashKeyFmt": {
+    "message": "Oblika ključa je prekratka."
+  },
+  "flashKeyRate": {
+    "message": "Preveč poskusov. Počakajte minuto."
+  },
+  "flashKeyNetwork": {
+    "message": "Napaka omrežja. Poskusite znova."
+  },
+  "flashKeyTimeout": {
+    "message": "Čas preverjanja je potekel."
+  },
+  "flashKeyServer": {
+    "message": "Napaka strežnika ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licenčni ključ ni prepoznan."
+  },
+  "flashTrialStarted": {
+    "message": "7-dnevni preizkus se je začel. Funkcije Pro odklenjene."
+  },
+  "flashTrialUsed": {
+    "message": "7-dnevni preizkus ste že izkoristili."
+  },
+  "flashTrialFailed": {
+    "message": "Preizkusa ni bilo mogoče začeti. Poskusite znova."
+  },
+  "validateRequired": {
+    "message": "Vnesite ime parametra."
+  },
+  "validateTooLong": {
+    "message": "Naj bo krajše od $$1 znakov."
+  },
+  "validateLookaround": {
+    "message": "Lookaround ni dovoljen."
+  },
+  "validateNested": {
+    "message": "Gnezdeni kvantifikatorji niso dovoljeni (tveganje ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex je preveč zapleten za varno ovrednotenje."
+  },
+  "validateBadRegex": {
+    "message": "Neveljaven regularni izraz."
+  },
+  "validateCharClass": {
+    "message": "Uporabite črke, števke, piko, podčrtaj ali vezaj."
+  }
+}

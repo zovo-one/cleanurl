@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Ondoa Ufuatiliaji"
+  },
+  "extDesc": {
+    "message": "Huondoa kwa utulivu vifuatiliaji kutoka viungo unavyofungua, na hufungua njia za mkato za kuelekeza upya. 100% ya ndani."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL imepoteza ruhusa."
+  },
+  "popupDegradedRegrant": {
+    "message": "Ipe tena"
+  },
+  "popupDegradedResume": {
+    "message": "ili kuendelea kusafisha."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Viungo vilivyosafishwa"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL imesimamishwa"
+  },
+  "popupHeroResume": {
+    "message": "Geuza swichi hapa chini ili kuendelea kusafisha."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "vimesafishwa leo"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Safisha viungo kiotomatiki"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Zima CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Washa CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Dhibiti orodha ya kuruhusu na mipangilio"
+  },
+  "popupOpenSettings": {
+    "message": "Fungua mipangilio ya CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Pandisha hadi Pro — $$99 ya maisha"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Pandisha hadi CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Mipangilio"
+  },
+  "popupRootAria": {
+    "message": "Kidirisha ibukizi cha CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Kiwango cha bila malipo"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL haikuweza kuanza. Jaribu kufungua tena kidirisha ibukizi."
+  },
+  "popupMasterToggleError": {
+    "message": "Haikuwezekana kubadilisha swichi kuu."
+  },
+  "optionsStatusActive": {
+    "message": "Inatumika"
+  },
+  "optionsStatusPaused": {
+    "message": "Imesimamishwa"
+  },
+  "optionsPauseGlobally": {
+    "message": "Simamisha kimataifa"
+  },
+  "optionsEnableGlobally": {
+    "message": "Washa kimataifa"
+  },
+  "optionsPauseAria": {
+    "message": "Simamisha CleanURL kimataifa"
+  },
+  "optionsEnableAria": {
+    "message": "Washa CleanURL kimataifa"
+  },
+  "optionsSidebarAria": {
+    "message": "Sehemu za mipangilio"
+  },
+  "optionsNavAria": {
+    "message": "Mipangilio"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Swichi kuu ya kusafisha"
+  },
+  "optionsCuratedAria": {
+    "message": "Seti za sheria zilizoteuliwa"
+  },
+  "optionsCustomAria": {
+    "message": "Sheria maalum"
+  },
+  "optionsDataAria": {
+    "message": "Kuhamisha data"
+  },
+  "optionsBootstrapError": {
+    "message": "Mipangilio ya CleanURL haikuweza kupakia. Jaribu kupakia upya ukurasa."
+  },
+  "tabAllowlist": {
+    "message": "Orodha ya kuruhusu"
+  },
+  "tabRules": {
+    "message": "Sheria"
+  },
+  "tabLicense": {
+    "message": "Leseni"
+  },
+  "eyebrowSites": {
+    "message": "Tovuti zilizoachwa bila kusafishwa"
+  },
+  "eyebrowRules": {
+    "message": "Sheria za kusafisha"
+  },
+  "eyebrowPlan": {
+    "message": "Mpango na leseni"
+  },
+  "eyebrowCustom": {
+    "message": "Sheria za vigezo maalum"
+  },
+  "eyebrowYourData": {
+    "message": "Data yako"
+  },
+  "eyebrowLinks": {
+    "message": "Viungo"
+  },
+  "eyebrowHaveKey": {
+    "message": "Una ufunguo wa leseni?"
+  },
+  "allowlistTitle": {
+    "message": "Orodha ya kuruhusu"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL haitagusa URL yoyote kwenye tovuti hizi."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Kiwango cha bila malipo huruhusu hadi tovuti $$2 — $$1 kati ya $$2 zimetumika."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Kiwango cha Pro — tovuti zisizo na kikomo."
+  },
+  "allowlistInputLabel": {
+    "message": "Jina la seva pangishi (mfano shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Ongeza"
+  },
+  "allowlistActiveLabel": {
+    "message": "Inatumika ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Hakuna tovuti zilizoachwa bado"
+  },
+  "allowlistEmptyBody": {
+    "message": "Ongeza jina la seva pangishi hapo juu ili kuruka kusafisha kwenye tovuti hiyo."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Ondoa"
+  },
+  "allowlistRemoveAria": {
+    "message": "Ondoa $$1 kwenye orodha ya kuruhusu"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Haitumiki (Jiunge tena na Pro ili kuwasha upya)"
+  },
+  "allowlistColdBadge": {
+    "message": "Baridi"
+  },
+  "errHostnameRequired": {
+    "message": "Weka jina la seva pangishi."
+  },
+  "errHostnameInvalid": {
+    "message": "Weka jina halali la seva pangishi (mfano example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 tayari ipo kwenye orodha ya kuruhusu."
+  },
+  "errFreeCap": {
+    "message": "Kiwango cha bila malipo huwekea kikomo cha tovuti $$1. Pandisha hadi Pro kwa zisizo na kikomo."
+  },
+  "flashFreeCap": {
+    "message": "Kiwango cha bila malipo kimewekewa kikomo cha tovuti $$1. Pandisha hadi Pro kwa zisizo na kikomo."
+  },
+  "errCouldNotAdd": {
+    "message": "Haikuwezekana kuongeza $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Haikuwezekana kuondoa $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Haikuwezekana kuongeza $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Haikuwezekana kuondoa $$1."
+  },
+  "rulesTitle": {
+    "message": "Sheria"
+  },
+  "rulesIntro": {
+    "message": "Geuza seti za sheria zilizoteuliwa ambazo CleanURL hutumia. Ongeza majina yako ya vigezo (au regex) kwenye Pro."
+  },
+  "rulesCoreName": {
+    "message": "Seti kuu ya sheria"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 za sheria za tahadhari za kuondoa + kufungua. Daima zimewashwa."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Seti ya sheria iliyopanuliwa"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 za sheria kali: lebo za washirika, vitambulisho vya uuzaji."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Geuza seti ya sheria iliyopanuliwa"
+  },
+  "rulesCustomDesc": {
+    "message": "Ondoa jina halisi la kigezo (mfano mkt_tok) au kiambishi awali cha regex (mfano ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Jina la kigezo au regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Chukulia ingizo kama regex"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "Ongeza sheria"
+  },
+  "rulesEmptyList": {
+    "message": "Hakuna sheria maalum bado."
+  },
+  "rulesDeleteBtn": {
+    "message": "Futa"
+  },
+  "rulesDeleteAria": {
+    "message": "Futa sheria $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "halisi"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Hamisha mipangilio yako, orodha ya kuruhusu, na historia ya viungo vilivyosafishwa kama JSON. Data yote hukaa kwenye kifaa hiki pekee."
+  },
+  "exportBtn": {
+    "message": "Hamisha data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Sera ya faragha"
+  },
+  "linkSupport": {
+    "message": "Usaidizi"
+  },
+  "licenseTitle": {
+    "message": "Leseni"
+  },
+  "licenseIntro": {
+    "message": "CleanURL ni bila malipo milele. Pro huongeza seti ya sheria iliyopanuliwa, sheria maalum, na orodha ya kuruhusu isiyo na kikomo."
+  },
+  "licenseCurrentAria": {
+    "message": "Mpango wa sasa"
+  },
+  "licensePlanPro": {
+    "message": "Pro — ya maisha"
+  },
+  "licensePlanTrial": {
+    "message": "Jaribio — siku 7"
+  },
+  "licensePlanFree": {
+    "message": "Bila malipo"
+  },
+  "licenseMsgPro": {
+    "message": "Asante. Vipengele vyote vya Pro vimefunguliwa."
+  },
+  "licenseMsgTrial": {
+    "message": "Uko kwenye jaribio bila kadi. Pandisha wakati wowote."
+  },
+  "licenseMsgFree": {
+    "message": "Pandisha ili kufungua seti ya sheria iliyopanuliwa, sheria maalum, na orodha ya kuruhusu isiyo na kikomo."
+  },
+  "licenseKeyLabel": {
+    "message": "Ufunguo wa leseni"
+  },
+  "licenseKeyAria": {
+    "message": "Weka ufunguo wa leseni"
+  },
+  "licenseVerify": {
+    "message": "Thibitisha"
+  },
+  "licenseVerifying": {
+    "message": "Inathibitisha…"
+  },
+  "licenseTrialTitle": {
+    "message": "Anza jaribio la bure la siku 7"
+  },
+  "licenseTrialBody": {
+    "message": "Hakuna kadi, hakuna akaunti. Hufungua seti ya sheria iliyopanuliwa, sheria maalum, na orodha ya kuruhusu isiyo na kikomo kwa siku 7."
+  },
+  "licenseTrialStart": {
+    "message": "Anza jaribio la bure"
+  },
+  "licenseTrialStarting": {
+    "message": "Inaanza…"
+  },
+  "flashExtendedLocked": {
+    "message": "Seti ya sheria iliyopanuliwa ni kipengele cha Pro. Anza jaribio au pandisha kwanza."
+  },
+  "flashExtendedOn": {
+    "message": "Seti ya sheria iliyopanuliwa imewashwa."
+  },
+  "flashExtendedOff": {
+    "message": "Seti ya sheria iliyopanuliwa imezimwa."
+  },
+  "flashCustomLocked": {
+    "message": "Sheria maalum ni kipengele cha Pro. Anza jaribio au pandisha."
+  },
+  "flashDynCap": {
+    "message": "Kikomo cha sheria zinazobadilika kimefikiwa. Futa moja ili kuongeza nyingine."
+  },
+  "flashBadRegex": {
+    "message": "Regex hiyo ilikataliwa."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Haikuwezekana kuongeza sheria."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Haikuwezekana kufuta sheria $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Funguo za leseni ni angalau herufi 8."
+  },
+  "flashKeyOk": {
+    "message": "Leseni imethibitishwa. Vipengele vya Pro vimefunguliwa."
+  },
+  "flashKeyFmt": {
+    "message": "Umbizo la ufunguo ni fupi mno."
+  },
+  "flashKeyRate": {
+    "message": "Majaribio mengi mno. Subiri dakika moja."
+  },
+  "flashKeyNetwork": {
+    "message": "Hitilafu ya mtandao. Jaribu tena."
+  },
+  "flashKeyTimeout": {
+    "message": "Uthibitishaji umeisha muda."
+  },
+  "flashKeyServer": {
+    "message": "Hitilafu ya seva ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Ufunguo wa leseni haukutambuliwa."
+  },
+  "flashTrialStarted": {
+    "message": "Jaribio la siku 7 limeanza. Vipengele vya Pro vimefunguliwa."
+  },
+  "flashTrialUsed": {
+    "message": "Tayari umetumia jaribio la siku 7."
+  },
+  "flashTrialFailed": {
+    "message": "Haikuwezekana kuanza jaribio. Tafadhali jaribu tena."
+  },
+  "validateRequired": {
+    "message": "Weka jina la kigezo."
+  },
+  "validateTooLong": {
+    "message": "Iweke chini ya herufi $$1."
+  },
+  "validateLookaround": {
+    "message": "Lookaround hairuhusiwi."
+  },
+  "validateNested": {
+    "message": "Vipimo vilivyoingizwa ndani havijaruhusiwa (hatari ya ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex ni changamano mno kutathminiwa kwa usalama."
+  },
+  "validateBadRegex": {
+    "message": "Usemi wa kawaida batili."
+  },
+  "validateCharClass": {
+    "message": "Tumia herufi, tarakimu, nukta, mstari wa chini, au kistari."
+  }
+}

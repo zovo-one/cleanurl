@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--
+    CleanURL onboarding. Optional overrides may be supplied at runtime from
+    chrome.storage.local key `clean9992_onboardingConfig`.
+    No external resources are loaded (CSP-safe, offline-safe). Inter is used
+    via font stack only — no Google Fonts link.
+  -->
+  <title>Welcome to CleanURL</title>
+  <link rel="stylesheet" href="onboarding.css">
+</head>
+<body class="clean9992-onboarding-body">
+  <main class="clean9992-onboarding" role="main" aria-label="Onboarding">
+    <!-- Progress -->
+    <div class="clean9992-progress" aria-hidden="true">
+      <div class="clean9992-progress-bar" id="clean9992-progress-bar" style="width: 33%"></div>
+    </div>
+    <div class="clean9992-progress-dots" role="tablist" aria-label="Onboarding steps">
+      <span class="clean9992-dot clean9992-dot--active clean9992-dot--current" data-step="1" role="tab" aria-selected="true">1</span>
+      <span class="clean9992-dot" data-step="2" role="tab" aria-selected="false">2</span>
+      <span class="clean9992-dot" data-step="3" role="tab" aria-selected="false">3</span>
+    </div>
+
+    <!-- Step 1: Welcome -->
+    <section class="clean9992-step clean9992-step--active" id="clean9992-step-1" role="tabpanel" aria-label="Welcome">
+      <div class="clean9992-step-icon">
+        <img src="../../icons/icon-128.png" alt="CleanURL" width="80" height="80" onerror="this.style.display='none'">
+      </div>
+      <h1 class="clean9992-step-title" data-i18n="onboarding_welcome_title">Welcome to CleanURL</h1>
+      <p class="clean9992-step-text" data-i18n="onboarding_welcome_body">CleanURL strips tracking parameters and unwraps redirect-cloak links, locally in your browser. No accounts, no telemetry.</p>
+      <button class="clean9992-btn clean9992-btn--primary clean9992-btn--lg" id="clean9992-btn-start" type="button" data-i18n="onboarding_get_started">Get Started</button>
+      <button class="clean9992-btn clean9992-btn--ghost" id="clean9992-btn-skip" type="button" data-i18n="onboarding_skip">Skip setup</button>
+    </section>
+
+    <!-- Step 2: Quick Setup -->
+    <section class="clean9992-step" id="clean9992-step-2" role="tabpanel" aria-label="Quick setup" hidden>
+      <h2 class="clean9992-step-title" data-i18n="onboarding_setup_title">Quick setup</h2>
+      <p class="clean9992-step-text" data-i18n="onboarding_setup_body">Tune the essentials. You can change these anytime in Settings.</p>
+      <div class="clean9992-config-options">
+        <label class="clean9992-config-option">
+          <input type="checkbox" class="clean9992-checkbox" data-config="notifications" checked>
+          <span class="clean9992-config-info">
+            <strong data-i18n="onboarding_opt_notifications_title">Notifications</strong>
+            <span data-i18n="onboarding_opt_notifications_body">Get alerts for important events</span>
+          </span>
+        </label>
+        <label class="clean9992-config-option">
+          <input type="checkbox" class="clean9992-checkbox" data-config="analytics" checked>
+          <span class="clean9992-config-info">
+            <strong data-i18n="onboarding_opt_analytics_title">Usage insights</strong>
+            <span data-i18n="onboarding_opt_analytics_body">Local-only stats. Never leaves your device.</span>
+          </span>
+        </label>
+      </div>
+
+      <!--
+        OPTIONAL permission priming. Kept hidden by default; reveal by removing
+        `hidden` and setting data-perm-origins to the host(s) you actually need
+        (e.g. "https://*.example.com/*"). The request fires from THIS click —
+        a genuine user gesture, which chrome.permissions.request requires.
+        Origins listed here must appear in manifest "optional_host_permissions".
+      -->
+      <div class="clean9992-perm-prime" id="clean9992-perm-prime" data-perm-origins="" hidden>
+        <div class="clean9992-perm-copy">
+          <strong data-i18n="onboarding_perm_title">Enable on your sites</strong>
+          <span class="clean9992-perm-body" data-i18n="onboarding_perm_body">Grant access so the extension can work where you need it. You can revoke this anytime.</span>
+        </div>
+        <button class="clean9992-btn clean9992-btn--secondary clean9992-btn--sm" id="clean9992-btn-grant" type="button" data-i18n="onboarding_perm_grant">Enable</button>
+        <span class="clean9992-perm-status" id="clean9992-perm-status" role="status" aria-live="polite"></span>
+      </div>
+
+      <button class="clean9992-btn clean9992-btn--primary clean9992-btn--lg" id="clean9992-btn-next" type="button" data-i18n="onboarding_continue">Continue</button>
+    </section>
+
+    <!-- Step 3: First Action -->
+    <section class="clean9992-step" id="clean9992-step-3" role="tabpanel" aria-label="First action" hidden>
+      <div class="clean9992-step-icon clean9992-step-icon--success">
+        <svg width="80" height="80" viewBox="0 0 80 80" fill="none" aria-hidden="true">
+          <circle cx="40" cy="40" r="40" fill="var(--clean9992-primary)"></circle>
+          <path d="M24 40L34 50L56 28" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+      </div>
+      <h2 class="clean9992-step-title" data-i18n="onboarding_action_title">You're already protected</h2>
+      <p class="clean9992-step-text" data-i18n="onboarding_action_body">CleanURL started cleaning links the moment you installed it. Click the puzzle icon and pin CleanURL to your toolbar to watch the counter climb with every link you open.</p>
+      <div class="clean9992-pro-teaser">
+        <p class="clean9992-pro-teaser-text" data-i18n="onboarding_pro_teaser"><strong>Want more?</strong> Unlock every feature with  Pro.</p>
+        <button class="clean9992-btn clean9992-btn--secondary clean9992-btn--sm" id="clean9992-btn-pro" type="button" data-i18n="onboarding_learn_pro">Learn about Pro</button>
+      </div>
+      <button class="clean9992-btn clean9992-btn--primary clean9992-btn--lg" id="clean9992-btn-finish" type="button" data-i18n="onboarding_finish">Start using CleanURL</button>
+    </section>
+
+    <footer class="clean9992-onboarding-footer">
+      <span></span>
+    </footer>
+  </main>
+  <script src="onboarding.js"></script>
+</body>
+</html>

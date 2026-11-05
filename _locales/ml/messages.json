@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — ട്രാക്കിംഗ് നീക്കം ചെയ്യുക"
+  },
+  "extDesc": {
+    "message": "നിങ്ങൾ തുറക്കുന്ന ലിങ്കുകളിൽ നിന്ന് ട്രാക്കറുകൾ നിശ്ശബ്ദമായി നീക്കുന്നു, റീഡയറക്റ്റ് കുറുക്കുവഴികൾ അൺറാപ്പ് ചെയ്യുന്നു. 100% ലോക്കൽ."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL-ന് ഒരു അനുമതി നഷ്ടപ്പെട്ടു."
+  },
+  "popupDegradedRegrant": {
+    "message": "അത് വീണ്ടും അനുവദിക്കുക"
+  },
+  "popupDegradedResume": {
+    "message": "വൃത്തിയാക്കൽ പുനരാരംഭിക്കാൻ."
+  },
+  "popupHeroLabelLinks": {
+    "message": "വൃത്തിയാക്കിയ ലിങ്കുകൾ"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL താൽക്കാലികമായി നിർത്തിയിരിക്കുന്നു"
+  },
+  "popupHeroResume": {
+    "message": "വൃത്തിയാക്കൽ പുനരാരംഭിക്കാൻ താഴെയുള്ള ടോഗിൾ മാറ്റുക."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "ഇന്ന് വൃത്തിയാക്കി"
+  },
+  "popupMasterToggleLabel": {
+    "message": "ലിങ്കുകൾ സ്വയമേവ വൃത്തിയാക്കുക"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL പ്രവർത്തനരഹിതമാക്കുക"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "popupManageSettings": {
+    "message": "അനുവദനീയപ്പട്ടികയും ക്രമീകരണങ്ങളും കൈകാര്യം ചെയ്യുക"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL ക്രമീകരണങ്ങൾ തുറക്കുക"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക — $$99 ആജീവനാന്തം"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
+  },
+  "popupSettingsLink": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "popupRootAria": {
+    "message": "CleanURL പോപ്പ്‌അപ്പ്"
+  },
+  "popupFreeTierAria": {
+    "message": "സൗജന്യ ടയർ"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL ആരംഭിക്കാൻ കഴിഞ്ഞില്ല. പോപ്പ്‌അപ്പ് വീണ്ടും തുറക്കാൻ ശ്രമിക്കുക."
+  },
+  "popupMasterToggleError": {
+    "message": "മാസ്റ്റർ ടോഗിൾ മാറ്റാൻ കഴിഞ്ഞില്ല."
+  },
+  "optionsStatusActive": {
+    "message": "സജീവം"
+  },
+  "optionsStatusPaused": {
+    "message": "നിർത്തി"
+  },
+  "optionsPauseGlobally": {
+    "message": "ആഗോളമായി നിർത്തുക"
+  },
+  "optionsEnableGlobally": {
+    "message": "ആഗോളമായി പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL ആഗോളമായി നിർത്തുക"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL ആഗോളമായി പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "optionsSidebarAria": {
+    "message": "ക്രമീകരണ വിഭാഗങ്ങൾ"
+  },
+  "optionsNavAria": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "optionsMasterToggleAria": {
+    "message": "മാസ്റ്റർ ക്ലീൻ ടോഗിൾ"
+  },
+  "optionsCuratedAria": {
+    "message": "തിരഞ്ഞെടുത്ത നിയമ സെറ്റുകൾ"
+  },
+  "optionsCustomAria": {
+    "message": "ഇഷ്‌ടാനുസൃത നിയമങ്ങൾ"
+  },
+  "optionsDataAria": {
+    "message": "ഡാറ്റ കയറ്റുമതി"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL ക്രമീകരണങ്ങൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല. പേജ് വീണ്ടും ലോഡ് ചെയ്യാൻ ശ്രമിക്കുക."
+  },
+  "tabAllowlist": {
+    "message": "അനുവദനീയപ്പട്ടിക"
+  },
+  "tabRules": {
+    "message": "നിയമങ്ങൾ"
+  },
+  "tabLicense": {
+    "message": "ലൈസൻസ്"
+  },
+  "eyebrowSites": {
+    "message": "വൃത്തിയാക്കലിൽ നിന്ന് ഒഴിവാക്കിയ സൈറ്റുകൾ"
+  },
+  "eyebrowRules": {
+    "message": "വൃത്തിയാക്കൽ നിയമങ്ങൾ"
+  },
+  "eyebrowPlan": {
+    "message": "പ്ലാൻ & ലൈസൻസ്"
+  },
+  "eyebrowCustom": {
+    "message": "ഇഷ്‌ടാനുസൃത പാരാമീറ്റർ നിയമങ്ങൾ"
+  },
+  "eyebrowYourData": {
+    "message": "നിങ്ങളുടെ ഡാറ്റ"
+  },
+  "eyebrowLinks": {
+    "message": "ലിങ്കുകൾ"
+  },
+  "eyebrowHaveKey": {
+    "message": "ഒരു ലൈസൻസ് കീ ഉണ്ടോ?"
+  },
+  "allowlistTitle": {
+    "message": "അനുവദനീയപ്പട്ടിക"
+  },
+  "allowlistIntro": {
+    "message": "ഈ സൈറ്റുകളിലെ ഒരു URL-ലും CleanURL സ്പർശിക്കില്ല."
+  },
+  "allowlistCapUsageFree": {
+    "message": "സൗജന്യ ടയർ പരമാവധി $$2 സൈറ്റുകൾ അനുവദിക്കുന്നു — $$2-ൽ $$1 ഉപയോഗിച്ചു."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro ടയർ — പരിധിയില്ലാത്ത സൈറ്റുകൾ."
+  },
+  "allowlistInputLabel": {
+    "message": "ഹോസ്റ്റ്നാമം (ഉദാ. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "ചേർക്കുക"
+  },
+  "allowlistActiveLabel": {
+    "message": "സജീവം ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "ഇതുവരെ ഒരു സൈറ്റും ഒഴിവാക്കിയിട്ടില്ല"
+  },
+  "allowlistEmptyBody": {
+    "message": "ആ സൈറ്റിൽ വൃത്തിയാക്കൽ ഒഴിവാക്കാൻ മുകളിൽ ഒരു ഹോസ്റ്റ്നാമം ചേർക്കുക."
+  },
+  "allowlistRemoveBtn": {
+    "message": "നീക്കം ചെയ്യുക"
+  },
+  "allowlistRemoveAria": {
+    "message": "$$1 അനുവദനീയപ്പട്ടികയിൽ നിന്ന് നീക്കം ചെയ്യുക"
+  },
+  "allowlistInactiveLabel": {
+    "message": "നിഷ്‌ക്രിയം (വീണ്ടും സജീവമാക്കാൻ Pro-യിൽ വീണ്ടും ചേരുക)"
+  },
+  "allowlistColdBadge": {
+    "message": "കോൾഡ്"
+  },
+  "errHostnameRequired": {
+    "message": "ഒരു ഹോസ്റ്റ്നാമം നൽകുക."
+  },
+  "errHostnameInvalid": {
+    "message": "സാധുവായ ഒരു ഹോസ്റ്റ്നാമം നൽകുക (ഉദാ. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ഇതിനകം അനുവദനീയപ്പട്ടികയിലുണ്ട്."
+  },
+  "errFreeCap": {
+    "message": "സൗജന്യ ടയർ $$1 സൈറ്റുകളിൽ പരിമിതപ്പെടുത്തുന്നു. പരിധിയില്ലാത്തതിന് Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "flashFreeCap": {
+    "message": "സൗജന്യ ടയർ $$1 സൈറ്റുകളിൽ പരിമിതപ്പെടുത്തിയിരിക്കുന്നു. പരിധിയില്ലാത്തതിന് Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 ചേർക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 നീക്കം ചെയ്യാൻ കഴിഞ്ഞില്ല."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 ചേർക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 നീക്കം ചെയ്യാൻ കഴിഞ്ഞില്ല."
+  },
+  "rulesTitle": {
+    "message": "നിയമങ്ങൾ"
+  },
+  "rulesIntro": {
+    "message": "CleanURL ഉപയോഗിക്കുന്ന തിരഞ്ഞെടുത്ത നിയമ സെറ്റുകൾ ടോഗിൾ ചെയ്യുക. Pro-യിൽ നിങ്ങളുടെ സ്വന്തം പാരാമീറ്റർ പേരുകൾ (അല്ലെങ്കിൽ regex-കൾ) ചേർക്കുക."
+  },
+  "rulesCoreName": {
+    "message": "കോർ നിയമ സെറ്റ്"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 യാഥാസ്ഥിതിക നീക്കം + അൺറാപ്പ് നിയമങ്ങൾ. എപ്പോഴും ഓൺ."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ്"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 ശക്തമായ നിയമങ്ങൾ: അഫിലിയേറ്റ് ടാഗുകൾ, മാർക്കറ്റിംഗ് ഐഡികൾ."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ് ടോഗിൾ ചെയ്യുക"
+  },
+  "rulesCustomDesc": {
+    "message": "ഒരു ലിറ്ററൽ പാരാമീറ്റർ പേര് (ഉദാ. mkt_tok) അല്ലെങ്കിൽ ഒരു regex പ്രിഫിക്‌സ് (ഉദാ. ^ig_) നീക്കം ചെയ്യുക."
+  },
+  "rulesParamLabel": {
+    "message": "പാരാമീറ്റർ പേര് അല്ലെങ്കിൽ regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ഇൻപുട്ട് regex ആയി പരിഗണിക്കുക"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "നിയമം ചേർക്കുക"
+  },
+  "rulesEmptyList": {
+    "message": "ഇതുവരെ ഇഷ്‌ടാനുസൃത നിയമങ്ങളൊന്നുമില്ല."
+  },
+  "rulesDeleteBtn": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "rulesDeleteAria": {
+    "message": "$$1 നിയമം ഇല്ലാതാക്കുക"
+  },
+  "rulesLiteralKind": {
+    "message": "ലിറ്ററൽ"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "നിങ്ങളുടെ ക്രമീകരണങ്ങൾ, അനുവദനീയപ്പട്ടിക, വൃത്തിയാക്കിയ ലിങ്ക് ചരിത്രം എന്നിവ JSON ആയി കയറ്റുമതി ചെയ്യുക. എല്ലാ ഡാറ്റയും ഈ ഉപകരണത്തിൽ മാത്രമേ ഉള്ളൂ."
+  },
+  "exportBtn": {
+    "message": "ഡാറ്റ കയറ്റുമതി ചെയ്യുക (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "സ്വകാര്യതാ നയം"
+  },
+  "linkSupport": {
+    "message": "പിന്തുണ"
+  },
+  "licenseTitle": {
+    "message": "ലൈസൻസ്"
+  },
+  "licenseIntro": {
+    "message": "CleanURL എന്നേക്കും സൗജന്യമാണ്. Pro വിപുലീകൃത നിയമ സെറ്റ്, ഇഷ്‌ടാനുസൃത നിയമങ്ങൾ, പരിധിയില്ലാത്ത അനുവദനീയപ്പട്ടിക എന്നിവ ചേർക്കുന്നു."
+  },
+  "licenseCurrentAria": {
+    "message": "നിലവിലെ പ്ലാൻ"
+  },
+  "licensePlanPro": {
+    "message": "Pro — ആജീവനാന്തം"
+  },
+  "licensePlanTrial": {
+    "message": "ട്രയൽ — 7 ദിവസം"
+  },
+  "licensePlanFree": {
+    "message": "സൗജന്യം"
+  },
+  "licenseMsgPro": {
+    "message": "നന്ദി. എല്ലാ Pro സവിശേഷതകളും അൺലോക്ക് ചെയ്‌തു."
+  },
+  "licenseMsgTrial": {
+    "message": "നിങ്ങൾ ഒരു കാർഡ് ഇല്ലാത്ത ട്രയലിലാണ്. എപ്പോൾ വേണമെങ്കിലും അപ്‌ഗ്രേഡ് ചെയ്യാം."
+  },
+  "licenseMsgFree": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ്, ഇഷ്‌ടാനുസൃത നിയമങ്ങൾ, പരിധിയില്ലാത്ത അനുവദനീയപ്പട്ടിക എന്നിവ അൺലോക്ക് ചെയ്യാൻ അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "licenseKeyLabel": {
+    "message": "ലൈസൻസ് കീ"
+  },
+  "licenseKeyAria": {
+    "message": "ലൈസൻസ് കീ നൽകുക"
+  },
+  "licenseVerify": {
+    "message": "പരിശോധിക്കുക"
+  },
+  "licenseVerifying": {
+    "message": "പരിശോധിക്കുന്നു…"
+  },
+  "licenseTrialTitle": {
+    "message": "7 ദിവസത്തെ സൗജന്യ ട്രയൽ ആരംഭിക്കുക"
+  },
+  "licenseTrialBody": {
+    "message": "കാർഡ് ഇല്ല, അക്കൗണ്ട് ഇല്ല. 7 ദിവസത്തേക്ക് വിപുലീകൃത നിയമ സെറ്റ്, ഇഷ്‌ടാനുസൃത നിയമങ്ങൾ, പരിധിയില്ലാത്ത അനുവദനീയപ്പട്ടിക എന്നിവ അൺലോക്ക് ചെയ്യുന്നു."
+  },
+  "licenseTrialStart": {
+    "message": "സൗജന്യ ട്രയൽ ആരംഭിക്കുക"
+  },
+  "licenseTrialStarting": {
+    "message": "ആരംഭിക്കുന്നു…"
+  },
+  "flashExtendedLocked": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ് ഒരു Pro സവിശേഷതയാണ്. ആദ്യം ഒരു ട്രയൽ ആരംഭിക്കുക അല്ലെങ്കിൽ അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "flashExtendedOn": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ് പ്രവർത്തനക്ഷമമാക്കി."
+  },
+  "flashExtendedOff": {
+    "message": "വിപുലീകൃത നിയമ സെറ്റ് പ്രവർത്തനരഹിതമാക്കി."
+  },
+  "flashCustomLocked": {
+    "message": "ഇഷ്‌ടാനുസൃത നിയമങ്ങൾ ഒരു Pro സവിശേഷതയാണ്. ഒരു ട്രയൽ ആരംഭിക്കുക അല്ലെങ്കിൽ അപ്‌ഗ്രേഡ് ചെയ്യുക."
+  },
+  "flashDynCap": {
+    "message": "ഡൈനാമിക്-റൂൾ പരിധി എത്തി. മറ്റൊന്ന് ചേർക്കാൻ ഒന്ന് ഇല്ലാതാക്കുക."
+  },
+  "flashBadRegex": {
+    "message": "ആ regex നിരസിക്കപ്പെട്ടു."
+  },
+  "flashCouldNotAddRule": {
+    "message": "നിയമം ചേർക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "$$1 നിയമം ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല."
+  },
+  "flashKeyTooShort": {
+    "message": "ലൈസൻസ് കീകൾ കുറഞ്ഞത് 8 പ്രതീകങ്ങളാണ്."
+  },
+  "flashKeyOk": {
+    "message": "ലൈസൻസ് പരിശോധിച്ചു. Pro സവിശേഷതകൾ അൺലോക്ക് ചെയ്‌തു."
+  },
+  "flashKeyFmt": {
+    "message": "കീ ഫോർമാറ്റ് വളരെ ചെറുതാണ്."
+  },
+  "flashKeyRate": {
+    "message": "വളരെയധികം ശ്രമങ്ങൾ. ഒരു മിനിറ്റ് കാത്തിരിക്കുക."
+  },
+  "flashKeyNetwork": {
+    "message": "നെറ്റ്‌വർക്ക് പിശക്. വീണ്ടും ശ്രമിക്കുക."
+  },
+  "flashKeyTimeout": {
+    "message": "പരിശോധന സമയപരിധി കഴിഞ്ഞു."
+  },
+  "flashKeyServer": {
+    "message": "സെർവർ പിശക് ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "ലൈസൻസ് കീ തിരിച്ചറിഞ്ഞില്ല."
+  },
+  "flashTrialStarted": {
+    "message": "7 ദിവസത്തെ ട്രയൽ ആരംഭിച്ചു. Pro സവിശേഷതകൾ അൺലോക്ക് ചെയ്‌തു."
+  },
+  "flashTrialUsed": {
+    "message": "നിങ്ങൾ ഇതിനകം 7 ദിവസത്തെ ട്രയൽ ഉപയോഗിച്ചു."
+  },
+  "flashTrialFailed": {
+    "message": "ട്രയൽ ആരംഭിക്കാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+  },
+  "validateRequired": {
+    "message": "ഒരു പാരാമീറ്റർ പേര് നൽകുക."
+  },
+  "validateTooLong": {
+    "message": "$$1 പ്രതീകങ്ങളിൽ താഴെ നിർത്തുക."
+  },
+  "validateLookaround": {
+    "message": "ലുക്ക്‌എറൗണ്ട് അനുവദനീയമല്ല."
+  },
+  "validateNested": {
+    "message": "നെസ്റ്റഡ് ക്വാണ്ടിഫയറുകൾ അനുവദനീയമല്ല (ReDoS അപകടസാധ്യത)."
+  },
+  "validateComplex": {
+    "message": "regex സുരക്ഷിതമായി വിലയിരുത്താൻ കഴിയാത്തത്ര സങ്കീർണ്ണമാണ്."
+  },
+  "validateBadRegex": {
+    "message": "അസാധുവായ റെഗുലർ എക്‌സ്‌പ്രഷൻ."
+  },
+  "validateCharClass": {
+    "message": "അക്ഷരങ്ങൾ, അക്കങ്ങൾ, ഡോട്ട്, അണ്ടർസ്‌കോർ, അല്ലെങ്കിൽ ഹൈഫൻ ഉപയോഗിക്കുക."
+  }
+}

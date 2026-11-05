@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Ta bort spårning"
+  },
+  "extDesc": {
+    "message": "Tar diskret bort spårare från länkarna du öppnar, och packar upp omdirigeringsgenvägar. 100 % lokalt."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL förlorade en behörighet."
+  },
+  "popupDegradedRegrant": {
+    "message": "Bevilja den igen"
+  },
+  "popupDegradedResume": {
+    "message": "för att återuppta rensningen."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Rensade länkar"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL är pausad"
+  },
+  "popupHeroResume": {
+    "message": "Slå på reglaget nedan för att återuppta rensningen."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "rensade idag"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Rensa länkar automatiskt"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Inaktivera CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Aktivera CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Hantera tillåtelselista & inställningar"
+  },
+  "popupOpenSettings": {
+    "message": "Öppna CleanURL-inställningar"
+  },
+  "popupUpgradeCta": {
+    "message": "Uppgradera till Pro — $$99 för alltid"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Uppgradera till CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Inställningar"
+  },
+  "popupRootAria": {
+    "message": "CleanURL-popup"
+  },
+  "popupFreeTierAria": {
+    "message": "Gratisnivå"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL kunde inte starta. Försök att öppna popupen igen."
+  },
+  "popupMasterToggleError": {
+    "message": "Det gick inte att ändra huvudreglaget."
+  },
+  "optionsStatusActive": {
+    "message": "Aktiv"
+  },
+  "optionsStatusPaused": {
+    "message": "Pausad"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pausa globalt"
+  },
+  "optionsEnableGlobally": {
+    "message": "Aktivera globalt"
+  },
+  "optionsPauseAria": {
+    "message": "Pausa CleanURL globalt"
+  },
+  "optionsEnableAria": {
+    "message": "Aktivera CleanURL globalt"
+  },
+  "optionsSidebarAria": {
+    "message": "Inställningssektioner"
+  },
+  "optionsNavAria": {
+    "message": "Inställningar"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Huvudreglage för rensning"
+  },
+  "optionsCuratedAria": {
+    "message": "Kurerade regeluppsättningar"
+  },
+  "optionsCustomAria": {
+    "message": "Anpassade regler"
+  },
+  "optionsDataAria": {
+    "message": "Dataexport"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL-inställningarna kunde inte läsas in. Försök att ladda om sidan."
+  },
+  "tabAllowlist": {
+    "message": "Tillåtelselista"
+  },
+  "tabRules": {
+    "message": "Regler"
+  },
+  "tabLicense": {
+    "message": "Licens"
+  },
+  "eyebrowSites": {
+    "message": "Webbplatser undantagna från rensning"
+  },
+  "eyebrowRules": {
+    "message": "Rensningsregler"
+  },
+  "eyebrowPlan": {
+    "message": "Abonnemang & licens"
+  },
+  "eyebrowCustom": {
+    "message": "Anpassade parameterregler"
+  },
+  "eyebrowYourData": {
+    "message": "Dina data"
+  },
+  "eyebrowLinks": {
+    "message": "Länkar"
+  },
+  "eyebrowHaveKey": {
+    "message": "Har du en licensnyckel?"
+  },
+  "allowlistTitle": {
+    "message": "Tillåtelselista"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL rör ingen URL på dessa webbplatser."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Gratisnivån tillåter upp till $$2 webbplatser — $$1 av $$2 använda."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro-nivå — obegränsat antal webbplatser."
+  },
+  "allowlistInputLabel": {
+    "message": "Värdnamn (t.ex. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Lägg till"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktiv ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Inga webbplatser undantagna ännu"
+  },
+  "allowlistEmptyBody": {
+    "message": "Lägg till ett värdnamn ovan för att hoppa över rensning på den webbplatsen."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Ta bort"
+  },
+  "allowlistRemoveAria": {
+    "message": "Ta bort $$1 från tillåtelselistan"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inaktiv (Förnya Pro för att återaktivera)"
+  },
+  "allowlistColdBadge": {
+    "message": "Kall"
+  },
+  "errHostnameRequired": {
+    "message": "Ange ett värdnamn."
+  },
+  "errHostnameInvalid": {
+    "message": "Ange ett giltigt värdnamn (t.ex. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 finns redan på tillåtelselistan."
+  },
+  "errFreeCap": {
+    "message": "Gratisnivån är begränsad till $$1 webbplatser. Uppgradera till Pro för obegränsat."
+  },
+  "flashFreeCap": {
+    "message": "Gratisnivån är begränsad till $$1 webbplatser. Uppgradera till Pro för obegränsat."
+  },
+  "errCouldNotAdd": {
+    "message": "Det gick inte att lägga till $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Det gick inte att ta bort $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Det gick inte att lägga till $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Det gick inte att ta bort $$1."
+  },
+  "rulesTitle": {
+    "message": "Regler"
+  },
+  "rulesIntro": {
+    "message": "Slå på eller av de kurerade regeluppsättningar som CleanURL använder. Lägg till egna parameternamn (eller regex) med Pro."
+  },
+  "rulesCoreName": {
+    "message": "Kärnregeluppsättning"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 försiktiga borttagnings- och uppackningsregler. Alltid på."
+  },
+  "rulesCoreBadge": {
+    "message": "PÅ"
+  },
+  "rulesExtendedName": {
+    "message": "Utökad regeluppsättning"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 aggressiva regler: affiliate-taggar, marknadsförings-ID:n."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Slå på/av utökad regeluppsättning"
+  },
+  "rulesCustomDesc": {
+    "message": "Ta bort ett bokstavligt parameternamn (t.ex. mkt_tok) eller ett regex-prefix (t.ex. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parameternamn eller regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Behandla inmatning som regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Lägg till regel"
+  },
+  "rulesEmptyList": {
+    "message": "Inga anpassade regler ännu."
+  },
+  "rulesDeleteBtn": {
+    "message": "Ta bort"
+  },
+  "rulesDeleteAria": {
+    "message": "Ta bort regel $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "bokstavlig"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exportera dina inställningar, tillåtelselista och historik över rensade länkar som JSON. All data finns endast på den här enheten."
+  },
+  "exportBtn": {
+    "message": "Exportera data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Integritetspolicy"
+  },
+  "linkSupport": {
+    "message": "Support"
+  },
+  "licenseTitle": {
+    "message": "Licens"
+  },
+  "licenseIntro": {
+    "message": "CleanURL är gratis för alltid. Pro lägger till den utökade regeluppsättningen, anpassade regler och en obegränsad tillåtelselista."
+  },
+  "licenseCurrentAria": {
+    "message": "Nuvarande abonnemang"
+  },
+  "licensePlanPro": {
+    "message": "Pro — för alltid"
+  },
+  "licensePlanTrial": {
+    "message": "Testperiod — 7 dagar"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Tack. Alla Pro-funktioner är upplåsta."
+  },
+  "licenseMsgTrial": {
+    "message": "Du har en testperiod utan kort. Uppgradera när som helst."
+  },
+  "licenseMsgFree": {
+    "message": "Uppgradera för att låsa upp den utökade regeluppsättningen, anpassade regler och obegränsad tillåtelselista."
+  },
+  "licenseKeyLabel": {
+    "message": "Licensnyckel"
+  },
+  "licenseKeyAria": {
+    "message": "Ange licensnyckel"
+  },
+  "licenseVerify": {
+    "message": "Verifiera"
+  },
+  "licenseVerifying": {
+    "message": "Verifierar…"
+  },
+  "licenseTrialTitle": {
+    "message": "Starta 7-dagars gratis testperiod"
+  },
+  "licenseTrialBody": {
+    "message": "Inget kort, inget konto. Låser upp den utökade regeluppsättningen, anpassade regler och obegränsad tillåtelselista i 7 dagar."
+  },
+  "licenseTrialStart": {
+    "message": "Starta gratis testperiod"
+  },
+  "licenseTrialStarting": {
+    "message": "Startar…"
+  },
+  "flashExtendedLocked": {
+    "message": "Den utökade regeluppsättningen är en Pro-funktion. Starta en testperiod eller uppgradera först."
+  },
+  "flashExtendedOn": {
+    "message": "Utökad regeluppsättning aktiverad."
+  },
+  "flashExtendedOff": {
+    "message": "Utökad regeluppsättning inaktiverad."
+  },
+  "flashCustomLocked": {
+    "message": "Anpassade regler är en Pro-funktion. Starta en testperiod eller uppgradera."
+  },
+  "flashDynCap": {
+    "message": "Gränsen för dynamiska regler är nådd. Ta bort en för att lägga till en annan."
+  },
+  "flashBadRegex": {
+    "message": "Den regex avvisades."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Det gick inte att lägga till regel."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Det gick inte att ta bort regel $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Licensnycklar är minst 8 tecken."
+  },
+  "flashKeyOk": {
+    "message": "Licens verifierad. Pro-funktioner upplåsta."
+  },
+  "flashKeyFmt": {
+    "message": "Nyckelformatet är för kort."
+  },
+  "flashKeyRate": {
+    "message": "För många försök. Vänta en minut."
+  },
+  "flashKeyNetwork": {
+    "message": "Nätverksfel. Försök igen."
+  },
+  "flashKeyTimeout": {
+    "message": "Verifieringen tog för lång tid."
+  },
+  "flashKeyServer": {
+    "message": "Serverfel ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licensnyckeln kändes inte igen."
+  },
+  "flashTrialStarted": {
+    "message": "7-dagars testperiod startad. Pro-funktioner upplåsta."
+  },
+  "flashTrialUsed": {
+    "message": "Du har redan använt 7-dagars testperioden."
+  },
+  "flashTrialFailed": {
+    "message": "Det gick inte att starta testperioden. Försök igen."
+  },
+  "validateRequired": {
+    "message": "Ange ett parameternamn."
+  },
+  "validateTooLong": {
+    "message": "Håll det under $$1 tecken."
+  },
+  "validateLookaround": {
+    "message": "Lookaround är inte tillåtet."
+  },
+  "validateNested": {
+    "message": "Nästlade kvantifierare är inte tillåtna (ReDoS-risk)."
+  },
+  "validateComplex": {
+    "message": "Denna regex är för komplex för att utvärderas säkert."
+  },
+  "validateBadRegex": {
+    "message": "Ogiltigt reguljärt uttryck."
+  },
+  "validateCharClass": {
+    "message": "Använd bokstäver, siffror, punkt, understreck eller bindestreck."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Elimina els rastrejadors"
+  },
+  "extDesc": {
+    "message": "Elimina discretament els rastrejadors dels enllaços que obres, i desembolica les dreceres de redirecció. 100% local."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL ha perdut un permís."
+  },
+  "popupDegradedRegrant": {
+    "message": "Torna a concedir-lo"
+  },
+  "popupDegradedResume": {
+    "message": "per reprendre la neteja."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Enllaços netejats"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL està en pausa"
+  },
+  "popupHeroResume": {
+    "message": "Activa l’interruptor de sota per reprendre la neteja."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "netejats avui"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Neteja els enllaços automàticament"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Desactiva CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Activa CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Gestiona la llista de permesos i la configuració"
+  },
+  "popupOpenSettings": {
+    "message": "Obre la configuració de CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Passa a Pro — $$99 de per vida"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Passa a CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Configuració"
+  },
+  "popupRootAria": {
+    "message": "Finestra emergent de CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Pla gratuït"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL no s’ha pogut iniciar. Prova de tornar a obrir la finestra emergent."
+  },
+  "popupMasterToggleError": {
+    "message": "No s’ha pogut canviar l’interruptor principal."
+  },
+  "optionsStatusActive": {
+    "message": "Actiu"
+  },
+  "optionsStatusPaused": {
+    "message": "En pausa"
+  },
+  "optionsPauseGlobally": {
+    "message": "Posa en pausa globalment"
+  },
+  "optionsEnableGlobally": {
+    "message": "Activa globalment"
+  },
+  "optionsPauseAria": {
+    "message": "Posa CleanURL en pausa globalment"
+  },
+  "optionsEnableAria": {
+    "message": "Activa CleanURL globalment"
+  },
+  "optionsSidebarAria": {
+    "message": "Seccions de configuració"
+  },
+  "optionsNavAria": {
+    "message": "Configuració"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Interruptor principal de neteja"
+  },
+  "optionsCuratedAria": {
+    "message": "Conjunts de regles seleccionats"
+  },
+  "optionsCustomAria": {
+    "message": "Regles personalitzades"
+  },
+  "optionsDataAria": {
+    "message": "Exportació de dades"
+  },
+  "optionsBootstrapError": {
+    "message": "No s’ha pogut carregar la configuració de CleanURL. Prova de tornar a carregar la pàgina."
+  },
+  "tabAllowlist": {
+    "message": "Llista de permesos"
+  },
+  "tabRules": {
+    "message": "Regles"
+  },
+  "tabLicense": {
+    "message": "Llicència"
+  },
+  "eyebrowSites": {
+    "message": "Llocs exempts de neteja"
+  },
+  "eyebrowRules": {
+    "message": "Regles de neteja"
+  },
+  "eyebrowPlan": {
+    "message": "Pla i llicència"
+  },
+  "eyebrowCustom": {
+    "message": "Regles de paràmetres personalitzades"
+  },
+  "eyebrowYourData": {
+    "message": "Les teves dades"
+  },
+  "eyebrowLinks": {
+    "message": "Enllaços"
+  },
+  "eyebrowHaveKey": {
+    "message": "Tens una clau de llicència?"
+  },
+  "allowlistTitle": {
+    "message": "Llista de permesos"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL no tocarà cap URL en aquests llocs."
+  },
+  "allowlistCapUsageFree": {
+    "message": "El pla gratuït permet fins a $$2 llocs — $$1 de $$2 utilitzats."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pla Pro — llocs il·limitats."
+  },
+  "allowlistInputLabel": {
+    "message": "Nom d’amfitrió (p. ex. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Afegeix"
+  },
+  "allowlistActiveLabel": {
+    "message": "Actius ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Encara no hi ha llocs exempts"
+  },
+  "allowlistEmptyBody": {
+    "message": "Afegeix un nom d’amfitrió a dalt per ometre la neteja en aquell lloc."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Elimina"
+  },
+  "allowlistRemoveAria": {
+    "message": "Elimina $$1 de la llista de permesos"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Inactius (torna a Pro per reactivar)"
+  },
+  "allowlistColdBadge": {
+    "message": "Fred"
+  },
+  "errHostnameRequired": {
+    "message": "Introdueix un nom d’amfitrió."
+  },
+  "errHostnameInvalid": {
+    "message": "Introdueix un nom d’amfitrió vàlid (p. ex. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 ja és a la llista de permesos."
+  },
+  "errFreeCap": {
+    "message": "El pla gratuït es limita a $$1 llocs. Passa a Pro per tenir-ne il·limitats."
+  },
+  "flashFreeCap": {
+    "message": "El pla gratuït es limita a $$1 llocs. Passa a Pro per tenir-ne il·limitats."
+  },
+  "errCouldNotAdd": {
+    "message": "No s’ha pogut afegir $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "No s’ha pogut eliminar $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "No s’ha pogut afegir $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "No s’ha pogut eliminar $$1."
+  },
+  "rulesTitle": {
+    "message": "Regles"
+  },
+  "rulesIntro": {
+    "message": "Activa els conjunts de regles seleccionats que fa servir CleanURL. Afegeix els teus propis noms de paràmetres (o regex) amb Pro."
+  },
+  "rulesCoreName": {
+    "message": "Conjunt de regles bàsic"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 regles conservadores d’eliminació i desembolic. Sempre actiu."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Conjunt de regles ampliat"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 regles agressives: etiquetes d’afiliació, identificadors de màrqueting."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Activa/desactiva el conjunt de regles ampliat"
+  },
+  "rulesCustomDesc": {
+    "message": "Elimina un nom de paràmetre literal (p. ex. mkt_tok) o un prefix regex (p. ex. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Nom de paràmetre o regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Tracta l’entrada com a regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Afegeix regla"
+  },
+  "rulesEmptyList": {
+    "message": "Encara no hi ha regles personalitzades."
+  },
+  "rulesDeleteBtn": {
+    "message": "Suprimeix"
+  },
+  "rulesDeleteAria": {
+    "message": "Suprimeix la regla $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "literal"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Exporta la configuració, la llista de permesos i l’historial d’enllaços netejats en format JSON. Totes les dades es queden només en aquest dispositiu."
+  },
+  "exportBtn": {
+    "message": "Exporta dades (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Política de privadesa"
+  },
+  "linkSupport": {
+    "message": "Suport"
+  },
+  "licenseTitle": {
+    "message": "Llicència"
+  },
+  "licenseIntro": {
+    "message": "CleanURL és gratuït per sempre. Pro afegeix el conjunt de regles ampliat, les regles personalitzades i una llista de permesos il·limitada."
+  },
+  "licenseCurrentAria": {
+    "message": "Pla actual"
+  },
+  "licensePlanPro": {
+    "message": "Pro — de per vida"
+  },
+  "licensePlanTrial": {
+    "message": "Prova — 7 dies"
+  },
+  "licensePlanFree": {
+    "message": "Gratuït"
+  },
+  "licenseMsgPro": {
+    "message": "Gràcies. Totes les funcions Pro estan desbloquejades."
+  },
+  "licenseMsgTrial": {
+    "message": "Estàs en una prova sense targeta. Passa a Pro quan vulguis."
+  },
+  "licenseMsgFree": {
+    "message": "Passa a Pro per desbloquejar el conjunt de regles ampliat, les regles personalitzades i la llista de permesos il·limitada."
+  },
+  "licenseKeyLabel": {
+    "message": "Clau de llicència"
+  },
+  "licenseKeyAria": {
+    "message": "Introdueix la clau de llicència"
+  },
+  "licenseVerify": {
+    "message": "Verifica"
+  },
+  "licenseVerifying": {
+    "message": "S’està verificant…"
+  },
+  "licenseTrialTitle": {
+    "message": "Comença la prova gratuïta de 7 dies"
+  },
+  "licenseTrialBody": {
+    "message": "Sense targeta, sense compte. Desbloqueja el conjunt de regles ampliat, les regles personalitzades i la llista de permesos il·limitada durant 7 dies."
+  },
+  "licenseTrialStart": {
+    "message": "Comença la prova gratuïta"
+  },
+  "licenseTrialStarting": {
+    "message": "S’està començant…"
+  },
+  "flashExtendedLocked": {
+    "message": "El conjunt de regles ampliat és una funció Pro. Comença una prova o passa a Pro primer."
+  },
+  "flashExtendedOn": {
+    "message": "Conjunt de regles ampliat activat."
+  },
+  "flashExtendedOff": {
+    "message": "Conjunt de regles ampliat desactivat."
+  },
+  "flashCustomLocked": {
+    "message": "Les regles personalitzades són una funció Pro. Comença una prova o passa a Pro."
+  },
+  "flashDynCap": {
+    "message": "S’ha assolit el límit de regles dinàmiques. Suprimeix-ne una per afegir-ne una altra."
+  },
+  "flashBadRegex": {
+    "message": "Aquesta regex s’ha rebutjat."
+  },
+  "flashCouldNotAddRule": {
+    "message": "No s’ha pogut afegir la regla."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "No s’ha pogut suprimir la regla $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Les claus de llicència tenen almenys 8 caràcters."
+  },
+  "flashKeyOk": {
+    "message": "Llicència verificada. Funcions Pro desbloquejades."
+  },
+  "flashKeyFmt": {
+    "message": "El format de la clau és massa curt."
+  },
+  "flashKeyRate": {
+    "message": "Massa intents. Espera un minut."
+  },
+  "flashKeyNetwork": {
+    "message": "Error de xarxa. Torna-ho a provar."
+  },
+  "flashKeyTimeout": {
+    "message": "La verificació ha excedit el temps d’espera."
+  },
+  "flashKeyServer": {
+    "message": "Error del servidor ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Clau de llicència no reconeguda."
+  },
+  "flashTrialStarted": {
+    "message": "Prova de 7 dies començada. Funcions Pro desbloquejades."
+  },
+  "flashTrialUsed": {
+    "message": "Ja has fet servir la prova de 7 dies."
+  },
+  "flashTrialFailed": {
+    "message": "No s’ha pogut començar la prova. Torna-ho a provar."
+  },
+  "validateRequired": {
+    "message": "Introdueix un nom de paràmetre."
+  },
+  "validateTooLong": {
+    "message": "Mantén-lo per sota de $$1 caràcters."
+  },
+  "validateLookaround": {
+    "message": "El lookaround no està permès."
+  },
+  "validateNested": {
+    "message": "Els quantificadors imbricats no estan permesos (risc de ReDoS)."
+  },
+  "validateComplex": {
+    "message": "La regex és massa complexa per avaluar-la amb seguretat."
+  },
+  "validateBadRegex": {
+    "message": "Expressió regular no vàlida."
+  },
+  "validateCharClass": {
+    "message": "Fes servir lletres, dígits, punt, guió baix o guió."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "ከሚከፍቷቸው አገናኞች ተከታታዮችን በጸጥታ ያስወግዳል፣ እና የማዘዋወሪያ አቋራጮችን ይከፍታል። 100% በአካባቢ።"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL ፈቃድ አጣ።"
+  },
+  "popupDegradedRegrant": {
+    "message": "እንደገና ይስጡት"
+  },
+  "popupDegradedResume": {
+    "message": "ማጽዳትን ለመቀጠል።"
+  },
+  "popupHeroLabelLinks": {
+    "message": "የጸዱ አገናኞች"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL ቆሟል"
+  },
+  "popupHeroResume": {
+    "message": "ማጽዳትን ለመቀጠል ከታች ያለውን ማብሪያ/ማጥፊያ ይቀይሩ።"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "ዛሬ ጸድተዋል"
+  },
+  "popupMasterToggleLabel": {
+    "message": "አገናኞችን በራስ-ሰር ያጽዱ"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL ን አሰናክል"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL ን አንቃ"
+  },
+  "popupManageSettings": {
+    "message": "የፍቀድ ዝርዝርን እና ቅንብሮችን ያስተዳድሩ"
+  },
+  "popupOpenSettings": {
+    "message": "የCleanURL ቅንብሮችን ክፈት"
+  },
+  "popupUpgradeCta": {
+    "message": "ወደ Pro ያሻሽሉ — $$99 የዕድሜ ልክ"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "ወደ CleanURL Pro ያሻሽሉ"
+  },
+  "popupSettingsLink": {
+    "message": "ቅንብሮች"
+  },
+  "popupRootAria": {
+    "message": "የCleanURL ብቅ-ባይ"
+  },
+  "popupFreeTierAria": {
+    "message": "ነጻ ደረጃ"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL መጀመር አልቻለም። ብቅ-ባዩን እንደገና ለመክፈት ይሞክሩ።"
+  },
+  "popupMasterToggleError": {
+    "message": "ዋናውን ማብሪያ/ማጥፊያ መቀየር አልተቻለም።"
+  },
+  "optionsStatusActive": {
+    "message": "ንቁ"
+  },
+  "optionsStatusPaused": {
+    "message": "ቆሟል"
+  },
+  "optionsPauseGlobally": {
+    "message": "በዓለም አቀፍ ደረጃ አቁም"
+  },
+  "optionsEnableGlobally": {
+    "message": "በዓለም አቀፍ ደረጃ አንቃ"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL ን በዓለም አቀፍ ደረጃ አቁም"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL ን በዓለም አቀፍ ደረጃ አንቃ"
+  },
+  "optionsSidebarAria": {
+    "message": "የቅንብሮች ክፍሎች"
+  },
+  "optionsNavAria": {
+    "message": "ቅንብሮች"
+  },
+  "optionsMasterToggleAria": {
+    "message": "ዋና የማጽጃ ማብሪያ/ማጥፊያ"
+  },
+  "optionsCuratedAria": {
+    "message": "የተመረጡ የደንብ ስብስቦች"
+  },
+  "optionsCustomAria": {
+    "message": "ብጁ ደንቦች"
+  },
+  "optionsDataAria": {
+    "message": "የውሂብ ወደ ውጭ መላክ"
+  },
+  "optionsBootstrapError": {
+    "message": "የCleanURL ቅንብሮች መጫን አልቻሉም። ገጹን እንደገና ለመጫን ይሞክሩ።"
+  },
+  "tabAllowlist": {
+    "message": "የፍቀድ ዝርዝር"
+  },
+  "tabRules": {
+    "message": "ደንቦች"
+  },
+  "tabLicense": {
+    "message": "ፈቃድ"
+  },
+  "eyebrowSites": {
+    "message": "ከማጽዳት የተለቀቁ ጣቢያዎች"
+  },
+  "eyebrowRules": {
+    "message": "የማጽጃ ደንቦች"
+  },
+  "eyebrowPlan": {
+    "message": "እቅድ እና ፈቃድ"
+  },
+  "eyebrowCustom": {
+    "message": "የብጁ መለኪያ ደንቦች"
+  },
+  "eyebrowYourData": {
+    "message": "የእርስዎ ውሂብ"
+  },
+  "eyebrowLinks": {
+    "message": "አገናኞች"
+  },
+  "eyebrowHaveKey": {
+    "message": "የፈቃድ ቁልፍ አለዎት?"
+  },
+  "allowlistTitle": {
+    "message": "የፍቀድ ዝርዝር"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL በእነዚህ ጣቢያዎች ላይ ማንኛውንም URL አይነካም።"
+  },
+  "allowlistCapUsageFree": {
+    "message": "ነጻ ደረጃ እስከ $$2 ጣቢያዎችን ይፈቅዳል — ከ$$2 ውስጥ $$1 ጥቅም ላይ ውለዋል።"
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro ደረጃ — ያልተገደቡ ጣቢያዎች።"
+  },
+  "allowlistInputLabel": {
+    "message": "የአስተናጋጅ ስም (ለምሳሌ shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "አክል"
+  },
+  "allowlistActiveLabel": {
+    "message": "ንቁ ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "እስካሁን ምንም ጣቢያ አልተለቀቀም"
+  },
+  "allowlistEmptyBody": {
+    "message": "በዚያ ጣቢያ ላይ ማጽዳትን ለመዝለል ከላይ የአስተናጋጅ ስም ያክሉ።"
+  },
+  "allowlistRemoveBtn": {
+    "message": "አስወግድ"
+  },
+  "allowlistRemoveAria": {
+    "message": "$$1 ን ከፍቀድ ዝርዝር አስወግድ"
+  },
+  "allowlistInactiveLabel": {
+    "message": "ንቁ ያልሆነ (እንደገና ለማንቃት ወደ Pro እንደገና ይቀላቀሉ)"
+  },
+  "allowlistColdBadge": {
+    "message": "ቀዝቃዛ"
+  },
+  "errHostnameRequired": {
+    "message": "የአስተናጋጅ ስም ያስገቡ።"
+  },
+  "errHostnameInvalid": {
+    "message": "ትክክለኛ የአስተናጋጅ ስም ያስገቡ (ለምሳሌ example.com)።"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 አስቀድሞ በፍቀድ ዝርዝር ውስጥ ነው።"
+  },
+  "errFreeCap": {
+    "message": "ነጻ ደረጃ በ$$1 ጣቢያዎች ይገድባል። ላልተገደበ ወደ Pro ያሻሽሉ።"
+  },
+  "flashFreeCap": {
+    "message": "ነጻ ደረጃ በ$$1 ጣቢያዎች ተገድቧል። ላልተገደበ ወደ Pro ያሻሽሉ።"
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 ማከል አልተቻለም።"
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 ማስወገድ አልተቻለም።"
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 ማከል አልተቻለም።"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 ማስወገድ አልተቻለም።"
+  },
+  "rulesTitle": {
+    "message": "ደንቦች"
+  },
+  "rulesIntro": {
+    "message": "CleanURL የሚጠቀማቸውን የተመረጡ የደንብ ስብስቦች ይቀይሩ። የራስዎን የመለኪያ ስሞች (ወይም regex) በ Pro ላይ ያክሉ።"
+  },
+  "rulesCoreName": {
+    "message": "ዋና የደንብ ስብስብ"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 ጥንቁቅ የማስወገድ + የመክፈት ደንቦች። ሁልጊዜ ንቁ።"
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "የተራዘመ የደንብ ስብስብ"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 ጠንካራ ደንቦች: የተባባሪ መለያዎች፣ የግብይት መለያዎች።"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "የተራዘመ የደንብ ስብስብ ቀይር"
+  },
+  "rulesCustomDesc": {
+    "message": "ቀጥተኛ የመለኪያ ስም (ለምሳሌ mkt_tok) ወይም የregex ቅድመ-ቅጥያ (ለምሳሌ ^ig_) ያስወግዱ።"
+  },
+  "rulesParamLabel": {
+    "message": "የመለኪያ ስም ወይም regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ግቤትን እንደ regex ያዙት"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "ደንብ አክል"
+  },
+  "rulesEmptyList": {
+    "message": "እስካሁን ምንም ብጁ ደንብ የለም።"
+  },
+  "rulesDeleteBtn": {
+    "message": "ሰርዝ"
+  },
+  "rulesDeleteAria": {
+    "message": "ደንብ $$1 ሰርዝ"
+  },
+  "rulesLiteralKind": {
+    "message": "ቀጥተኛ"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "ቅንብሮችዎን፣ የፍቀድ ዝርዝርዎን እና የጸዳ-አገናኝ ታሪክዎን እንደ JSON ወደ ውጭ ይላኩ። ሁሉም ውሂብ በዚህ መሣሪያ ላይ ብቻ ይኖራል።"
+  },
+  "exportBtn": {
+    "message": "ውሂብ ወደ ውጭ ላክ (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "የግላዊነት ፖሊሲ"
+  },
+  "linkSupport": {
+    "message": "ድጋፍ"
+  },
+  "licenseTitle": {
+    "message": "ፈቃድ"
+  },
+  "licenseIntro": {
+    "message": "CleanURL ለዘላለም ነጻ ነው። Pro የተራዘመ የደንብ ስብስብ፣ ብጁ ደንቦች እና ያልተገደበ የፍቀድ ዝርዝር ይጨምራል።"
+  },
+  "licenseCurrentAria": {
+    "message": "የአሁኑ እቅድ"
+  },
+  "licensePlanPro": {
+    "message": "Pro — የዕድሜ ልክ"
+  },
+  "licensePlanTrial": {
+    "message": "ሙከራ — 7 ቀናት"
+  },
+  "licensePlanFree": {
+    "message": "ነጻ"
+  },
+  "licenseMsgPro": {
+    "message": "እናመሰግናለን። ሁሉም የPro ባህሪያት ተከፍተዋል።"
+  },
+  "licenseMsgTrial": {
+    "message": "ያለ ካርድ በሙከራ ላይ ነዎት። በማንኛውም ጊዜ ያሻሽሉ።"
+  },
+  "licenseMsgFree": {
+    "message": "የተራዘመ የደንብ ስብስብ፣ ብጁ ደንቦች እና ያልተገደበ የፍቀድ ዝርዝርን ለመክፈት ያሻሽሉ።"
+  },
+  "licenseKeyLabel": {
+    "message": "የፈቃድ ቁልፍ"
+  },
+  "licenseKeyAria": {
+    "message": "የፈቃድ ቁልፍ ያስገቡ"
+  },
+  "licenseVerify": {
+    "message": "አረጋግጥ"
+  },
+  "licenseVerifying": {
+    "message": "በማረጋገጥ ላይ…"
+  },
+  "licenseTrialTitle": {
+    "message": "የ7 ቀን ነጻ ሙከራ ጀምር"
+  },
+  "licenseTrialBody": {
+    "message": "ካርድ የለም፣ መለያ የለም። የተራዘመ የደንብ ስብስብ፣ ብጁ ደንቦች እና ያልተገደበ የፍቀድ ዝርዝርን ለ7 ቀናት ይከፍታል።"
+  },
+  "licenseTrialStart": {
+    "message": "ነጻ ሙከራ ጀምር"
+  },
+  "licenseTrialStarting": {
+    "message": "በመጀመር ላይ…"
+  },
+  "flashExtendedLocked": {
+    "message": "የተራዘመ የደንብ ስብስብ የPro ባህሪ ነው። መጀመሪያ ሙከራ ይጀምሩ ወይም ያሻሽሉ።"
+  },
+  "flashExtendedOn": {
+    "message": "የተራዘመ የደንብ ስብስብ ነቅቷል።"
+  },
+  "flashExtendedOff": {
+    "message": "የተራዘመ የደንብ ስብስብ ተሰናክሏል።"
+  },
+  "flashCustomLocked": {
+    "message": "ብጁ ደንቦች የPro ባህሪ ናቸው። ሙከራ ይጀምሩ ወይም ያሻሽሉ።"
+  },
+  "flashDynCap": {
+    "message": "የተለዋዋጭ ደንብ ገደብ ተደርሷል። ሌላ ለማከል አንዱን ይሰርዙ።"
+  },
+  "flashBadRegex": {
+    "message": "ያ regex ውድቅ ተደርጓል።"
+  },
+  "flashCouldNotAddRule": {
+    "message": "ደንብ ማከል አልተቻለም።"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "ደንብ $$1 መሰረዝ አልተቻለም።"
+  },
+  "flashKeyTooShort": {
+    "message": "የፈቃድ ቁልፎች ቢያንስ 8 ቁምፊዎች ናቸው።"
+  },
+  "flashKeyOk": {
+    "message": "ፈቃድ ተረጋግጧል። የPro ባህሪያት ተከፍተዋል።"
+  },
+  "flashKeyFmt": {
+    "message": "የቁልፍ ቅርጸት በጣም አጭር ነው።"
+  },
+  "flashKeyRate": {
+    "message": "በጣም ብዙ ሙከራዎች። አንድ ደቂቃ ይጠብቁ።"
+  },
+  "flashKeyNetwork": {
+    "message": "የአውታረ መረብ ስህተት። እንደገና ይሞክሩ።"
+  },
+  "flashKeyTimeout": {
+    "message": "ማረጋገጫው ጊዜው አልፎበታል።"
+  },
+  "flashKeyServer": {
+    "message": "የአገልጋይ ስህተት ($$1)።"
+  },
+  "flashKeyUnknown": {
+    "message": "የፈቃድ ቁልፍ አልታወቀም።"
+  },
+  "flashTrialStarted": {
+    "message": "የ7 ቀን ሙከራ ተጀምሯል። የPro ባህሪያት ተከፍተዋል።"
+  },
+  "flashTrialUsed": {
+    "message": "የ7 ቀን ሙከራን አስቀድመው ተጠቅመዋል።"
+  },
+  "flashTrialFailed": {
+    "message": "ሙከራ መጀመር አልተቻለም። እባክዎ እንደገና ይሞክሩ።"
+  },
+  "validateRequired": {
+    "message": "የመለኪያ ስም ያስገቡ።"
+  },
+  "validateTooLong": {
+    "message": "ከ$$1 ቁምፊዎች በታች ያድርጉት።"
+  },
+  "validateLookaround": {
+    "message": "Lookaround አይፈቀድም።"
+  },
+  "validateNested": {
+    "message": "የተነባበሩ ቁጥር-ገላጮች አይፈቀዱም (የReDoS ስጋት)።"
+  },
+  "validateComplex": {
+    "message": "regex በደህንነት ለመገምገም በጣም ውስብስብ ነው።"
+  },
+  "validateBadRegex": {
+    "message": "ልክ ያልሆነ መደበኛ አገላለጽ።"
+  },
+  "validateCharClass": {
+    "message": "ፊደላትን፣ አሃዞችን፣ ነጥብን፣ የታችኛው ሰረዝን ወይም ሰረዝን ይጠቀሙ።"
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — ट्रॅकिंग काढा"
+  },
+  "extDesc": {
+    "message": "तुम्ही उघडता त्या लिंकमधून ट्रॅकर शांतपणे काढून टाकते, आणि रीडायरेक्ट शॉर्टकट उलगडते. १००% स्थानिक."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL ची एक परवानगी गमावली."
+  },
+  "popupDegradedRegrant": {
+    "message": "ती पुन्हा द्या"
+  },
+  "popupDegradedResume": {
+    "message": "साफसफाई पुन्हा सुरू करण्यासाठी."
+  },
+  "popupHeroLabelLinks": {
+    "message": "साफ केलेल्या लिंक"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL थांबवले आहे"
+  },
+  "popupHeroResume": {
+    "message": "साफसफाई पुन्हा सुरू करण्यासाठी खालील टॉगल फिरवा."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "आज साफ केल्या"
+  },
+  "popupMasterToggleLabel": {
+    "message": "लिंक आपोआप साफ करा"
+  },
+  "popupMasterToggleDisable": {
+    "message": "CleanURL बंद करा"
+  },
+  "popupMasterToggleEnable": {
+    "message": "CleanURL सुरू करा"
+  },
+  "popupManageSettings": {
+    "message": "अनुमतीयादी आणि सेटिंग्ज व्यवस्थापित करा"
+  },
+  "popupOpenSettings": {
+    "message": "CleanURL सेटिंग्ज उघडा"
+  },
+  "popupUpgradeCta": {
+    "message": "Pro मध्ये अपग्रेड करा — $$99 आजीवन"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "CleanURL Pro मध्ये अपग्रेड करा"
+  },
+  "popupSettingsLink": {
+    "message": "सेटिंग्ज"
+  },
+  "popupRootAria": {
+    "message": "CleanURL पॉपअप"
+  },
+  "popupFreeTierAria": {
+    "message": "मोफत स्तर"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL सुरू होऊ शकले नाही. पॉपअप पुन्हा उघडून पहा."
+  },
+  "popupMasterToggleError": {
+    "message": "मास्टर टॉगल बदलता आला नाही."
+  },
+  "optionsStatusActive": {
+    "message": "सक्रिय"
+  },
+  "optionsStatusPaused": {
+    "message": "थांबवले"
+  },
+  "optionsPauseGlobally": {
+    "message": "सर्वत्र थांबवा"
+  },
+  "optionsEnableGlobally": {
+    "message": "सर्वत्र सुरू करा"
+  },
+  "optionsPauseAria": {
+    "message": "CleanURL सर्वत्र थांबवा"
+  },
+  "optionsEnableAria": {
+    "message": "CleanURL सर्वत्र सुरू करा"
+  },
+  "optionsSidebarAria": {
+    "message": "सेटिंग्ज विभाग"
+  },
+  "optionsNavAria": {
+    "message": "सेटिंग्ज"
+  },
+  "optionsMasterToggleAria": {
+    "message": "मास्टर साफसफाई टॉगल"
+  },
+  "optionsCuratedAria": {
+    "message": "निवडक नियमसंच"
+  },
+  "optionsCustomAria": {
+    "message": "सानुकूल नियम"
+  },
+  "optionsDataAria": {
+    "message": "डेटा निर्यात"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL सेटिंग्ज लोड होऊ शकल्या नाहीत. पृष्ठ पुन्हा लोड करून पहा."
+  },
+  "tabAllowlist": {
+    "message": "अनुमतीयादी"
+  },
+  "tabRules": {
+    "message": "नियम"
+  },
+  "tabLicense": {
+    "message": "परवाना"
+  },
+  "eyebrowSites": {
+    "message": "साफसफाईतून वगळलेल्या साइट"
+  },
+  "eyebrowRules": {
+    "message": "साफसफाईचे नियम"
+  },
+  "eyebrowPlan": {
+    "message": "योजना आणि परवाना"
+  },
+  "eyebrowCustom": {
+    "message": "सानुकूल पॅरामीटर नियम"
+  },
+  "eyebrowYourData": {
+    "message": "तुमचा डेटा"
+  },
+  "eyebrowLinks": {
+    "message": "लिंक"
+  },
+  "eyebrowHaveKey": {
+    "message": "परवाना की आहे का?"
+  },
+  "allowlistTitle": {
+    "message": "अनुमतीयादी"
+  },
+  "allowlistIntro": {
+    "message": "या साइटवरील कोणत्याही URL ला CleanURL स्पर्श करणार नाही."
+  },
+  "allowlistCapUsageFree": {
+    "message": "मोफत स्तरात $$2 साइटपर्यंत परवानगी — $$2 पैकी $$1 वापरल्या."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro स्तर — असीमित साइट."
+  },
+  "allowlistInputLabel": {
+    "message": "होस्टनेम (उदा. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "जोडा"
+  },
+  "allowlistActiveLabel": {
+    "message": "सक्रिय ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "अजून कोणतीही साइट वगळलेली नाही"
+  },
+  "allowlistEmptyBody": {
+    "message": "त्या साइटवरील साफसफाई वगळण्यासाठी वर एक होस्टनेम जोडा."
+  },
+  "allowlistRemoveBtn": {
+    "message": "काढा"
+  },
+  "allowlistRemoveAria": {
+    "message": "अनुमतीयादीतून $$1 काढा"
+  },
+  "allowlistInactiveLabel": {
+    "message": "निष्क्रिय (पुन्हा सक्रिय करण्यासाठी Pro मध्ये पुन्हा सामील व्हा)"
+  },
+  "allowlistColdBadge": {
+    "message": "थंड"
+  },
+  "errHostnameRequired": {
+    "message": "एक होस्टनेम टाका."
+  },
+  "errHostnameInvalid": {
+    "message": "वैध होस्टनेम टाका (उदा. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 आधीच अनुमतीयादीत आहे."
+  },
+  "errFreeCap": {
+    "message": "मोफत स्तराची मर्यादा $$1 साइट आहे. असीमितसाठी Pro मध्ये अपग्रेड करा."
+  },
+  "flashFreeCap": {
+    "message": "मोफत स्तराची मर्यादा $$1 साइट आहे. असीमितसाठी Pro मध्ये अपग्रेड करा."
+  },
+  "errCouldNotAdd": {
+    "message": "$$1 जोडता आला नाही."
+  },
+  "errCouldNotRemove": {
+    "message": "$$1 काढता आला नाही."
+  },
+  "flashCouldNotAddHost": {
+    "message": "$$1 जोडता आला नाही."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "$$1 काढता आला नाही."
+  },
+  "rulesTitle": {
+    "message": "नियम"
+  },
+  "rulesIntro": {
+    "message": "CleanURL वापरत असलेले निवडक नियमसंच टॉगल करा. Pro वर स्वतःची पॅरामीटर नावे (किंवा regex) जोडा."
+  },
+  "rulesCoreName": {
+    "message": "मुख्य नियमसंच"
+  },
+  "rulesCoreDesc": {
+    "message": "~१२० सावध काढा + उलगडा नियम. नेहमी सुरू."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "विस्तारित नियमसंच"
+  },
+  "rulesExtendedDesc": {
+    "message": "~३०० आक्रमक नियम: अ‍ॅफिलिएट टॅग, मार्केटिंग आयडी."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "विस्तारित नियमसंच टॉगल करा"
+  },
+  "rulesCustomDesc": {
+    "message": "अक्षरशः पॅरामीटर नाव (उदा. mkt_tok) किंवा regex उपसर्ग (उदा. ^ig_) काढा."
+  },
+  "rulesParamLabel": {
+    "message": "पॅरामीटर नाव किंवा regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "इनपुट regex म्हणून हाताळा"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "नियम जोडा"
+  },
+  "rulesEmptyList": {
+    "message": "अजून कोणतेही सानुकूल नियम नाहीत."
+  },
+  "rulesDeleteBtn": {
+    "message": "हटवा"
+  },
+  "rulesDeleteAria": {
+    "message": "नियम $$1 हटवा"
+  },
+  "rulesLiteralKind": {
+    "message": "अक्षरशः"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "तुमच्या सेटिंग्ज, अनुमतीयादी आणि साफ केलेल्या लिंकचा इतिहास JSON म्हणून निर्यात करा. सर्व डेटा फक्त या उपकरणावरच राहतो."
+  },
+  "exportBtn": {
+    "message": "डेटा निर्यात करा (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "गोपनीयता धोरण"
+  },
+  "linkSupport": {
+    "message": "समर्थन"
+  },
+  "licenseTitle": {
+    "message": "परवाना"
+  },
+  "licenseIntro": {
+    "message": "CleanURL कायमचे मोफत आहे. Pro मध्ये विस्तारित नियमसंच, सानुकूल नियम आणि असीमित अनुमतीयादी मिळते."
+  },
+  "licenseCurrentAria": {
+    "message": "सध्याची योजना"
+  },
+  "licensePlanPro": {
+    "message": "Pro — आजीवन"
+  },
+  "licensePlanTrial": {
+    "message": "चाचणी — ७ दिवस"
+  },
+  "licensePlanFree": {
+    "message": "मोफत"
+  },
+  "licenseMsgPro": {
+    "message": "धन्यवाद. सर्व Pro वैशिष्ट्ये अनलॉक झाली."
+  },
+  "licenseMsgTrial": {
+    "message": "तुम्ही कार्डशिवाय चाचणीवर आहात. कधीही अपग्रेड करा."
+  },
+  "licenseMsgFree": {
+    "message": "विस्तारित नियमसंच, सानुकूल नियम आणि असीमित अनुमतीयादी अनलॉक करण्यासाठी अपग्रेड करा."
+  },
+  "licenseKeyLabel": {
+    "message": "परवाना की"
+  },
+  "licenseKeyAria": {
+    "message": "परवाना की टाका"
+  },
+  "licenseVerify": {
+    "message": "पडताळा"
+  },
+  "licenseVerifying": {
+    "message": "पडताळत आहे…"
+  },
+  "licenseTrialTitle": {
+    "message": "७-दिवसांची मोफत चाचणी सुरू करा"
+  },
+  "licenseTrialBody": {
+    "message": "कार्ड नाही, खाते नाही. ७ दिवसांसाठी विस्तारित नियमसंच, सानुकूल नियम आणि असीमित अनुमतीयादी अनलॉक करते."
+  },
+  "licenseTrialStart": {
+    "message": "मोफत चाचणी सुरू करा"
+  },
+  "licenseTrialStarting": {
+    "message": "सुरू करत आहे…"
+  },
+  "flashExtendedLocked": {
+    "message": "विस्तारित नियमसंच हे Pro वैशिष्ट्य आहे. आधी चाचणी सुरू करा किंवा अपग्रेड करा."
+  },
+  "flashExtendedOn": {
+    "message": "विस्तारित नियमसंच सुरू केला."
+  },
+  "flashExtendedOff": {
+    "message": "विस्तारित नियमसंच बंद केला."
+  },
+  "flashCustomLocked": {
+    "message": "सानुकूल नियम हे Pro वैशिष्ट्य आहे. चाचणी सुरू करा किंवा अपग्रेड करा."
+  },
+  "flashDynCap": {
+    "message": "डायनॅमिक-नियम मर्यादा गाठली. दुसरा जोडण्यासाठी एक हटवा."
+  },
+  "flashBadRegex": {
+    "message": "तो regex नाकारला गेला."
+  },
+  "flashCouldNotAddRule": {
+    "message": "नियम जोडता आला नाही."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "नियम $$1 हटवता आला नाही."
+  },
+  "flashKeyTooShort": {
+    "message": "परवाना की किमान ८ अक्षरांची असते."
+  },
+  "flashKeyOk": {
+    "message": "परवाना पडताळला. Pro वैशिष्ट्ये अनलॉक झाली."
+  },
+  "flashKeyFmt": {
+    "message": "की स्वरूप खूप लहान आहे."
+  },
+  "flashKeyRate": {
+    "message": "खूप जास्त प्रयत्न. एक मिनिट थांबा."
+  },
+  "flashKeyNetwork": {
+    "message": "नेटवर्क त्रुटी. पुन्हा प्रयत्न करा."
+  },
+  "flashKeyTimeout": {
+    "message": "पडताळणीची वेळ संपली."
+  },
+  "flashKeyServer": {
+    "message": "सर्व्हर त्रुटी ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "परवाना की ओळखली गेली नाही."
+  },
+  "flashTrialStarted": {
+    "message": "७-दिवसांची चाचणी सुरू झाली. Pro वैशिष्ट्ये अनलॉक झाली."
+  },
+  "flashTrialUsed": {
+    "message": "तुम्ही आधीच ७-दिवसांची चाचणी वापरली आहे."
+  },
+  "flashTrialFailed": {
+    "message": "चाचणी सुरू करता आली नाही. कृपया पुन्हा प्रयत्न करा."
+  },
+  "validateRequired": {
+    "message": "एक पॅरामीटर नाव टाका."
+  },
+  "validateTooLong": {
+    "message": "ते $$1 अक्षरांपेक्षा कमी ठेवा."
+  },
+  "validateLookaround": {
+    "message": "लुकअराउंडला परवानगी नाही."
+  },
+  "validateNested": {
+    "message": "नेस्टेड क्वांटिफायरना परवानगी नाही (ReDoS धोका)."
+  },
+  "validateComplex": {
+    "message": "Regex सुरक्षितपणे मूल्यांकन करण्यासाठी खूप गुंतागुंतीचा आहे."
+  },
+  "validateBadRegex": {
+    "message": "अवैध रेग्युलर एक्सप्रेशन."
+  },
+  "validateCharClass": {
+    "message": "अक्षरे, अंक, बिंदू, अंडरस्कोर किंवा हायफन वापरा."
+  }
+}

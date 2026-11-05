@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Αφαίρεση παρακολούθησης"
+  },
+  "extDesc": {
+    "message": "Αφαιρεί διακριτικά τους ιχνηλάτες από τους συνδέσμους που ανοίγετε και ξετυλίγει τις συντομεύσεις ανακατεύθυνσης. 100% τοπικά."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "Το CleanURL έχασε μια άδεια."
+  },
+  "popupDegradedRegrant": {
+    "message": "Επαναχορηγήστε την"
+  },
+  "popupDegradedResume": {
+    "message": "για να συνεχιστεί ο καθαρισμός."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Καθαρισμένοι σύνδεσμοι"
+  },
+  "popupHeroLabelPaused": {
+    "message": "Το CleanURL είναι σε παύση"
+  },
+  "popupHeroResume": {
+    "message": "Ενεργοποιήστε τον διακόπτη παρακάτω για να συνεχιστεί ο καθαρισμός."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "καθαρίστηκαν σήμερα"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Αυτόματος καθαρισμός συνδέσμων"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Απενεργοποίηση CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Ενεργοποίηση CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Διαχείριση λίστας επιτρεπόμενων & ρυθμίσεων"
+  },
+  "popupOpenSettings": {
+    "message": "Άνοιγμα ρυθμίσεων CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Αναβάθμιση σε Pro — $$99 εφ' όρου ζωής"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Αναβάθμιση σε CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Ρυθμίσεις"
+  },
+  "popupRootAria": {
+    "message": "Αναδυόμενο παράθυρο CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Δωρεάν επίπεδο"
+  },
+  "popupBootstrapError": {
+    "message": "Το CleanURL δεν μπόρεσε να ξεκινήσει. Δοκιμάστε να ανοίξετε ξανά το αναδυόμενο παράθυρο."
+  },
+  "popupMasterToggleError": {
+    "message": "Δεν ήταν δυνατή η αλλαγή του κύριου διακόπτη."
+  },
+  "optionsStatusActive": {
+    "message": "Ενεργό"
+  },
+  "optionsStatusPaused": {
+    "message": "Σε παύση"
+  },
+  "optionsPauseGlobally": {
+    "message": "Καθολική παύση"
+  },
+  "optionsEnableGlobally": {
+    "message": "Καθολική ενεργοποίηση"
+  },
+  "optionsPauseAria": {
+    "message": "Καθολική παύση CleanURL"
+  },
+  "optionsEnableAria": {
+    "message": "Καθολική ενεργοποίηση CleanURL"
+  },
+  "optionsSidebarAria": {
+    "message": "Ενότητες ρυθμίσεων"
+  },
+  "optionsNavAria": {
+    "message": "Ρυθμίσεις"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Κύριος διακόπτης καθαρισμού"
+  },
+  "optionsCuratedAria": {
+    "message": "Επιμελημένα σύνολα κανόνων"
+  },
+  "optionsCustomAria": {
+    "message": "Προσαρμοσμένοι κανόνες"
+  },
+  "optionsDataAria": {
+    "message": "Εξαγωγή δεδομένων"
+  },
+  "optionsBootstrapError": {
+    "message": "Δεν ήταν δυνατή η φόρτωση των ρυθμίσεων CleanURL. Δοκιμάστε να φορτώσετε ξανά τη σελίδα."
+  },
+  "tabAllowlist": {
+    "message": "Λίστα επιτρεπόμενων"
+  },
+  "tabRules": {
+    "message": "Κανόνες"
+  },
+  "tabLicense": {
+    "message": "Άδεια"
+  },
+  "eyebrowSites": {
+    "message": "Ιστότοποι εξαιρεμένοι από καθαρισμό"
+  },
+  "eyebrowRules": {
+    "message": "Κανόνες καθαρισμού"
+  },
+  "eyebrowPlan": {
+    "message": "Πρόγραμμα & άδεια"
+  },
+  "eyebrowCustom": {
+    "message": "Προσαρμοσμένοι κανόνες παραμέτρων"
+  },
+  "eyebrowYourData": {
+    "message": "Τα δεδομένα σας"
+  },
+  "eyebrowLinks": {
+    "message": "Σύνδεσμοι"
+  },
+  "eyebrowHaveKey": {
+    "message": "Έχετε κλειδί άδειας;"
+  },
+  "allowlistTitle": {
+    "message": "Λίστα επιτρεπόμενων"
+  },
+  "allowlistIntro": {
+    "message": "Το CleanURL δεν θα πειράξει καμία διεύθυνση URL σε αυτούς τους ιστότοπους."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Το δωρεάν επίπεδο επιτρέπει έως $$2 ιστότοπους — χρησιμοποιήθηκαν $$1 από $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Επίπεδο Pro — απεριόριστοι ιστότοποι."
+  },
+  "allowlistInputLabel": {
+    "message": "Όνομα κεντρικού υπολογιστή (π.χ. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Προσθήκη"
+  },
+  "allowlistActiveLabel": {
+    "message": "Ενεργά ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Δεν έχουν εξαιρεθεί ιστότοποι ακόμη"
+  },
+  "allowlistEmptyBody": {
+    "message": "Προσθέστε ένα όνομα κεντρικού υπολογιστή παραπάνω για παράλειψη καθαρισμού σε αυτόν τον ιστότοπο."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Αφαίρεση"
+  },
+  "allowlistRemoveAria": {
+    "message": "Αφαίρεση $$1 από τη λίστα επιτρεπόμενων"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Ανενεργό (Επανεγγραφή στο Pro για επανενεργοποίηση)"
+  },
+  "allowlistColdBadge": {
+    "message": "Ανενεργό"
+  },
+  "errHostnameRequired": {
+    "message": "Εισαγάγετε ένα όνομα κεντρικού υπολογιστή."
+  },
+  "errHostnameInvalid": {
+    "message": "Εισαγάγετε ένα έγκυρο όνομα κεντρικού υπολογιστή (π.χ. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "Το $$1 βρίσκεται ήδη στη λίστα επιτρεπόμενων."
+  },
+  "errFreeCap": {
+    "message": "Το δωρεάν επίπεδο περιορίζεται σε $$1 ιστότοπους. Αναβαθμίστε σε Pro για απεριόριστους."
+  },
+  "flashFreeCap": {
+    "message": "Το δωρεάν επίπεδο περιορίζεται σε $$1 ιστότοπους. Αναβαθμίστε σε Pro για απεριόριστους."
+  },
+  "errCouldNotAdd": {
+    "message": "Δεν ήταν δυνατή η προσθήκη του $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Δεν ήταν δυνατή η αφαίρεση του $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Δεν ήταν δυνατή η προσθήκη του $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Δεν ήταν δυνατή η αφαίρεση του $$1."
+  },
+  "rulesTitle": {
+    "message": "Κανόνες"
+  },
+  "rulesIntro": {
+    "message": "Ενεργοποιήστε/απενεργοποιήστε τα επιμελημένα σύνολα κανόνων που χρησιμοποιεί το CleanURL. Προσθέστε τα δικά σας ονόματα παραμέτρων (ή regex) στο Pro."
+  },
+  "rulesCoreName": {
+    "message": "Βασικό σύνολο κανόνων"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 συντηρητικοί κανόνες αφαίρεσης + ξετυλίγματος. Πάντα ενεργοί."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Εκτεταμένο σύνολο κανόνων"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 επιθετικοί κανόνες: ετικέτες συνεργατών, αναγνωριστικά μάρκετινγκ."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Εναλλαγή εκτεταμένου συνόλου κανόνων"
+  },
+  "rulesCustomDesc": {
+    "message": "Αφαιρέστε ένα κυριολεκτικό όνομα παραμέτρου (π.χ. mkt_tok) ή ένα πρόθεμα regex (π.χ. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Όνομα παραμέτρου ή regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Χειρισμός εισόδου ως regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Προσθήκη κανόνα"
+  },
+  "rulesEmptyList": {
+    "message": "Δεν υπάρχουν προσαρμοσμένοι κανόνες ακόμη."
+  },
+  "rulesDeleteBtn": {
+    "message": "Διαγραφή"
+  },
+  "rulesDeleteAria": {
+    "message": "Διαγραφή κανόνα $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "κυριολεκτικό"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Εξαγάγετε τις ρυθμίσεις, τη λίστα επιτρεπόμενων και το ιστορικό καθαρισμένων συνδέσμων ως JSON. Όλα τα δεδομένα βρίσκονται μόνο σε αυτήν τη συσκευή."
+  },
+  "exportBtn": {
+    "message": "Εξαγωγή δεδομένων (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "linkSupport": {
+    "message": "Υποστήριξη"
+  },
+  "licenseTitle": {
+    "message": "Άδεια"
+  },
+  "licenseIntro": {
+    "message": "Το CleanURL είναι δωρεάν για πάντα. Το Pro προσθέτει το εκτεταμένο σύνολο κανόνων, προσαρμοσμένους κανόνες και απεριόριστη λίστα επιτρεπόμενων."
+  },
+  "licenseCurrentAria": {
+    "message": "Τρέχον πρόγραμμα"
+  },
+  "licensePlanPro": {
+    "message": "Pro — εφ' όρου ζωής"
+  },
+  "licensePlanTrial": {
+    "message": "Δοκιμή — 7 ημέρες"
+  },
+  "licensePlanFree": {
+    "message": "Δωρεάν"
+  },
+  "licenseMsgPro": {
+    "message": "Σας ευχαριστούμε. Όλες οι λειτουργίες Pro ξεκλειδώθηκαν."
+  },
+  "licenseMsgTrial": {
+    "message": "Βρίσκεστε σε δοκιμή χωρίς κάρτα. Αναβαθμίστε οποιαδήποτε στιγμή."
+  },
+  "licenseMsgFree": {
+    "message": "Αναβαθμίστε για να ξεκλειδώσετε το εκτεταμένο σύνολο κανόνων, προσαρμοσμένους κανόνες και απεριόριστη λίστα επιτρεπόμενων."
+  },
+  "licenseKeyLabel": {
+    "message": "Κλειδί άδειας"
+  },
+  "licenseKeyAria": {
+    "message": "Εισαγωγή κλειδιού άδειας"
+  },
+  "licenseVerify": {
+    "message": "Επαλήθευση"
+  },
+  "licenseVerifying": {
+    "message": "Επαλήθευση…"
+  },
+  "licenseTrialTitle": {
+    "message": "Έναρξη δωρεάν δοκιμής 7 ημερών"
+  },
+  "licenseTrialBody": {
+    "message": "Χωρίς κάρτα, χωρίς λογαριασμό. Ξεκλειδώνει το εκτεταμένο σύνολο κανόνων, προσαρμοσμένους κανόνες και απεριόριστη λίστα επιτρεπόμενων για 7 ημέρες."
+  },
+  "licenseTrialStart": {
+    "message": "Έναρξη δωρεάν δοκιμής"
+  },
+  "licenseTrialStarting": {
+    "message": "Έναρξη…"
+  },
+  "flashExtendedLocked": {
+    "message": "Το εκτεταμένο σύνολο κανόνων είναι λειτουργία Pro. Ξεκινήστε μια δοκιμή ή αναβαθμίστε πρώτα."
+  },
+  "flashExtendedOn": {
+    "message": "Το εκτεταμένο σύνολο κανόνων ενεργοποιήθηκε."
+  },
+  "flashExtendedOff": {
+    "message": "Το εκτεταμένο σύνολο κανόνων απενεργοποιήθηκε."
+  },
+  "flashCustomLocked": {
+    "message": "Οι προσαρμοσμένοι κανόνες είναι λειτουργία Pro. Ξεκινήστε μια δοκιμή ή αναβαθμίστε."
+  },
+  "flashDynCap": {
+    "message": "Επιτεύχθηκε το όριο δυναμικών κανόνων. Διαγράψτε έναν για να προσθέσετε άλλον."
+  },
+  "flashBadRegex": {
+    "message": "Αυτό το regex απορρίφθηκε."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Δεν ήταν δυνατή η προσθήκη κανόνα."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Δεν ήταν δυνατή η διαγραφή του κανόνα $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Τα κλειδιά άδειας έχουν τουλάχιστον 8 χαρακτήρες."
+  },
+  "flashKeyOk": {
+    "message": "Η άδεια επαληθεύτηκε. Οι λειτουργίες Pro ξεκλειδώθηκαν."
+  },
+  "flashKeyFmt": {
+    "message": "Η μορφή του κλειδιού είναι πολύ σύντομη."
+  },
+  "flashKeyRate": {
+    "message": "Πάρα πολλές προσπάθειες. Περιμένετε ένα λεπτό."
+  },
+  "flashKeyNetwork": {
+    "message": "Σφάλμα δικτύου. Δοκιμάστε ξανά."
+  },
+  "flashKeyTimeout": {
+    "message": "Έληξε ο χρόνος επαλήθευσης."
+  },
+  "flashKeyServer": {
+    "message": "Σφάλμα διακομιστή ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Το κλειδί άδειας δεν αναγνωρίστηκε."
+  },
+  "flashTrialStarted": {
+    "message": "Η δοκιμή 7 ημερών ξεκίνησε. Οι λειτουργίες Pro ξεκλειδώθηκαν."
+  },
+  "flashTrialUsed": {
+    "message": "Έχετε ήδη χρησιμοποιήσει τη δοκιμή 7 ημερών."
+  },
+  "flashTrialFailed": {
+    "message": "Δεν ήταν δυνατή η έναρξη της δοκιμής. Δοκιμάστε ξανά."
+  },
+  "validateRequired": {
+    "message": "Εισαγάγετε ένα όνομα παραμέτρου."
+  },
+  "validateTooLong": {
+    "message": "Κρατήστε το κάτω από $$1 χαρακτήρες."
+  },
+  "validateLookaround": {
+    "message": "Το lookaround δεν επιτρέπεται."
+  },
+  "validateNested": {
+    "message": "Δεν επιτρέπονται ένθετοι ποσοδείκτες (κίνδυνος ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Το regex είναι πολύ σύνθετο για ασφαλή αξιολόγηση."
+  },
+  "validateBadRegex": {
+    "message": "Μη έγκυρη κανονική έκφραση."
+  },
+  "validateCharClass": {
+    "message": "Χρησιμοποιήστε γράμματα, ψηφία, τελεία, κάτω παύλα ή παύλα."
+  }
+}

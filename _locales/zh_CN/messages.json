@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — 清除跟踪参数"
+  },
+  "extDesc": {
+    "message": "在你打开链接时悄悄清除跟踪参数，并还原重定向短链接。100% 本地运行。"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL 失去了一项权限。"
+  },
+  "popupDegradedRegrant": {
+    "message": "重新授予"
+  },
+  "popupDegradedResume": {
+    "message": "以恢复清理。"
+  },
+  "popupHeroLabelLinks": {
+    "message": "已清理链接"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL 已暂停"
+  },
+  "popupHeroResume": {
+    "message": "拨动下方开关以恢复清理。"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "今日已清理"
+  },
+  "popupMasterToggleLabel": {
+    "message": "自动清理链接"
+  },
+  "popupMasterToggleDisable": {
+    "message": "禁用 CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "启用 CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "管理白名单与设置"
+  },
+  "popupOpenSettings": {
+    "message": "打开 CleanURL 设置"
+  },
+  "popupUpgradeCta": {
+    "message": "升级到 Pro — $$99 终身版"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "升级到 CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "设置"
+  },
+  "popupRootAria": {
+    "message": "CleanURL 弹窗"
+  },
+  "popupFreeTierAria": {
+    "message": "免费版"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL 无法启动。请尝试重新打开弹窗。"
+  },
+  "popupMasterToggleError": {
+    "message": "无法切换主开关。"
+  },
+  "optionsStatusActive": {
+    "message": "已启用"
+  },
+  "optionsStatusPaused": {
+    "message": "已暂停"
+  },
+  "optionsPauseGlobally": {
+    "message": "全局暂停"
+  },
+  "optionsEnableGlobally": {
+    "message": "全局启用"
+  },
+  "optionsPauseAria": {
+    "message": "全局暂停 CleanURL"
+  },
+  "optionsEnableAria": {
+    "message": "全局启用 CleanURL"
+  },
+  "optionsSidebarAria": {
+    "message": "设置分区"
+  },
+  "optionsNavAria": {
+    "message": "设置"
+  },
+  "optionsMasterToggleAria": {
+    "message": "主清理开关"
+  },
+  "optionsCuratedAria": {
+    "message": "精选规则集"
+  },
+  "optionsCustomAria": {
+    "message": "自定义规则"
+  },
+  "optionsDataAria": {
+    "message": "数据导出"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL 设置无法加载。请尝试重新加载页面。"
+  },
+  "tabAllowlist": {
+    "message": "白名单"
+  },
+  "tabRules": {
+    "message": "规则"
+  },
+  "tabLicense": {
+    "message": "许可证"
+  },
+  "eyebrowSites": {
+    "message": "免于清理的网站"
+  },
+  "eyebrowRules": {
+    "message": "清理规则"
+  },
+  "eyebrowPlan": {
+    "message": "方案与许可证"
+  },
+  "eyebrowCustom": {
+    "message": "自定义参数规则"
+  },
+  "eyebrowYourData": {
+    "message": "你的数据"
+  },
+  "eyebrowLinks": {
+    "message": "链接"
+  },
+  "eyebrowHaveKey": {
+    "message": "有许可证密钥？"
+  },
+  "allowlistTitle": {
+    "message": "白名单"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL 不会处理这些网站上的任何 URL。"
+  },
+  "allowlistCapUsageFree": {
+    "message": "免费版最多允许 $$2 个网站 — 已使用 $$1 / $$2。"
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro 版 — 网站数量不限。"
+  },
+  "allowlistInputLabel": {
+    "message": "主机名（例如 shop.example.com）"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "添加"
+  },
+  "allowlistActiveLabel": {
+    "message": "已启用（$$1）"
+  },
+  "allowlistEmptyTitle": {
+    "message": "尚未豁免任何网站"
+  },
+  "allowlistEmptyBody": {
+    "message": "在上方添加主机名，以在该网站上跳过清理。"
+  },
+  "allowlistRemoveBtn": {
+    "message": "移除"
+  },
+  "allowlistRemoveAria": {
+    "message": "从白名单中移除 $$1"
+  },
+  "allowlistInactiveLabel": {
+    "message": "未启用（重新加入 Pro 以重新激活）"
+  },
+  "allowlistColdBadge": {
+    "message": "冷"
+  },
+  "errHostnameRequired": {
+    "message": "请输入主机名。"
+  },
+  "errHostnameInvalid": {
+    "message": "请输入有效的主机名（例如 example.com）。"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 已在白名单中。"
+  },
+  "errFreeCap": {
+    "message": "免费版上限为 $$1 个网站。升级到 Pro 即可不限数量。"
+  },
+  "flashFreeCap": {
+    "message": "免费版上限为 $$1 个网站。升级到 Pro 即可不限数量。"
+  },
+  "errCouldNotAdd": {
+    "message": "无法添加 $$1。"
+  },
+  "errCouldNotRemove": {
+    "message": "无法移除 $$1。"
+  },
+  "flashCouldNotAddHost": {
+    "message": "无法添加 $$1。"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "无法移除 $$1。"
+  },
+  "rulesTitle": {
+    "message": "规则"
+  },
+  "rulesIntro": {
+    "message": "切换 CleanURL 使用的精选规则集。在 Pro 版中可添加你自己的参数名（或 regex）。"
+  },
+  "rulesCoreName": {
+    "message": "核心规则集"
+  },
+  "rulesCoreDesc": {
+    "message": "约 120 条保守的清除 + 还原规则。始终启用。"
+  },
+  "rulesCoreBadge": {
+    "message": "开"
+  },
+  "rulesExtendedName": {
+    "message": "扩展规则集"
+  },
+  "rulesExtendedDesc": {
+    "message": "约 300 条激进规则：联盟标签、营销 ID。"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "切换扩展规则集"
+  },
+  "rulesCustomDesc": {
+    "message": "清除某个字面参数名（例如 mkt_tok）或 regex 前缀（例如 ^ig_）。"
+  },
+  "rulesParamLabel": {
+    "message": "参数名或 regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "将输入视为 regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "添加规则"
+  },
+  "rulesEmptyList": {
+    "message": "尚无自定义规则。"
+  },
+  "rulesDeleteBtn": {
+    "message": "删除"
+  },
+  "rulesDeleteAria": {
+    "message": "删除规则 $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "字面"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "将你的设置、白名单和已清理链接历史导出为 JSON。所有数据仅保存在本设备上。"
+  },
+  "exportBtn": {
+    "message": "导出数据（JSON）"
+  },
+  "linkPrivacy": {
+    "message": "隐私政策"
+  },
+  "linkSupport": {
+    "message": "支持"
+  },
+  "licenseTitle": {
+    "message": "许可证"
+  },
+  "licenseIntro": {
+    "message": "CleanURL 永久免费。Pro 版增加扩展规则集、自定义规则和不限数量的白名单。"
+  },
+  "licenseCurrentAria": {
+    "message": "当前方案"
+  },
+  "licensePlanPro": {
+    "message": "Pro — 终身"
+  },
+  "licensePlanTrial": {
+    "message": "试用 — 7 天"
+  },
+  "licensePlanFree": {
+    "message": "免费"
+  },
+  "licenseMsgPro": {
+    "message": "感谢你。所有 Pro 功能已解锁。"
+  },
+  "licenseMsgTrial": {
+    "message": "你正在无需信用卡的试用中。可随时升级。"
+  },
+  "licenseMsgFree": {
+    "message": "升级以解锁扩展规则集、自定义规则和不限数量的白名单。"
+  },
+  "licenseKeyLabel": {
+    "message": "许可证密钥"
+  },
+  "licenseKeyAria": {
+    "message": "输入许可证密钥"
+  },
+  "licenseVerify": {
+    "message": "验证"
+  },
+  "licenseVerifying": {
+    "message": "正在验证…"
+  },
+  "licenseTrialTitle": {
+    "message": "开始 7 天免费试用"
+  },
+  "licenseTrialBody": {
+    "message": "无需信用卡，无需账户。可解锁扩展规则集、自定义规则和不限数量的白名单，为期 7 天。"
+  },
+  "licenseTrialStart": {
+    "message": "开始免费试用"
+  },
+  "licenseTrialStarting": {
+    "message": "正在开始…"
+  },
+  "flashExtendedLocked": {
+    "message": "扩展规则集是 Pro 功能。请先开始试用或升级。"
+  },
+  "flashExtendedOn": {
+    "message": "扩展规则集已启用。"
+  },
+  "flashExtendedOff": {
+    "message": "扩展规则集已禁用。"
+  },
+  "flashCustomLocked": {
+    "message": "自定义规则是 Pro 功能。请开始试用或升级。"
+  },
+  "flashDynCap": {
+    "message": "已达到动态规则上限。删除一条以添加另一条。"
+  },
+  "flashBadRegex": {
+    "message": "该 regex 被拒绝。"
+  },
+  "flashCouldNotAddRule": {
+    "message": "无法添加规则。"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "无法删除规则 $$1。"
+  },
+  "flashKeyTooShort": {
+    "message": "许可证密钥至少为 8 个字符。"
+  },
+  "flashKeyOk": {
+    "message": "许可证已验证。Pro 功能已解锁。"
+  },
+  "flashKeyFmt": {
+    "message": "密钥格式过短。"
+  },
+  "flashKeyRate": {
+    "message": "尝试次数过多。请稍等一分钟。"
+  },
+  "flashKeyNetwork": {
+    "message": "网络错误。请重试。"
+  },
+  "flashKeyTimeout": {
+    "message": "验证超时。"
+  },
+  "flashKeyServer": {
+    "message": "服务器错误（$$1）。"
+  },
+  "flashKeyUnknown": {
+    "message": "无法识别该许可证密钥。"
+  },
+  "flashTrialStarted": {
+    "message": "7 天试用已开始。Pro 功能已解锁。"
+  },
+  "flashTrialUsed": {
+    "message": "你已使用过 7 天试用。"
+  },
+  "flashTrialFailed": {
+    "message": "无法开始试用。请重试。"
+  },
+  "validateRequired": {
+    "message": "请输入参数名。"
+  },
+  "validateTooLong": {
+    "message": "请保持在 $$1 个字符以内。"
+  },
+  "validateLookaround": {
+    "message": "不允许使用环视（lookaround）。"
+  },
+  "validateNested": {
+    "message": "不允许嵌套量词（存在 ReDoS 风险）。"
+  },
+  "validateComplex": {
+    "message": "Regex 过于复杂，无法安全评估。"
+  },
+  "validateBadRegex": {
+    "message": "无效的正则表达式。"
+  },
+  "validateCharClass": {
+    "message": "请使用字母、数字、点、下划线或连字符。"
+  }
+}

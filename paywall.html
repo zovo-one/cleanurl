@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>CleanURL Pro</title>
+<link rel="stylesheet" href="styles/clean9992-base.css"/>
+<style>
+  body{margin:0;background:var(--clean9992-surface);min-height:100vh}
+  .pw-page{max-width:560px;margin:0 auto;padding:40px 20px 56px}
+  .pw-card{background:var(--clean9992-bg);border:1px solid var(--clean9992-border);
+    border-radius:var(--clean9992-radius-card);box-shadow:var(--clean9992-shadow);
+    padding:28px 28px;margin-top:20px}
+  .pw-brand{display:flex;align-items:center;gap:12px}
+  .pw-logo{width:36px;height:36px;border-radius:9px;
+    background:linear-gradient(135deg,var(--clean9992-primary),var(--clean9992-primary-light));
+    display:flex;align-items:center;justify-content:center}
+  .pw-title{font-size:var(--clean9992-fs-heading);font-weight:var(--clean9992-fw-heading);
+    letter-spacing:-.01em;flex:1}
+  .pw-price{font-size:var(--clean9992-fs-hero);font-weight:700;letter-spacing:-.02em;
+    color:var(--clean9992-primary);line-height:1.05}
+  .pw-price small{font-size:16px;font-weight:500;color:var(--clean9992-text-secondary)}
+  .pw-feat{display:flex;gap:12px;align-items:flex-start;padding:10px 0;
+    border-top:1px solid var(--clean9992-border)}
+  .pw-feat:first-of-type{border-top:none}
+  .pw-feat .ck{flex:0 0 22px;height:22px;border-radius:6px;
+    background:var(--clean9992-primary-50);color:var(--clean9992-primary);
+    display:flex;align-items:center;justify-content:center;margin-top:1px}
+  .pw-feat .sub{display:block;font-size:12px;color:var(--clean9992-text-secondary);margin-top:2px}
+  .pw-row{display:flex;gap:10px;margin-top:12px}
+  .pw-row .clean9992-input{flex:1}
+  .pw-status{margin-top:12px;font-size:13px;min-height:18px}
+  .pw-status[data-kind="ok"]{color:var(--clean9992-success)}
+  .pw-status[data-kind="err"]{color:var(--clean9992-error)}
+  .pw-status[data-kind="info"]{color:var(--clean9992-text-secondary)}
+  .pw-note{font-size:12px;color:var(--clean9992-text-secondary);margin-top:10px;line-height:1.5}
+</style>
+</head>
+<body class="clean9992">
+<div id="clean9992-paywall-root" class="clean9992-root pw-page" data-tier="free">
+  <div class="pw-brand">
+    <span class="pw-logo"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 2l7 3v6c0 4.5-3 8-7 9-4-1-7-4.5-7-9V5l7-3z" stroke="#fff" stroke-width="1.7" stroke-linejoin="round"/><path d="M9 12l2 2 4-4" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    <span class="pw-title">CleanURL Pro</span>
+    <span class="clean9992-badge clean9992-badge--free" data-tier-badge>Free</span>
+  </div>
+
+  <div class="pw-card">
+    <div class="pw-price">$99 <small>one-time &middot; lifetime</small></div>
+    <p class="clean9992-muted" style="margin:6px 0 18px">Everything in Free, plus the aggressive extras. No subscription.</p>
+
+    <div class="pw-feat"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Extended ruleset<span class="sub">Aggressive affiliate tags and marketing IDs</span></span></div>
+    <div class="pw-feat"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Unlimited allowlist<span class="sub">Free is capped at 3 sites</span></span></div>
+    <div class="pw-feat"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Custom rule editor<span class="sub">Your own parameter names or a regex prefix</span></span></div>
+    <div class="pw-feat"><span class="ck"><svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M20 6L9 17l-5-5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>JSON export of settings, allowlist &amp; history</span></div>
+
+    <a id="clean9992-buy" class="clean9992-btn clean9992-btn--pro clean9992-btn--block" style="margin-top:18px" href="https://zovo.one/pricing?utm_source=cleanurl&amp;utm_medium=extension&amp;utm_campaign=upgrade&amp;utm_content=paywall" target="_blank" rel="noopener noreferrer">Get CleanURL Pro &mdash; $99 lifetime</a>
+    <p class="pw-note">Opens zovo.one in a new tab. Your license key arrives by email after checkout &mdash; paste it below to unlock Pro.</p>
+  </div>
+
+  <div class="pw-card">
+    <div class="clean9992-eyebrow">Try Pro free</div>
+    <p style="margin:0 0 4px">Start a 7-day trial — no card, no account. Everything is enforced on your device.</p>
+    <button type="button" id="clean9992-start-trial" class="clean9992-btn clean9992-btn--pro clean9992-btn--block" style="margin-top:14px">Start 7-day free trial</button>
+  </div>
+
+  <div class="pw-card">
+    <div class="clean9992-eyebrow">Have a license key?</div>
+    <label class="clean9992-label" for="clean9992-license-key">License key</label>
+    <div class="pw-row">
+      <input type="text" id="clean9992-license-key" class="clean9992-input clean9992-mono" autocomplete="off" spellcheck="false" placeholder="Paste your key"/>
+      <button type="button" id="clean9992-verify-key" class="clean9992-btn clean9992-btn--primary">Verify</button>
+    </div>
+    <div class="pw-status" id="clean9992-paywall-status" role="status" aria-live="polite" data-kind="info"></div>
+    <p class="pw-note">Verifying a key makes a single request to the CleanURL license server. Nothing else ever leaves your device.</p>
+  </div>
+</div>
+<script src="paywall.js"></script>
+<script src="paywall-ui.js"></script>
+</body></html>

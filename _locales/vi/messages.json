@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Loại bỏ trình theo dõi"
+  },
+  "extDesc": {
+    "message": "Âm thầm loại bỏ các trình theo dõi khỏi liên kết bạn mở, và mở các liên kết chuyển hướng rút gọn. Hoạt động 100% cục bộ."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL đã mất một quyền."
+  },
+  "popupDegradedRegrant": {
+    "message": "Cấp lại quyền"
+  },
+  "popupDegradedResume": {
+    "message": "để tiếp tục dọn dẹp."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Liên kết đã dọn"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL đang tạm dừng"
+  },
+  "popupHeroResume": {
+    "message": "Bật công tắc bên dưới để tiếp tục dọn dẹp."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "đã dọn hôm nay"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Tự động dọn liên kết"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Tắt CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Bật CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Quản lý danh sách cho phép & cài đặt"
+  },
+  "popupOpenSettings": {
+    "message": "Mở cài đặt CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Nâng cấp lên Pro — $$99 trọn đời"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Nâng cấp lên CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Cài đặt"
+  },
+  "popupRootAria": {
+    "message": "Cửa sổ CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Bậc miễn phí"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL không thể khởi động. Hãy thử mở lại cửa sổ."
+  },
+  "popupMasterToggleError": {
+    "message": "Không thể thay đổi công tắc chính."
+  },
+  "optionsStatusActive": {
+    "message": "Đang hoạt động"
+  },
+  "optionsStatusPaused": {
+    "message": "Đang tạm dừng"
+  },
+  "optionsPauseGlobally": {
+    "message": "Tạm dừng toàn bộ"
+  },
+  "optionsEnableGlobally": {
+    "message": "Bật toàn bộ"
+  },
+  "optionsPauseAria": {
+    "message": "Tạm dừng CleanURL toàn bộ"
+  },
+  "optionsEnableAria": {
+    "message": "Bật CleanURL toàn bộ"
+  },
+  "optionsSidebarAria": {
+    "message": "Các mục cài đặt"
+  },
+  "optionsNavAria": {
+    "message": "Cài đặt"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Công tắc dọn dẹp chính"
+  },
+  "optionsCuratedAria": {
+    "message": "Bộ quy tắc tuyển chọn"
+  },
+  "optionsCustomAria": {
+    "message": "Quy tắc tùy chỉnh"
+  },
+  "optionsDataAria": {
+    "message": "Xuất dữ liệu"
+  },
+  "optionsBootstrapError": {
+    "message": "Không thể tải cài đặt CleanURL. Hãy thử tải lại trang."
+  },
+  "tabAllowlist": {
+    "message": "Danh sách cho phép"
+  },
+  "tabRules": {
+    "message": "Quy tắc"
+  },
+  "tabLicense": {
+    "message": "Giấy phép"
+  },
+  "eyebrowSites": {
+    "message": "Trang web được miễn dọn dẹp"
+  },
+  "eyebrowRules": {
+    "message": "Quy tắc dọn dẹp"
+  },
+  "eyebrowPlan": {
+    "message": "Gói & giấy phép"
+  },
+  "eyebrowCustom": {
+    "message": "Quy tắc tham số tùy chỉnh"
+  },
+  "eyebrowYourData": {
+    "message": "Dữ liệu của bạn"
+  },
+  "eyebrowLinks": {
+    "message": "Liên kết"
+  },
+  "eyebrowHaveKey": {
+    "message": "Có khóa giấy phép?"
+  },
+  "allowlistTitle": {
+    "message": "Danh sách cho phép"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL sẽ không đụng đến bất kỳ URL nào trên các trang web này."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Bậc miễn phí cho phép tối đa $$2 trang — đã dùng $$1 trong $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Bậc Pro — không giới hạn trang web."
+  },
+  "allowlistInputLabel": {
+    "message": "Tên máy chủ (ví dụ shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Thêm"
+  },
+  "allowlistActiveLabel": {
+    "message": "Đang hoạt động ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Chưa có trang web nào được miễn"
+  },
+  "allowlistEmptyBody": {
+    "message": "Thêm tên máy chủ ở trên để bỏ qua dọn dẹp trên trang đó."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Xóa"
+  },
+  "allowlistRemoveAria": {
+    "message": "Xóa $$1 khỏi danh sách cho phép"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Không hoạt động (Tham gia lại Pro để kích hoạt lại)"
+  },
+  "allowlistColdBadge": {
+    "message": "Nguội"
+  },
+  "errHostnameRequired": {
+    "message": "Nhập tên máy chủ."
+  },
+  "errHostnameInvalid": {
+    "message": "Nhập tên máy chủ hợp lệ (ví dụ example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 đã có trong danh sách cho phép."
+  },
+  "errFreeCap": {
+    "message": "Bậc miễn phí giới hạn $$1 trang. Nâng cấp lên Pro để không giới hạn."
+  },
+  "flashFreeCap": {
+    "message": "Bậc miễn phí giới hạn $$1 trang. Nâng cấp lên Pro để không giới hạn."
+  },
+  "errCouldNotAdd": {
+    "message": "Không thể thêm $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Không thể xóa $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Không thể thêm $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Không thể xóa $$1."
+  },
+  "rulesTitle": {
+    "message": "Quy tắc"
+  },
+  "rulesIntro": {
+    "message": "Bật/tắt các bộ quy tắc tuyển chọn mà CleanURL sử dụng. Thêm tên tham số của riêng bạn (hoặc regex) với Pro."
+  },
+  "rulesCoreName": {
+    "message": "Bộ quy tắc lõi"
+  },
+  "rulesCoreDesc": {
+    "message": "Khoảng 120 quy tắc loại bỏ + mở liên kết thận trọng. Luôn bật."
+  },
+  "rulesCoreBadge": {
+    "message": "BẬT"
+  },
+  "rulesExtendedName": {
+    "message": "Bộ quy tắc mở rộng"
+  },
+  "rulesExtendedDesc": {
+    "message": "Khoảng 300 quy tắc mạnh mẽ: thẻ liên kết tiếp thị, ID tiếp thị."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Bật/tắt bộ quy tắc mở rộng"
+  },
+  "rulesCustomDesc": {
+    "message": "Loại bỏ một tên tham số theo nghĩa đen (ví dụ mkt_tok) hoặc tiền tố regex (ví dụ ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Tên tham số hoặc regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Coi đầu vào là regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Thêm quy tắc"
+  },
+  "rulesEmptyList": {
+    "message": "Chưa có quy tắc tùy chỉnh."
+  },
+  "rulesDeleteBtn": {
+    "message": "Xóa"
+  },
+  "rulesDeleteAria": {
+    "message": "Xóa quy tắc $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "nghĩa đen"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Xuất cài đặt, danh sách cho phép và lịch sử liên kết đã dọn dưới dạng JSON. Mọi dữ liệu chỉ nằm trên thiết bị này."
+  },
+  "exportBtn": {
+    "message": "Xuất dữ liệu (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Chính sách quyền riêng tư"
+  },
+  "linkSupport": {
+    "message": "Hỗ trợ"
+  },
+  "licenseTitle": {
+    "message": "Giấy phép"
+  },
+  "licenseIntro": {
+    "message": "CleanURL miễn phí vĩnh viễn. Pro bổ sung bộ quy tắc mở rộng, quy tắc tùy chỉnh và danh sách cho phép không giới hạn."
+  },
+  "licenseCurrentAria": {
+    "message": "Gói hiện tại"
+  },
+  "licensePlanPro": {
+    "message": "Pro — trọn đời"
+  },
+  "licensePlanTrial": {
+    "message": "Dùng thử — 7 ngày"
+  },
+  "licensePlanFree": {
+    "message": "Miễn phí"
+  },
+  "licenseMsgPro": {
+    "message": "Cảm ơn bạn. Đã mở khóa tất cả tính năng Pro."
+  },
+  "licenseMsgTrial": {
+    "message": "Bạn đang dùng thử không cần thẻ. Nâng cấp bất kỳ lúc nào."
+  },
+  "licenseMsgFree": {
+    "message": "Nâng cấp để mở khóa bộ quy tắc mở rộng, quy tắc tùy chỉnh và danh sách cho phép không giới hạn."
+  },
+  "licenseKeyLabel": {
+    "message": "Khóa giấy phép"
+  },
+  "licenseKeyAria": {
+    "message": "Nhập khóa giấy phép"
+  },
+  "licenseVerify": {
+    "message": "Xác minh"
+  },
+  "licenseVerifying": {
+    "message": "Đang xác minh…"
+  },
+  "licenseTrialTitle": {
+    "message": "Bắt đầu dùng thử miễn phí 7 ngày"
+  },
+  "licenseTrialBody": {
+    "message": "Không cần thẻ, không cần tài khoản. Mở khóa bộ quy tắc mở rộng, quy tắc tùy chỉnh và danh sách cho phép không giới hạn trong 7 ngày."
+  },
+  "licenseTrialStart": {
+    "message": "Bắt đầu dùng thử miễn phí"
+  },
+  "licenseTrialStarting": {
+    "message": "Đang bắt đầu…"
+  },
+  "flashExtendedLocked": {
+    "message": "Bộ quy tắc mở rộng là tính năng Pro. Hãy bắt đầu dùng thử hoặc nâng cấp trước."
+  },
+  "flashExtendedOn": {
+    "message": "Đã bật bộ quy tắc mở rộng."
+  },
+  "flashExtendedOff": {
+    "message": "Đã tắt bộ quy tắc mở rộng."
+  },
+  "flashCustomLocked": {
+    "message": "Quy tắc tùy chỉnh là tính năng Pro. Hãy bắt đầu dùng thử hoặc nâng cấp."
+  },
+  "flashDynCap": {
+    "message": "Đã đạt giới hạn quy tắc động. Xóa một quy tắc để thêm quy tắc khác."
+  },
+  "flashBadRegex": {
+    "message": "Regex đó đã bị từ chối."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Không thể thêm quy tắc."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Không thể xóa quy tắc $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Khóa giấy phép có ít nhất 8 ký tự."
+  },
+  "flashKeyOk": {
+    "message": "Đã xác minh giấy phép. Đã mở khóa tính năng Pro."
+  },
+  "flashKeyFmt": {
+    "message": "Định dạng khóa quá ngắn."
+  },
+  "flashKeyRate": {
+    "message": "Quá nhiều lần thử. Hãy đợi một phút."
+  },
+  "flashKeyNetwork": {
+    "message": "Lỗi mạng. Hãy thử lại."
+  },
+  "flashKeyTimeout": {
+    "message": "Xác minh đã hết thời gian."
+  },
+  "flashKeyServer": {
+    "message": "Lỗi máy chủ ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Không nhận diện được khóa giấy phép."
+  },
+  "flashTrialStarted": {
+    "message": "Đã bắt đầu dùng thử 7 ngày. Đã mở khóa tính năng Pro."
+  },
+  "flashTrialUsed": {
+    "message": "Bạn đã dùng thử 7 ngày rồi."
+  },
+  "flashTrialFailed": {
+    "message": "Không thể bắt đầu dùng thử. Vui lòng thử lại."
+  },
+  "validateRequired": {
+    "message": "Nhập tên tham số."
+  },
+  "validateTooLong": {
+    "message": "Giữ dưới $$1 ký tự."
+  },
+  "validateLookaround": {
+    "message": "Không cho phép lookaround."
+  },
+  "validateNested": {
+    "message": "Không cho phép bộ định lượng lồng nhau (rủi ro ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex quá phức tạp để đánh giá an toàn."
+  },
+  "validateBadRegex": {
+    "message": "Biểu thức chính quy không hợp lệ."
+  },
+  "validateCharClass": {
+    "message": "Dùng chữ cái, chữ số, dấu chấm, gạch dưới hoặc gạch nối."
+  }
+}

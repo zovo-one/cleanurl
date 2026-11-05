@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL"
+  },
+  "extDesc": {
+    "message": "به‌آرامی ردیاب‌ها را از لینک‌هایی که باز می‌کنید حذف می‌کند و میان‌برهای هدایت را باز می‌کند. ۱۰۰٪ محلی."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "‏CleanURL یک مجوز را از دست داد."
+  },
+  "popupDegradedRegrant": {
+    "message": "دوباره اعطا کنید"
+  },
+  "popupDegradedResume": {
+    "message": "برای ازسرگیری پاک‌سازی."
+  },
+  "popupHeroLabelLinks": {
+    "message": "لینک‌های پاک‌شده"
+  },
+  "popupHeroLabelPaused": {
+    "message": "‏CleanURL متوقف شده است"
+  },
+  "popupHeroResume": {
+    "message": "کلید زیر را جابه‌جا کنید تا پاک‌سازی ازسر گرفته شود."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "امروز پاک شد"
+  },
+  "popupMasterToggleLabel": {
+    "message": "پاک‌سازی خودکار لینک‌ها"
+  },
+  "popupMasterToggleDisable": {
+    "message": "غیرفعال‌سازی CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "فعال‌سازی CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "مدیریت فهرست مجاز و تنظیمات"
+  },
+  "popupOpenSettings": {
+    "message": "باز کردن تنظیمات CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "ارتقا به Pro — $$99 مادام‌العمر"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "ارتقا به CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "تنظیمات"
+  },
+  "popupRootAria": {
+    "message": "پنجره بازشوی CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "سطح رایگان"
+  },
+  "popupBootstrapError": {
+    "message": "‏CleanURL نتوانست شروع شود. پنجره بازشو را دوباره باز کنید."
+  },
+  "popupMasterToggleError": {
+    "message": "تغییر کلید اصلی ممکن نشد."
+  },
+  "optionsStatusActive": {
+    "message": "فعال"
+  },
+  "optionsStatusPaused": {
+    "message": "متوقف"
+  },
+  "optionsPauseGlobally": {
+    "message": "توقف سراسری"
+  },
+  "optionsEnableGlobally": {
+    "message": "فعال‌سازی سراسری"
+  },
+  "optionsPauseAria": {
+    "message": "توقف سراسری CleanURL"
+  },
+  "optionsEnableAria": {
+    "message": "فعال‌سازی سراسری CleanURL"
+  },
+  "optionsSidebarAria": {
+    "message": "بخش‌های تنظیمات"
+  },
+  "optionsNavAria": {
+    "message": "تنظیمات"
+  },
+  "optionsMasterToggleAria": {
+    "message": "کلید اصلی پاک‌سازی"
+  },
+  "optionsCuratedAria": {
+    "message": "مجموعه‌قواعد آماده"
+  },
+  "optionsCustomAria": {
+    "message": "قواعد سفارشی"
+  },
+  "optionsDataAria": {
+    "message": "خروجی داده"
+  },
+  "optionsBootstrapError": {
+    "message": "تنظیمات CleanURL بارگذاری نشد. صفحه را دوباره بارگذاری کنید."
+  },
+  "tabAllowlist": {
+    "message": "فهرست مجاز"
+  },
+  "tabRules": {
+    "message": "قواعد"
+  },
+  "tabLicense": {
+    "message": "مجوز"
+  },
+  "eyebrowSites": {
+    "message": "سایت‌های معاف از پاک‌سازی"
+  },
+  "eyebrowRules": {
+    "message": "قواعد پاک‌سازی"
+  },
+  "eyebrowPlan": {
+    "message": "طرح و مجوز"
+  },
+  "eyebrowCustom": {
+    "message": "قواعد پارامتر سفارشی"
+  },
+  "eyebrowYourData": {
+    "message": "داده‌های شما"
+  },
+  "eyebrowLinks": {
+    "message": "لینک‌ها"
+  },
+  "eyebrowHaveKey": {
+    "message": "کلید مجوز دارید؟"
+  },
+  "allowlistTitle": {
+    "message": "فهرست مجاز"
+  },
+  "allowlistIntro": {
+    "message": "‏CleanURL هیچ نشانی اینترنتی را در این سایت‌ها دست‌کاری نمی‌کند."
+  },
+  "allowlistCapUsageFree": {
+    "message": "سطح رایگان تا $$2 سایت را مجاز می‌کند — $$1 از $$2 استفاده شد."
+  },
+  "allowlistCapUsagePro": {
+    "message": "سطح Pro — سایت‌های نامحدود."
+  },
+  "allowlistInputLabel": {
+    "message": "نام میزبان (مثلاً shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "افزودن"
+  },
+  "allowlistActiveLabel": {
+    "message": "فعال ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "هنوز هیچ سایتی معاف نشده است"
+  },
+  "allowlistEmptyBody": {
+    "message": "برای رد شدن از پاک‌سازی در آن سایت، یک نام میزبان در بالا اضافه کنید."
+  },
+  "allowlistRemoveBtn": {
+    "message": "حذف"
+  },
+  "allowlistRemoveAria": {
+    "message": "حذف $$1 از فهرست مجاز"
+  },
+  "allowlistInactiveLabel": {
+    "message": "غیرفعال (برای فعال‌سازی مجدد دوباره به Pro بپیوندید)"
+  },
+  "allowlistColdBadge": {
+    "message": "سرد"
+  },
+  "errHostnameRequired": {
+    "message": "یک نام میزبان وارد کنید."
+  },
+  "errHostnameInvalid": {
+    "message": "یک نام میزبان معتبر وارد کنید (مثلاً example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 از قبل در فهرست مجاز است."
+  },
+  "errFreeCap": {
+    "message": "سطح رایگان به $$1 سایت محدود است. برای نامحدود به Pro ارتقا دهید."
+  },
+  "flashFreeCap": {
+    "message": "سطح رایگان به $$1 سایت محدود است. برای نامحدود به Pro ارتقا دهید."
+  },
+  "errCouldNotAdd": {
+    "message": "افزودن $$1 ممکن نشد."
+  },
+  "errCouldNotRemove": {
+    "message": "حذف $$1 ممکن نشد."
+  },
+  "flashCouldNotAddHost": {
+    "message": "افزودن $$1 ممکن نشد."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "حذف $$1 ممکن نشد."
+  },
+  "rulesTitle": {
+    "message": "قواعد"
+  },
+  "rulesIntro": {
+    "message": "مجموعه‌قواعد آماده‌ای را که CleanURL استفاده می‌کند تغییر دهید. نام پارامترهای خود (یا regex) را در Pro اضافه کنید."
+  },
+  "rulesCoreName": {
+    "message": "مجموعه‌قواعد اصلی"
+  },
+  "rulesCoreDesc": {
+    "message": "حدود ۱۲۰ قاعده محافظه‌کارانه حذف و باز کردن. همیشه فعال."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "مجموعه‌قواعد گسترده"
+  },
+  "rulesExtendedDesc": {
+    "message": "حدود ۳۰۰ قاعده تهاجمی: برچسب‌های همکاری در فروش، شناسه‌های بازاریابی."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "تغییر مجموعه‌قواعد گسترده"
+  },
+  "rulesCustomDesc": {
+    "message": "یک نام پارامتر تحت‌اللفظی (مثلاً mkt_tok) یا پیشوند regex (مثلاً ^ig_) را حذف کنید."
+  },
+  "rulesParamLabel": {
+    "message": "نام پارامتر یا regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "ورودی را به‌عنوان regex در نظر بگیر"
+  },
+  "rulesRegexLabel": {
+    "message": "regex"
+  },
+  "rulesAddBtn": {
+    "message": "افزودن قاعده"
+  },
+  "rulesEmptyList": {
+    "message": "هنوز هیچ قاعده سفارشی وجود ندارد."
+  },
+  "rulesDeleteBtn": {
+    "message": "حذف"
+  },
+  "rulesDeleteAria": {
+    "message": "حذف قاعده $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "تحت‌اللفظی"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "تنظیمات، فهرست مجاز و تاریخچه لینک‌های پاک‌شده خود را به‌صورت JSON خروجی بگیرید. همه داده‌ها فقط روی این دستگاه می‌مانند."
+  },
+  "exportBtn": {
+    "message": "خروجی داده (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "سیاست حریم خصوصی"
+  },
+  "linkSupport": {
+    "message": "پشتیبانی"
+  },
+  "licenseTitle": {
+    "message": "مجوز"
+  },
+  "licenseIntro": {
+    "message": "‏CleanURL برای همیشه رایگان است. Pro مجموعه‌قواعد گسترده، قواعد سفارشی و فهرست مجاز نامحدود را اضافه می‌کند."
+  },
+  "licenseCurrentAria": {
+    "message": "طرح فعلی"
+  },
+  "licensePlanPro": {
+    "message": "Pro — مادام‌العمر"
+  },
+  "licensePlanTrial": {
+    "message": "آزمایشی — ۷ روز"
+  },
+  "licensePlanFree": {
+    "message": "رایگان"
+  },
+  "licenseMsgPro": {
+    "message": "متشکریم. همه ویژگی‌های Pro باز شد."
+  },
+  "licenseMsgTrial": {
+    "message": "شما در دوره آزمایشی بدون کارت هستید. هر زمان ارتقا دهید."
+  },
+  "licenseMsgFree": {
+    "message": "برای باز کردن مجموعه‌قواعد گسترده، قواعد سفارشی و فهرست مجاز نامحدود ارتقا دهید."
+  },
+  "licenseKeyLabel": {
+    "message": "کلید مجوز"
+  },
+  "licenseKeyAria": {
+    "message": "کلید مجوز را وارد کنید"
+  },
+  "licenseVerify": {
+    "message": "تأیید"
+  },
+  "licenseVerifying": {
+    "message": "در حال تأیید…"
+  },
+  "licenseTrialTitle": {
+    "message": "شروع آزمایش رایگان ۷ روزه"
+  },
+  "licenseTrialBody": {
+    "message": "بدون کارت، بدون حساب. مجموعه‌قواعد گسترده، قواعد سفارشی و فهرست مجاز نامحدود را برای ۷ روز باز می‌کند."
+  },
+  "licenseTrialStart": {
+    "message": "شروع آزمایش رایگان"
+  },
+  "licenseTrialStarting": {
+    "message": "در حال شروع…"
+  },
+  "flashExtendedLocked": {
+    "message": "مجموعه‌قواعد گسترده یک ویژگی Pro است. ابتدا یک آزمایش را شروع کنید یا ارتقا دهید."
+  },
+  "flashExtendedOn": {
+    "message": "مجموعه‌قواعد گسترده فعال شد."
+  },
+  "flashExtendedOff": {
+    "message": "مجموعه‌قواعد گسترده غیرفعال شد."
+  },
+  "flashCustomLocked": {
+    "message": "قواعد سفارشی یک ویژگی Pro هستند. یک آزمایش را شروع کنید یا ارتقا دهید."
+  },
+  "flashDynCap": {
+    "message": "به حد قواعد پویا رسیدید. برای افزودن یکی دیگر، یکی را حذف کنید."
+  },
+  "flashBadRegex": {
+    "message": "آن regex رد شد."
+  },
+  "flashCouldNotAddRule": {
+    "message": "افزودن قاعده ممکن نشد."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "حذف قاعده $$1 ممکن نشد."
+  },
+  "flashKeyTooShort": {
+    "message": "کلیدهای مجوز حداقل ۸ نویسه دارند."
+  },
+  "flashKeyOk": {
+    "message": "مجوز تأیید شد. ویژگی‌های Pro باز شد."
+  },
+  "flashKeyFmt": {
+    "message": "قالب کلید بسیار کوتاه است."
+  },
+  "flashKeyRate": {
+    "message": "تلاش‌های بیش از حد. یک دقیقه صبر کنید."
+  },
+  "flashKeyNetwork": {
+    "message": "خطای شبکه. دوباره تلاش کنید."
+  },
+  "flashKeyTimeout": {
+    "message": "زمان تأیید به پایان رسید."
+  },
+  "flashKeyServer": {
+    "message": "خطای سرور ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "کلید مجوز شناخته نشد."
+  },
+  "flashTrialStarted": {
+    "message": "آزمایش ۷ روزه شروع شد. ویژگی‌های Pro باز شد."
+  },
+  "flashTrialUsed": {
+    "message": "شما قبلاً از آزمایش ۷ روزه استفاده کرده‌اید."
+  },
+  "flashTrialFailed": {
+    "message": "شروع آزمایش ممکن نشد. لطفاً دوباره تلاش کنید."
+  },
+  "validateRequired": {
+    "message": "یک نام پارامتر وارد کنید."
+  },
+  "validateTooLong": {
+    "message": "آن را کمتر از $$1 نویسه نگه دارید."
+  },
+  "validateLookaround": {
+    "message": "‏Lookaround مجاز نیست."
+  },
+  "validateNested": {
+    "message": "کمیت‌سنج‌های تودرتو مجاز نیستند (خطر ReDoS)."
+  },
+  "validateComplex": {
+    "message": "‏regex برای ارزیابی ایمن بیش از حد پیچیده است."
+  },
+  "validateBadRegex": {
+    "message": "عبارت باقاعده نامعتبر."
+  },
+  "validateCharClass": {
+    "message": "از حروف، ارقام، نقطه، زیرخط یا خط تیره استفاده کنید."
+  }
+}

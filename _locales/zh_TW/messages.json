@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — 清除追蹤參數"
+  },
+  "extDesc": {
+    "message": "在你開啟連結時悄悄清除追蹤參數，並還原重新導向短連結。100% 本機運行。"
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL 失去了一項權限。"
+  },
+  "popupDegradedRegrant": {
+    "message": "重新授予"
+  },
+  "popupDegradedResume": {
+    "message": "以恢復清理。"
+  },
+  "popupHeroLabelLinks": {
+    "message": "已清理連結"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL 已暫停"
+  },
+  "popupHeroResume": {
+    "message": "撥動下方開關以恢復清理。"
+  },
+  "popupHeroTodaySuffix": {
+    "message": "今日已清理"
+  },
+  "popupMasterToggleLabel": {
+    "message": "自動清理連結"
+  },
+  "popupMasterToggleDisable": {
+    "message": "停用 CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "啟用 CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "管理白名單與設定"
+  },
+  "popupOpenSettings": {
+    "message": "開啟 CleanURL 設定"
+  },
+  "popupUpgradeCta": {
+    "message": "升級到 Pro — $$99 終身版"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "升級到 CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "設定"
+  },
+  "popupRootAria": {
+    "message": "CleanURL 彈出視窗"
+  },
+  "popupFreeTierAria": {
+    "message": "免費版"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL 無法啟動。請嘗試重新開啟彈出視窗。"
+  },
+  "popupMasterToggleError": {
+    "message": "無法切換主開關。"
+  },
+  "optionsStatusActive": {
+    "message": "已啟用"
+  },
+  "optionsStatusPaused": {
+    "message": "已暫停"
+  },
+  "optionsPauseGlobally": {
+    "message": "全域暫停"
+  },
+  "optionsEnableGlobally": {
+    "message": "全域啟用"
+  },
+  "optionsPauseAria": {
+    "message": "全域暫停 CleanURL"
+  },
+  "optionsEnableAria": {
+    "message": "全域啟用 CleanURL"
+  },
+  "optionsSidebarAria": {
+    "message": "設定分區"
+  },
+  "optionsNavAria": {
+    "message": "設定"
+  },
+  "optionsMasterToggleAria": {
+    "message": "主清理開關"
+  },
+  "optionsCuratedAria": {
+    "message": "精選規則集"
+  },
+  "optionsCustomAria": {
+    "message": "自訂規則"
+  },
+  "optionsDataAria": {
+    "message": "資料匯出"
+  },
+  "optionsBootstrapError": {
+    "message": "CleanURL 設定無法載入。請嘗試重新載入頁面。"
+  },
+  "tabAllowlist": {
+    "message": "白名單"
+  },
+  "tabRules": {
+    "message": "規則"
+  },
+  "tabLicense": {
+    "message": "授權"
+  },
+  "eyebrowSites": {
+    "message": "免於清理的網站"
+  },
+  "eyebrowRules": {
+    "message": "清理規則"
+  },
+  "eyebrowPlan": {
+    "message": "方案與授權"
+  },
+  "eyebrowCustom": {
+    "message": "自訂參數規則"
+  },
+  "eyebrowYourData": {
+    "message": "你的資料"
+  },
+  "eyebrowLinks": {
+    "message": "連結"
+  },
+  "eyebrowHaveKey": {
+    "message": "有授權金鑰？"
+  },
+  "allowlistTitle": {
+    "message": "白名單"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL 不會處理這些網站上的任何 URL。"
+  },
+  "allowlistCapUsageFree": {
+    "message": "免費版最多允許 $$2 個網站 — 已使用 $$1 / $$2。"
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro 版 — 網站數量不限。"
+  },
+  "allowlistInputLabel": {
+    "message": "主機名稱（例如 shop.example.com）"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "新增"
+  },
+  "allowlistActiveLabel": {
+    "message": "已啟用（$$1）"
+  },
+  "allowlistEmptyTitle": {
+    "message": "尚未豁免任何網站"
+  },
+  "allowlistEmptyBody": {
+    "message": "在上方新增主機名稱，以在該網站上略過清理。"
+  },
+  "allowlistRemoveBtn": {
+    "message": "移除"
+  },
+  "allowlistRemoveAria": {
+    "message": "從白名單中移除 $$1"
+  },
+  "allowlistInactiveLabel": {
+    "message": "未啟用（重新加入 Pro 以重新啟用）"
+  },
+  "allowlistColdBadge": {
+    "message": "冷"
+  },
+  "errHostnameRequired": {
+    "message": "請輸入主機名稱。"
+  },
+  "errHostnameInvalid": {
+    "message": "請輸入有效的主機名稱（例如 example.com）。"
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 已在白名單中。"
+  },
+  "errFreeCap": {
+    "message": "免費版上限為 $$1 個網站。升級到 Pro 即可不限數量。"
+  },
+  "flashFreeCap": {
+    "message": "免費版上限為 $$1 個網站。升級到 Pro 即可不限數量。"
+  },
+  "errCouldNotAdd": {
+    "message": "無法新增 $$1。"
+  },
+  "errCouldNotRemove": {
+    "message": "無法移除 $$1。"
+  },
+  "flashCouldNotAddHost": {
+    "message": "無法新增 $$1。"
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "無法移除 $$1。"
+  },
+  "rulesTitle": {
+    "message": "規則"
+  },
+  "rulesIntro": {
+    "message": "切換 CleanURL 使用的精選規則集。在 Pro 版中可新增你自己的參數名稱（或 regex）。"
+  },
+  "rulesCoreName": {
+    "message": "核心規則集"
+  },
+  "rulesCoreDesc": {
+    "message": "約 120 條保守的清除 + 還原規則。永遠啟用。"
+  },
+  "rulesCoreBadge": {
+    "message": "開"
+  },
+  "rulesExtendedName": {
+    "message": "擴充規則集"
+  },
+  "rulesExtendedDesc": {
+    "message": "約 300 條積極規則：聯盟標籤、行銷 ID。"
+  },
+  "rulesExtendedToggleAria": {
+    "message": "切換擴充規則集"
+  },
+  "rulesCustomDesc": {
+    "message": "清除某個字面參數名稱（例如 mkt_tok）或 regex 前綴（例如 ^ig_）。"
+  },
+  "rulesParamLabel": {
+    "message": "參數名稱或 regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "將輸入視為 regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "新增規則"
+  },
+  "rulesEmptyList": {
+    "message": "尚無自訂規則。"
+  },
+  "rulesDeleteBtn": {
+    "message": "刪除"
+  },
+  "rulesDeleteAria": {
+    "message": "刪除規則 $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "字面"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "將你的設定、白名單和已清理連結記錄匯出為 JSON。所有資料僅儲存在本裝置上。"
+  },
+  "exportBtn": {
+    "message": "匯出資料（JSON）"
+  },
+  "linkPrivacy": {
+    "message": "隱私權政策"
+  },
+  "linkSupport": {
+    "message": "支援"
+  },
+  "licenseTitle": {
+    "message": "授權"
+  },
+  "licenseIntro": {
+    "message": "CleanURL 永久免費。Pro 版增加擴充規則集、自訂規則和不限數量的白名單。"
+  },
+  "licenseCurrentAria": {
+    "message": "目前方案"
+  },
+  "licensePlanPro": {
+    "message": "Pro — 終身"
+  },
+  "licensePlanTrial": {
+    "message": "試用 — 7 天"
+  },
+  "licensePlanFree": {
+    "message": "免費"
+  },
+  "licenseMsgPro": {
+    "message": "感謝你。所有 Pro 功能已解鎖。"
+  },
+  "licenseMsgTrial": {
+    "message": "你正在無需信用卡的試用中。可隨時升級。"
+  },
+  "licenseMsgFree": {
+    "message": "升級以解鎖擴充規則集、自訂規則和不限數量的白名單。"
+  },
+  "licenseKeyLabel": {
+    "message": "授權金鑰"
+  },
+  "licenseKeyAria": {
+    "message": "輸入授權金鑰"
+  },
+  "licenseVerify": {
+    "message": "驗證"
+  },
+  "licenseVerifying": {
+    "message": "正在驗證…"
+  },
+  "licenseTrialTitle": {
+    "message": "開始 7 天免費試用"
+  },
+  "licenseTrialBody": {
+    "message": "無需信用卡，無需帳戶。可解鎖擴充規則集、自訂規則和不限數量的白名單，為期 7 天。"
+  },
+  "licenseTrialStart": {
+    "message": "開始免費試用"
+  },
+  "licenseTrialStarting": {
+    "message": "正在開始…"
+  },
+  "flashExtendedLocked": {
+    "message": "擴充規則集是 Pro 功能。請先開始試用或升級。"
+  },
+  "flashExtendedOn": {
+    "message": "擴充規則集已啟用。"
+  },
+  "flashExtendedOff": {
+    "message": "擴充規則集已停用。"
+  },
+  "flashCustomLocked": {
+    "message": "自訂規則是 Pro 功能。請開始試用或升級。"
+  },
+  "flashDynCap": {
+    "message": "已達動態規則上限。刪除一條以新增另一條。"
+  },
+  "flashBadRegex": {
+    "message": "該 regex 被拒絕。"
+  },
+  "flashCouldNotAddRule": {
+    "message": "無法新增規則。"
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "無法刪除規則 $$1。"
+  },
+  "flashKeyTooShort": {
+    "message": "授權金鑰至少為 8 個字元。"
+  },
+  "flashKeyOk": {
+    "message": "授權已驗證。Pro 功能已解鎖。"
+  },
+  "flashKeyFmt": {
+    "message": "金鑰格式過短。"
+  },
+  "flashKeyRate": {
+    "message": "嘗試次數過多。請稍候一分鐘。"
+  },
+  "flashKeyNetwork": {
+    "message": "網路錯誤。請重試。"
+  },
+  "flashKeyTimeout": {
+    "message": "驗證逾時。"
+  },
+  "flashKeyServer": {
+    "message": "伺服器錯誤（$$1）。"
+  },
+  "flashKeyUnknown": {
+    "message": "無法識別該授權金鑰。"
+  },
+  "flashTrialStarted": {
+    "message": "7 天試用已開始。Pro 功能已解鎖。"
+  },
+  "flashTrialUsed": {
+    "message": "你已使用過 7 天試用。"
+  },
+  "flashTrialFailed": {
+    "message": "無法開始試用。請重試。"
+  },
+  "validateRequired": {
+    "message": "請輸入參數名稱。"
+  },
+  "validateTooLong": {
+    "message": "請保持在 $$1 個字元以內。"
+  },
+  "validateLookaround": {
+    "message": "不允許使用環視（lookaround）。"
+  },
+  "validateNested": {
+    "message": "不允許巢狀量詞（有 ReDoS 風險）。"
+  },
+  "validateComplex": {
+    "message": "Regex 過於複雜，無法安全評估。"
+  },
+  "validateBadRegex": {
+    "message": "無效的正規表示式。"
+  },
+  "validateCharClass": {
+    "message": "請使用字母、數字、點、底線或連字號。"
+  }
+}

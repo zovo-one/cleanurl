@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — Hapus Pelacak"
+  },
+  "extDesc": {
+    "message": "Menghapus secara diam-diam pelacak dari tautan yang Anda buka, serta membuka tautan pengalihan yang dipersingkat. 100% lokal."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL kehilangan sebuah izin."
+  },
+  "popupDegradedRegrant": {
+    "message": "Berikan lagi"
+  },
+  "popupDegradedResume": {
+    "message": "untuk melanjutkan pembersihan."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Tautan dibersihkan"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL dijeda"
+  },
+  "popupHeroResume": {
+    "message": "Alihkan sakelar di bawah untuk melanjutkan pembersihan."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "dibersihkan hari ini"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Bersihkan tautan otomatis"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Nonaktifkan CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Aktifkan CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Kelola daftar izin & pengaturan"
+  },
+  "popupOpenSettings": {
+    "message": "Buka pengaturan CleanURL"
+  },
+  "popupUpgradeCta": {
+    "message": "Tingkatkan ke Pro — $$99 seumur hidup"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Tingkatkan ke CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Pengaturan"
+  },
+  "popupRootAria": {
+    "message": "Popup CleanURL"
+  },
+  "popupFreeTierAria": {
+    "message": "Tingkat gratis"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL tidak dapat dimulai. Coba buka kembali popup."
+  },
+  "popupMasterToggleError": {
+    "message": "Tidak dapat mengubah sakelar utama."
+  },
+  "optionsStatusActive": {
+    "message": "Aktif"
+  },
+  "optionsStatusPaused": {
+    "message": "Dijeda"
+  },
+  "optionsPauseGlobally": {
+    "message": "Jeda secara global"
+  },
+  "optionsEnableGlobally": {
+    "message": "Aktifkan secara global"
+  },
+  "optionsPauseAria": {
+    "message": "Jeda CleanURL secara global"
+  },
+  "optionsEnableAria": {
+    "message": "Aktifkan CleanURL secara global"
+  },
+  "optionsSidebarAria": {
+    "message": "Bagian pengaturan"
+  },
+  "optionsNavAria": {
+    "message": "Pengaturan"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Sakelar pembersihan utama"
+  },
+  "optionsCuratedAria": {
+    "message": "Set aturan pilihan"
+  },
+  "optionsCustomAria": {
+    "message": "Aturan khusus"
+  },
+  "optionsDataAria": {
+    "message": "Ekspor data"
+  },
+  "optionsBootstrapError": {
+    "message": "Pengaturan CleanURL tidak dapat dimuat. Coba muat ulang halaman."
+  },
+  "tabAllowlist": {
+    "message": "Daftar izin"
+  },
+  "tabRules": {
+    "message": "Aturan"
+  },
+  "tabLicense": {
+    "message": "Lisensi"
+  },
+  "eyebrowSites": {
+    "message": "Situs yang dikecualikan dari pembersihan"
+  },
+  "eyebrowRules": {
+    "message": "Aturan pembersihan"
+  },
+  "eyebrowPlan": {
+    "message": "Paket & lisensi"
+  },
+  "eyebrowCustom": {
+    "message": "Aturan parameter khusus"
+  },
+  "eyebrowYourData": {
+    "message": "Data Anda"
+  },
+  "eyebrowLinks": {
+    "message": "Tautan"
+  },
+  "eyebrowHaveKey": {
+    "message": "Punya kunci lisensi?"
+  },
+  "allowlistTitle": {
+    "message": "Daftar izin"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL tidak akan menyentuh URL apa pun di situs ini."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Tingkat gratis mengizinkan hingga $$2 situs — $$1 dari $$2 terpakai."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Tingkat Pro — situs tanpa batas."
+  },
+  "allowlistInputLabel": {
+    "message": "Nama host (mis. shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Tambah"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktif ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Belum ada situs yang dikecualikan"
+  },
+  "allowlistEmptyBody": {
+    "message": "Tambahkan nama host di atas untuk melewati pembersihan di situs tersebut."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Hapus"
+  },
+  "allowlistRemoveAria": {
+    "message": "Hapus $$1 dari daftar izin"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Tidak aktif (Bergabung kembali ke Pro untuk mengaktifkan)"
+  },
+  "allowlistColdBadge": {
+    "message": "Dingin"
+  },
+  "errHostnameRequired": {
+    "message": "Masukkan nama host."
+  },
+  "errHostnameInvalid": {
+    "message": "Masukkan nama host yang valid (mis. example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 sudah ada di daftar izin."
+  },
+  "errFreeCap": {
+    "message": "Tingkat gratis dibatasi $$1 situs. Tingkatkan ke Pro untuk tanpa batas."
+  },
+  "flashFreeCap": {
+    "message": "Tingkat gratis dibatasi $$1 situs. Tingkatkan ke Pro untuk tanpa batas."
+  },
+  "errCouldNotAdd": {
+    "message": "Tidak dapat menambahkan $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Tidak dapat menghapus $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Tidak dapat menambahkan $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Tidak dapat menghapus $$1."
+  },
+  "rulesTitle": {
+    "message": "Aturan"
+  },
+  "rulesIntro": {
+    "message": "Alihkan set aturan pilihan yang digunakan CleanURL. Tambahkan nama parameter Anda sendiri (atau regex) di Pro."
+  },
+  "rulesCoreName": {
+    "message": "Set aturan inti"
+  },
+  "rulesCoreDesc": {
+    "message": "Sekitar 120 aturan hapus + buka yang konservatif. Selalu aktif."
+  },
+  "rulesCoreBadge": {
+    "message": "AKTIF"
+  },
+  "rulesExtendedName": {
+    "message": "Set aturan diperluas"
+  },
+  "rulesExtendedDesc": {
+    "message": "Sekitar 300 aturan agresif: tag afiliasi, ID pemasaran."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Alihkan set aturan diperluas"
+  },
+  "rulesCustomDesc": {
+    "message": "Hapus nama parameter literal (mis. mkt_tok) atau awalan regex (mis. ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Nama parameter atau regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Perlakukan input sebagai regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Tambah aturan"
+  },
+  "rulesEmptyList": {
+    "message": "Belum ada aturan khusus."
+  },
+  "rulesDeleteBtn": {
+    "message": "Hapus"
+  },
+  "rulesDeleteAria": {
+    "message": "Hapus aturan $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "literal"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Ekspor pengaturan, daftar izin, dan riwayat tautan yang dibersihkan sebagai JSON. Semua data hanya ada di perangkat ini."
+  },
+  "exportBtn": {
+    "message": "Ekspor data (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Kebijakan privasi"
+  },
+  "linkSupport": {
+    "message": "Dukungan"
+  },
+  "licenseTitle": {
+    "message": "Lisensi"
+  },
+  "licenseIntro": {
+    "message": "CleanURL gratis selamanya. Pro menambahkan set aturan diperluas, aturan khusus, dan daftar izin tanpa batas."
+  },
+  "licenseCurrentAria": {
+    "message": "Paket saat ini"
+  },
+  "licensePlanPro": {
+    "message": "Pro — seumur hidup"
+  },
+  "licensePlanTrial": {
+    "message": "Uji coba — 7 hari"
+  },
+  "licensePlanFree": {
+    "message": "Gratis"
+  },
+  "licenseMsgPro": {
+    "message": "Terima kasih. Semua fitur Pro telah dibuka."
+  },
+  "licenseMsgTrial": {
+    "message": "Anda sedang uji coba tanpa kartu. Tingkatkan kapan saja."
+  },
+  "licenseMsgFree": {
+    "message": "Tingkatkan untuk membuka set aturan diperluas, aturan khusus, dan daftar izin tanpa batas."
+  },
+  "licenseKeyLabel": {
+    "message": "Kunci lisensi"
+  },
+  "licenseKeyAria": {
+    "message": "Masukkan kunci lisensi"
+  },
+  "licenseVerify": {
+    "message": "Verifikasi"
+  },
+  "licenseVerifying": {
+    "message": "Memverifikasi…"
+  },
+  "licenseTrialTitle": {
+    "message": "Mulai uji coba gratis 7 hari"
+  },
+  "licenseTrialBody": {
+    "message": "Tanpa kartu, tanpa akun. Membuka set aturan diperluas, aturan khusus, dan daftar izin tanpa batas selama 7 hari."
+  },
+  "licenseTrialStart": {
+    "message": "Mulai uji coba gratis"
+  },
+  "licenseTrialStarting": {
+    "message": "Memulai…"
+  },
+  "flashExtendedLocked": {
+    "message": "Set aturan diperluas adalah fitur Pro. Mulai uji coba atau tingkatkan dulu."
+  },
+  "flashExtendedOn": {
+    "message": "Set aturan diperluas diaktifkan."
+  },
+  "flashExtendedOff": {
+    "message": "Set aturan diperluas dinonaktifkan."
+  },
+  "flashCustomLocked": {
+    "message": "Aturan khusus adalah fitur Pro. Mulai uji coba atau tingkatkan."
+  },
+  "flashDynCap": {
+    "message": "Batas aturan dinamis tercapai. Hapus satu untuk menambah yang lain."
+  },
+  "flashBadRegex": {
+    "message": "Regex itu ditolak."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Tidak dapat menambahkan aturan."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Tidak dapat menghapus aturan $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Kunci lisensi minimal 8 karakter."
+  },
+  "flashKeyOk": {
+    "message": "Lisensi terverifikasi. Fitur Pro dibuka."
+  },
+  "flashKeyFmt": {
+    "message": "Format kunci terlalu pendek."
+  },
+  "flashKeyRate": {
+    "message": "Terlalu banyak percobaan. Tunggu satu menit."
+  },
+  "flashKeyNetwork": {
+    "message": "Kesalahan jaringan. Coba lagi."
+  },
+  "flashKeyTimeout": {
+    "message": "Verifikasi kehabisan waktu."
+  },
+  "flashKeyServer": {
+    "message": "Kesalahan server ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Kunci lisensi tidak dikenali."
+  },
+  "flashTrialStarted": {
+    "message": "Uji coba 7 hari dimulai. Fitur Pro dibuka."
+  },
+  "flashTrialUsed": {
+    "message": "Anda sudah menggunakan uji coba 7 hari."
+  },
+  "flashTrialFailed": {
+    "message": "Tidak dapat memulai uji coba. Silakan coba lagi."
+  },
+  "validateRequired": {
+    "message": "Masukkan nama parameter."
+  },
+  "validateTooLong": {
+    "message": "Jaga di bawah $$1 karakter."
+  },
+  "validateLookaround": {
+    "message": "Lookaround tidak diizinkan."
+  },
+  "validateNested": {
+    "message": "Kuantifier bersarang tidak diizinkan (risiko ReDoS)."
+  },
+  "validateComplex": {
+    "message": "Regex terlalu rumit untuk dievaluasi dengan aman."
+  },
+  "validateBadRegex": {
+    "message": "Ekspresi reguler tidak valid."
+  },
+  "validateCharClass": {
+    "message": "Gunakan huruf, angka, titik, garis bawah, atau tanda hubung."
+  }
+}

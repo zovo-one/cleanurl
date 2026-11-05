@@ -1,0 +1,413 @@
+{
+  "extName": {
+    "message": "CleanURL — pašalinkite sekiklius"
+  },
+  "extDesc": {
+    "message": "Tyliai pašalina sekiklius iš jūsų atveriamų nuorodų bei išvynioja peradresavimo nuorodas. 100 % vietiniame įrenginyje."
+  },
+  "appTitle": {
+    "message": "CleanURL"
+  },
+  "tierFree": {
+    "message": "FREE"
+  },
+  "tierTrial": {
+    "message": "TRIAL"
+  },
+  "tierPro": {
+    "message": "PRO"
+  },
+  "tierProUpper": {
+    "message": "PRO"
+  },
+  "popupDegradedBanner": {
+    "message": "CleanURL prarado leidimą."
+  },
+  "popupDegradedRegrant": {
+    "message": "Suteikite jį iš naujo"
+  },
+  "popupDegradedResume": {
+    "message": "kad būtų atnaujintas valymas."
+  },
+  "popupHeroLabelLinks": {
+    "message": "Išvalytos nuorodos"
+  },
+  "popupHeroLabelPaused": {
+    "message": "CleanURL pristabdyta"
+  },
+  "popupHeroResume": {
+    "message": "Perjunkite žemiau esantį jungiklį, kad atnaujintumėte valymą."
+  },
+  "popupHeroTodaySuffix": {
+    "message": "išvalyta šiandien"
+  },
+  "popupMasterToggleLabel": {
+    "message": "Automatiškai valyti nuorodas"
+  },
+  "popupMasterToggleDisable": {
+    "message": "Išjungti CleanURL"
+  },
+  "popupMasterToggleEnable": {
+    "message": "Įjungti CleanURL"
+  },
+  "popupManageSettings": {
+    "message": "Tvarkyti leidžiamųjų sąrašą ir nustatymus"
+  },
+  "popupOpenSettings": {
+    "message": "Atverti CleanURL nustatymus"
+  },
+  "popupUpgradeCta": {
+    "message": "Atnaujinkite į Pro — $$99 visam laikui"
+  },
+  "popupUpgradeCtaLabel": {
+    "message": "Atnaujinti į CleanURL Pro"
+  },
+  "popupSettingsLink": {
+    "message": "Nustatymai"
+  },
+  "popupRootAria": {
+    "message": "CleanURL iškylantysis langas"
+  },
+  "popupFreeTierAria": {
+    "message": "Nemokamas lygis"
+  },
+  "popupBootstrapError": {
+    "message": "CleanURL nepavyko paleisti. Pabandykite iš naujo atverti iškylantįjį langą."
+  },
+  "popupMasterToggleError": {
+    "message": "Nepavyko pakeisti pagrindinio jungiklio."
+  },
+  "optionsStatusActive": {
+    "message": "Aktyvus"
+  },
+  "optionsStatusPaused": {
+    "message": "Pristabdyta"
+  },
+  "optionsPauseGlobally": {
+    "message": "Pristabdyti visuotinai"
+  },
+  "optionsEnableGlobally": {
+    "message": "Įjungti visuotinai"
+  },
+  "optionsPauseAria": {
+    "message": "Pristabdyti CleanURL visuotinai"
+  },
+  "optionsEnableAria": {
+    "message": "Įjungti CleanURL visuotinai"
+  },
+  "optionsSidebarAria": {
+    "message": "Nustatymų skiltys"
+  },
+  "optionsNavAria": {
+    "message": "Nustatymai"
+  },
+  "optionsMasterToggleAria": {
+    "message": "Pagrindinis valymo jungiklis"
+  },
+  "optionsCuratedAria": {
+    "message": "Atrinkti taisyklių rinkiniai"
+  },
+  "optionsCustomAria": {
+    "message": "Pasirinktinės taisyklės"
+  },
+  "optionsDataAria": {
+    "message": "Duomenų eksportas"
+  },
+  "optionsBootstrapError": {
+    "message": "Nepavyko įkelti CleanURL nustatymų. Pabandykite iš naujo įkelti puslapį."
+  },
+  "tabAllowlist": {
+    "message": "Leidžiamųjų sąrašas"
+  },
+  "tabRules": {
+    "message": "Taisyklės"
+  },
+  "tabLicense": {
+    "message": "Licencija"
+  },
+  "eyebrowSites": {
+    "message": "Svetainės, kurioms valymas netaikomas"
+  },
+  "eyebrowRules": {
+    "message": "Valymo taisyklės"
+  },
+  "eyebrowPlan": {
+    "message": "Planas ir licencija"
+  },
+  "eyebrowCustom": {
+    "message": "Pasirinktinės parametrų taisyklės"
+  },
+  "eyebrowYourData": {
+    "message": "Jūsų duomenys"
+  },
+  "eyebrowLinks": {
+    "message": "Nuorodos"
+  },
+  "eyebrowHaveKey": {
+    "message": "Turite licencijos raktą?"
+  },
+  "allowlistTitle": {
+    "message": "Leidžiamųjų sąrašas"
+  },
+  "allowlistIntro": {
+    "message": "CleanURL nelies jokio URL šiose svetainėse."
+  },
+  "allowlistCapUsageFree": {
+    "message": "Nemokamas lygis leidžia iki $$2 svetainių — panaudota $$1 iš $$2."
+  },
+  "allowlistCapUsagePro": {
+    "message": "Pro lygis — neribotas svetainių skaičius."
+  },
+  "allowlistInputLabel": {
+    "message": "Prieglobos vardas (pvz., shop.example.com)"
+  },
+  "allowlistInputPlaceholder": {
+    "message": "example.com"
+  },
+  "allowlistAddBtn": {
+    "message": "Pridėti"
+  },
+  "allowlistActiveLabel": {
+    "message": "Aktyvios ($$1)"
+  },
+  "allowlistEmptyTitle": {
+    "message": "Kol kas nėra atleistų svetainių"
+  },
+  "allowlistEmptyBody": {
+    "message": "Pridėkite prieglobos vardą aukščiau, kad praleistumėte valymą toje svetainėje."
+  },
+  "allowlistRemoveBtn": {
+    "message": "Pašalinti"
+  },
+  "allowlistRemoveAria": {
+    "message": "Pašalinti $$1 iš leidžiamųjų sąrašo"
+  },
+  "allowlistInactiveLabel": {
+    "message": "Neaktyvus (Vėl prisijunkite prie Pro, kad iš naujo aktyvintumėte)"
+  },
+  "allowlistColdBadge": {
+    "message": "Šaltas"
+  },
+  "errHostnameRequired": {
+    "message": "Įveskite prieglobos vardą."
+  },
+  "errHostnameInvalid": {
+    "message": "Įveskite galiojantį prieglobos vardą (pvz., example.com)."
+  },
+  "errAlreadyAllowlisted": {
+    "message": "$$1 jau yra leidžiamųjų sąraše."
+  },
+  "errFreeCap": {
+    "message": "Nemokamas lygis ribojamas iki $$1 svetainių. Atnaujinkite į Pro neribotam skaičiui."
+  },
+  "flashFreeCap": {
+    "message": "Nemokamas lygis ribojamas iki $$1 svetainių. Atnaujinkite į Pro neribotam skaičiui."
+  },
+  "errCouldNotAdd": {
+    "message": "Nepavyko pridėti $$1."
+  },
+  "errCouldNotRemove": {
+    "message": "Nepavyko pašalinti $$1."
+  },
+  "flashCouldNotAddHost": {
+    "message": "Nepavyko pridėti $$1."
+  },
+  "flashCouldNotRemoveHost": {
+    "message": "Nepavyko pašalinti $$1."
+  },
+  "rulesTitle": {
+    "message": "Taisyklės"
+  },
+  "rulesIntro": {
+    "message": "Perjunkite atrinktus taisyklių rinkinius, kuriuos naudoja CleanURL. Pridėkite savo parametrų pavadinimus (arba regex) naudodami Pro."
+  },
+  "rulesCoreName": {
+    "message": "Pagrindinis taisyklių rinkinys"
+  },
+  "rulesCoreDesc": {
+    "message": "~120 konservatyvių pašalinimo + išvyniojimo taisyklių. Visada įjungtos."
+  },
+  "rulesCoreBadge": {
+    "message": "ON"
+  },
+  "rulesExtendedName": {
+    "message": "Išplėstinis taisyklių rinkinys"
+  },
+  "rulesExtendedDesc": {
+    "message": "~300 agresyvių taisyklių: partnerių žymos, rinkodaros ID."
+  },
+  "rulesExtendedToggleAria": {
+    "message": "Perjungti išplėstinį taisyklių rinkinį"
+  },
+  "rulesCustomDesc": {
+    "message": "Pašalinkite tikslų parametro pavadinimą (pvz., mkt_tok) arba regex prefiksą (pvz., ^ig_)."
+  },
+  "rulesParamLabel": {
+    "message": "Parametro pavadinimas arba regex"
+  },
+  "rulesParamRegexAria": {
+    "message": "Traktuoti įvestį kaip regex"
+  },
+  "rulesRegexLabel": {
+    "message": "Regex"
+  },
+  "rulesAddBtn": {
+    "message": "Pridėti taisyklę"
+  },
+  "rulesEmptyList": {
+    "message": "Kol kas nėra pasirinktinių taisyklių."
+  },
+  "rulesDeleteBtn": {
+    "message": "Ištrinti"
+  },
+  "rulesDeleteAria": {
+    "message": "Ištrinti taisyklę $$1"
+  },
+  "rulesLiteralKind": {
+    "message": "tikslus"
+  },
+  "rulesRegexKind": {
+    "message": "regex"
+  },
+  "exportDesc": {
+    "message": "Eksportuokite savo nustatymus, leidžiamųjų sąrašą ir išvalytų nuorodų istoriją kaip JSON. Visi duomenys yra tik šiame įrenginyje."
+  },
+  "exportBtn": {
+    "message": "Eksportuoti duomenis (JSON)"
+  },
+  "linkPrivacy": {
+    "message": "Privatumo politika"
+  },
+  "linkSupport": {
+    "message": "Pagalba"
+  },
+  "licenseTitle": {
+    "message": "Licencija"
+  },
+  "licenseIntro": {
+    "message": "CleanURL yra nemokama amžinai. Pro prideda išplėstinį taisyklių rinkinį, pasirinktines taisykles ir neribotą leidžiamųjų sąrašą."
+  },
+  "licenseCurrentAria": {
+    "message": "Dabartinis planas"
+  },
+  "licensePlanPro": {
+    "message": "Pro — visam laikui"
+  },
+  "licensePlanTrial": {
+    "message": "Bandomoji versija — 7 dienos"
+  },
+  "licensePlanFree": {
+    "message": "Nemokama"
+  },
+  "licenseMsgPro": {
+    "message": "Ačiū. Visos Pro funkcijos atrakintos."
+  },
+  "licenseMsgTrial": {
+    "message": "Naudojate bandomąją versiją be kortelės. Atnaujinkite bet kada."
+  },
+  "licenseMsgFree": {
+    "message": "Atnaujinkite, kad atrakintumėte išplėstinį taisyklių rinkinį, pasirinktines taisykles ir neribotą leidžiamųjų sąrašą."
+  },
+  "licenseKeyLabel": {
+    "message": "Licencijos raktas"
+  },
+  "licenseKeyAria": {
+    "message": "Įveskite licencijos raktą"
+  },
+  "licenseVerify": {
+    "message": "Patvirtinti"
+  },
+  "licenseVerifying": {
+    "message": "Tikrinama…"
+  },
+  "licenseTrialTitle": {
+    "message": "Pradėti 7 dienų nemokamą bandomąją versiją"
+  },
+  "licenseTrialBody": {
+    "message": "Be kortelės, be paskyros. Atrakina išplėstinį taisyklių rinkinį, pasirinktines taisykles ir neribotą leidžiamųjų sąrašą 7 dienoms."
+  },
+  "licenseTrialStart": {
+    "message": "Pradėti nemokamą bandomąją versiją"
+  },
+  "licenseTrialStarting": {
+    "message": "Pradedama…"
+  },
+  "flashExtendedLocked": {
+    "message": "Išplėstinis taisyklių rinkinys yra Pro funkcija. Pirmiausia pradėkite bandomąją versiją arba atnaujinkite."
+  },
+  "flashExtendedOn": {
+    "message": "Išplėstinis taisyklių rinkinys įjungtas."
+  },
+  "flashExtendedOff": {
+    "message": "Išplėstinis taisyklių rinkinys išjungtas."
+  },
+  "flashCustomLocked": {
+    "message": "Pasirinktinės taisyklės yra Pro funkcija. Pradėkite bandomąją versiją arba atnaujinkite."
+  },
+  "flashDynCap": {
+    "message": "Pasiektas dinaminių taisyklių limitas. Ištrinkite vieną, kad pridėtumėte kitą."
+  },
+  "flashBadRegex": {
+    "message": "Šis regex buvo atmestas."
+  },
+  "flashCouldNotAddRule": {
+    "message": "Nepavyko pridėti taisyklės."
+  },
+  "flashCouldNotDeleteRule": {
+    "message": "Nepavyko ištrinti taisyklės $$1."
+  },
+  "flashKeyTooShort": {
+    "message": "Licencijos raktus sudaro bent 8 simboliai."
+  },
+  "flashKeyOk": {
+    "message": "Licencija patvirtinta. Pro funkcijos atrakintos."
+  },
+  "flashKeyFmt": {
+    "message": "Rakto formatas per trumpas."
+  },
+  "flashKeyRate": {
+    "message": "Per daug bandymų. Palaukite minutę."
+  },
+  "flashKeyNetwork": {
+    "message": "Tinklo klaida. Bandykite dar kartą."
+  },
+  "flashKeyTimeout": {
+    "message": "Baigėsi patvirtinimo laikas."
+  },
+  "flashKeyServer": {
+    "message": "Serverio klaida ($$1)."
+  },
+  "flashKeyUnknown": {
+    "message": "Licencijos raktas neatpažintas."
+  },
+  "flashTrialStarted": {
+    "message": "7 dienų bandomoji versija pradėta. Pro funkcijos atrakintos."
+  },
+  "flashTrialUsed": {
+    "message": "Jūs jau panaudojote 7 dienų bandomąją versiją."
+  },
+  "flashTrialFailed": {
+    "message": "Nepavyko pradėti bandomosios versijos. Bandykite dar kartą."
+  },
+  "validateRequired": {
+    "message": "Įveskite parametro pavadinimą."
+  },
+  "validateTooLong": {
+    "message": "Neviršykite $$1 simbolių."
+  },
+  "validateLookaround": {
+    "message": "Lookaround neleidžiamas."
+  },
+  "validateNested": {
+    "message": "Įdėtiniai kvantifikatoriai neleidžiami (ReDoS rizika)."
+  },
+  "validateComplex": {
+    "message": "Regex per sudėtingas, kad būtų saugiai įvertintas."
+  },
+  "validateBadRegex": {
+    "message": "Netinkama reguliarioji išraiška."
+  },
+  "validateCharClass": {
+    "message": "Naudokite raides, skaitmenis, tašką, apatinį brūkšnį arba brūkšnelį."
+  }
+}

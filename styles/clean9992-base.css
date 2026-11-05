@@ -1,0 +1,373 @@
+/* ============================================================================
+ * clean9992-base.css —  brand design system
+ * ----------------------------------------------------------------------------
+ * The shared stylesheet for this extension. It defines
+ * the full brand as CSS custom properties (colors, type scale, radii, shadows,
+ * transitions) plus the base component classes used across popup, options,
+ * onboarding, and the paywall modal.
+ *
+ * Source of truth: BUILD-RULES.md § ZOVO BRAND SYSTEM.
+ * Import first, before any per-extension stylesheet, so tokens cascade down:
+ *     <link rel="stylesheet" href="clean9992-base.css">
+ *     <link rel="stylesheet" href="popup.css">
+ * ========================================================================== */
+
+/* ---- Design tokens (light) ------------------------------------------------ */
+:root {
+  /* Brand */
+  --clean9992-primary:        #6C5CE7;   /*  purple — buttons, links, active   */
+  --clean9992-primary-dark:   #5A4BD1;   /* hover                                  */
+  --clean9992-primary-light:  #8B7CF0;   /* subtle accents / backgrounds           */
+  --clean9992-primary-50:     #F1EFFD;   /* tint fill (accent-bg)                  */
+  --clean9992-accent:         #00D2D3;   /* teal — secondary actions, highlights   */
+
+  /* Surfaces & text */
+  --clean9992-bg:             #FFFFFF;
+  --clean9992-surface:        #F8F9FA;   /* cards, input backgrounds               */
+  --clean9992-surface-2:      #F1F2F4;   /* nested / hover surface                 */
+  --clean9992-text:           #1A1A2E;   /* text primary                           */
+  --clean9992-text-secondary: #6B7280;
+  --clean9992-border:         #E5E7EB;
+
+  /* Status */
+  --clean9992-success:        #10B981;
+  --clean9992-warning:        #F59E0B;
+  --clean9992-error:          #EF4444;
+  --clean9992-pro:            #F59E0B;   /* gold — PRO badges + upgrade CTAs        */
+  --clean9992-pro-dark:       #D97706;
+  --clean9992-on-pro:         #FFFFFF;
+
+  /* Typography */
+  --clean9992-font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --clean9992-font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace;
+  --clean9992-fs-caption:    12px;
+  --clean9992-fs-body:       14px;
+  --clean9992-fs-subheading: 16px;
+  --clean9992-fs-heading:    20px;
+  --clean9992-fs-title:      24px;
+  --clean9992-fs-hero:       44px;   /* the one big number per screen */
+  --clean9992-fw-body:       400;
+  --clean9992-fw-medium:     500;
+  --clean9992-fw-heading:    600;
+  --clean9992-lh:            1.5;
+
+  /* Radii — slightly rounder than 8/6/4 reads friendlier/premium */
+  --clean9992-radius-card:   12px;
+  --clean9992-radius-btn:    8px;
+  --clean9992-radius-input:  8px;
+  --clean9992-radius-pill:   9999px;
+
+  /* Shadows — soft, low, single-direction (premium ≠ hard drop shadow) */
+  --clean9992-shadow-sm: 0 1px 2px rgba(16,24,40,0.05);
+  --clean9992-shadow: 0 1px 3px rgba(16,24,40,0.06), 0 6px 16px -6px rgba(16,24,40,0.10);
+  --clean9992-shadow-lg: 0 24px 48px -12px rgba(16,24,40,0.28);
+
+  /* Motion */
+  --clean9992-transition: 150ms ease-in-out;
+
+  /* Layout */
+  --clean9992-popup-w:      360px;
+  --clean9992-popup-w-wide: 400px;
+  --clean9992-popup-maxh:   560px;
+  --clean9992-space-1: 4px;  --clean9992-space-2: 8px;  --clean9992-space-3: 12px;
+  --clean9992-space-4: 16px; --clean9992-space-5: 20px; --clean9992-space-6: 24px;
+  --clean9992-space-7: 32px; --clean9992-space-8: 40px;
+}
+
+/* ---- Dark mode ------------------------------------------------------------ */
+/* Follows the system preference by default; a manual [data-theme] on <html>
+ * (set from General → Theme) always wins in both directions. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --clean9992-primary-50:     #241f45;
+    --clean9992-bg:             #0F0F1A;
+    --clean9992-surface:        #1A1A2E;
+    --clean9992-surface-2:      #232338;
+    --clean9992-text:           #F5F5FA;
+    --clean9992-text-secondary: #A1A1AA;
+    --clean9992-border:         #2E2E45;
+    --clean9992-shadow: 0 4px 6px -1px rgba(0,0,0,0.4), 0 2px 4px -1px rgba(0,0,0,0.3);
+    --clean9992-shadow-lg: 0 20px 40px -8px rgba(0,0,0,0.6), 0 8px 16px -8px rgba(0,0,0,0.4);
+  }
+}
+:root[data-theme='dark'] {
+  --clean9992-primary-50:     #241f45;
+  --clean9992-bg:             #0F0F1A;
+  --clean9992-surface:        #1A1A2E;
+  --clean9992-surface-2:      #232338;
+  --clean9992-text:           #F5F5FA;
+  --clean9992-text-secondary: #A1A1AA;
+  --clean9992-border:         #2E2E45;
+  --clean9992-shadow: 0 4px 6px -1px rgba(0,0,0,0.4), 0 2px 4px -1px rgba(0,0,0,0.3);
+  --clean9992-shadow-lg: 0 20px 40px -8px rgba(0,0,0,0.6), 0 8px 16px -8px rgba(0,0,0,0.4);
+}
+
+/* ---- Base ----------------------------------------------------------------- */
+.clean9992-root,
+body.clean9992 {
+  margin: 0;
+  font-family: var(--clean9992-font);
+  font-size: var(--clean9992-fs-body);
+  line-height: var(--clean9992-lh);
+  color: var(--clean9992-text);
+  background: var(--clean9992-bg);
+  -webkit-font-smoothing: antialiased;
+}
+.clean9992-root *, .clean9992-root *::before, .clean9992-root *::after { box-sizing: border-box; }
+
+/* Popup sizing helper */
+.clean9992-popup {
+  width: var(--clean9992-popup-w);
+  max-height: var(--clean9992-popup-maxh);
+  overflow-y: auto;
+}
+.clean9992-popup--wide { width: var(--clean9992-popup-w-wide); }
+
+/* ---- Header --------------------------------------------------------------- */
+.clean9992-header {
+  display: flex;
+  align-items: center;
+  gap: var(--clean9992-space-3);
+  padding: var(--clean9992-space-4) var(--clean9992-space-5);
+  border-bottom: 1px solid var(--clean9992-border);
+}
+.clean9992-header__icon { width: 28px; height: 28px; border-radius: var(--clean9992-radius-input); }
+.clean9992-header__title {
+  flex: 1; min-width: 0;
+  font-size: var(--clean9992-fs-subheading);
+  font-weight: var(--clean9992-fw-heading);
+  letter-spacing: -0.01em;
+}
+
+/* ---- Card ----------------------------------------------------------------- */
+.clean9992-card {
+  background: var(--clean9992-bg);
+  border: 1px solid var(--clean9992-border);
+  border-radius: var(--clean9992-radius-card);
+  padding: var(--clean9992-space-5);
+  box-shadow: var(--clean9992-shadow);
+}
+.clean9992-card--flush { box-shadow: none; background: var(--clean9992-surface); }
+
+/* ---- Buttons -------------------------------------------------------------- */
+.clean9992-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--clean9992-space-2);
+  min-height: 40px;                /* comfortable premium tap target */
+  padding: 10px 18px;
+  font-family: inherit;
+  font-size: var(--clean9992-fs-body);
+  font-weight: var(--clean9992-fw-medium);
+  line-height: 1;
+  border: 1px solid transparent;
+  border-radius: var(--clean9992-radius-btn);
+  cursor: pointer;
+  transition: background var(--clean9992-transition), border-color var(--clean9992-transition),
+              color var(--clean9992-transition), transform var(--clean9992-transition);
+}
+.clean9992-btn:active { transform: translateY(1px); }
+.clean9992-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--clean9992-bg), 0 0 0 4px var(--clean9992-primary);
+}
+.clean9992-btn[disabled] { opacity: 0.55; cursor: not-allowed; }
+
+.clean9992-btn--primary { background: var(--clean9992-primary); color: #fff; }
+.clean9992-btn--primary:hover:not([disabled]) { background: var(--clean9992-primary-dark); }
+
+.clean9992-btn--secondary {
+  background: var(--clean9992-surface);
+  color: var(--clean9992-text);
+  border-color: var(--clean9992-border);
+}
+.clean9992-btn--secondary:hover:not([disabled]) { background: var(--clean9992-surface-2); }
+
+.clean9992-btn--ghost { background: transparent; color: var(--clean9992-primary); }
+.clean9992-btn--ghost:hover:not([disabled]) { background: var(--clean9992-primary-50); }
+
+/* Gold upgrade CTA — the only button that uses the PRO color. */
+.clean9992-btn--pro {
+  background: var(--clean9992-pro);
+  color: var(--clean9992-on-pro);
+  font-weight: var(--clean9992-fw-heading);
+}
+.clean9992-btn--pro:hover:not([disabled]) { background: var(--clean9992-pro-dark); }
+
+.clean9992-btn--block { width: 100%; }
+
+/* ---- Inputs --------------------------------------------------------------- */
+.clean9992-input {
+  width: 100%;
+  padding: 8px 10px;
+  font-family: inherit;
+  font-size: var(--clean9992-fs-body);
+  color: var(--clean9992-text);
+  background: var(--clean9992-surface);
+  border: 1px solid var(--clean9992-border);
+  border-radius: var(--clean9992-radius-input);
+  transition: border-color var(--clean9992-transition), box-shadow var(--clean9992-transition);
+}
+.clean9992-input:focus-visible {
+  outline: none;
+  border-color: var(--clean9992-primary);
+  box-shadow: 0 0 0 3px var(--clean9992-primary-50);
+}
+.clean9992-label {
+  display: block;
+  font-size: var(--clean9992-fs-caption);
+  font-weight: var(--clean9992-fw-medium);
+  color: var(--clean9992-text-secondary);
+  margin-bottom: var(--clean9992-space-1);
+}
+
+/* ---- PRO badge ------------------------------------------------------------ */
+.clean9992-pro-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--clean9992-pro);
+  background: transparent;
+  border: 1px solid var(--clean9992-pro);
+  border-radius: var(--clean9992-radius-pill);
+  line-height: 1.4;
+}
+.clean9992-pro-badge--solid { color: var(--clean9992-on-pro); background: var(--clean9992-pro); border-color: var(--clean9992-pro); }
+.clean9992-pro-badge__lock { width: 10px; height: 10px; }
+
+/* ---- Footer --------------------------------------------------------------- */
+.clean9992-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--clean9992-space-3) var(--clean9992-space-5);
+  font-size: var(--clean9992-fs-caption);
+  color: var(--clean9992-text-secondary);
+  border-top: 1px solid var(--clean9992-border);
+}
+.clean9992-footer a { color: var(--clean9992-primary); text-decoration: none; }
+.clean9992-footer a:hover { text-decoration: underline; }
+
+/* ---- Utility -------------------------------------------------------------- */
+.clean9992-muted { color: var(--clean9992-text-secondary); }
+.clean9992-mono  { font-family: var(--clean9992-font-mono); }
+.clean9992-sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+
+/* ===========================================================================
+ * PREMIUM COMPONENTS (v3) — the patterns that make a screen read premium.
+ * See DESIGN-SYSTEM.md for when/why to use each.
+ * ========================================================================= */
+
+/* Popup shell: sits on the neutral surface, comfortable padding, grid rhythm */
+.clean9992-popup { background: var(--clean9992-surface); }
+.clean9992-stack { display: flex; flex-direction: column; gap: var(--clean9992-space-4);
+  padding: var(--clean9992-space-5); }
+
+/* Section label — 11px uppercase tracked muted (AdBlock "NUMBER OF ITEMS…") */
+.clean9992-eyebrow {
+  margin: 0 0 var(--clean9992-space-2);
+  font-size: 11px; font-weight: var(--clean9992-fw-heading);
+  letter-spacing: 0.07em; text-transform: uppercase;
+  color: var(--clean9992-text-secondary);
+}
+
+/* ---- Hero stat — the ONE thing the eye lands on first --------------------- */
+.clean9992-hero { text-align: center; padding: var(--clean9992-space-7) var(--clean9992-space-5); }
+.clean9992-hero__num {
+  font-size: var(--clean9992-fs-hero); font-weight: 700; letter-spacing: -0.02em;
+  line-height: 1.05; color: var(--clean9992-primary);
+}
+.clean9992-hero__num--pro { color: var(--clean9992-pro); }
+.clean9992-hero__label {
+  margin-top: var(--clean9992-space-2);
+  font-size: 11px; font-weight: var(--clean9992-fw-heading);
+  letter-spacing: 0.12em; text-transform: uppercase; color: var(--clean9992-text-secondary);
+}
+.clean9992-hero__sub { margin-top: var(--clean9992-space-3); color: var(--clean9992-text); }
+/* gradient progress — thin, calm */
+.clean9992-progress { height: 6px; border-radius: 999px; background: var(--clean9992-surface-2); overflow: hidden; }
+.clean9992-progress__fill { height: 100%; border-radius: 999px;
+  background: linear-gradient(90deg, var(--clean9992-primary), var(--clean9992-accent)); }
+
+/* Inline stat row — "4 suspended · 45 total · 6 windows" */
+.clean9992-stats { display: flex; justify-content: center; gap: var(--clean9992-space-4);
+  font-size: var(--clean9992-fs-caption); color: var(--clean9992-text-secondary); }
+.clean9992-stats b { color: var(--clean9992-text); font-weight: var(--clean9992-fw-heading); }
+
+/* ---- Badges --------------------------------------------------------------- */
+.clean9992-badge {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 8px; font-size: 10px; font-weight: 700;
+  letter-spacing: 0.04em; text-transform: uppercase; line-height: 1.4;
+  border-radius: var(--clean9992-radius-pill);
+}
+.clean9992-badge--pro  { color: var(--clean9992-on-pro); background: var(--clean9992-pro); }
+.clean9992-badge--free { color: var(--clean9992-text-secondary); background: var(--clean9992-surface-2); }
+.clean9992-badge--new  { color: #fff; background: #3B82F6; }
+
+/* ---- Loss-framing alert — the cost of NOT upgrading (use once, honestly) --- */
+.clean9992-alert {
+  display: flex; align-items: center; gap: var(--clean9992-space-2);
+  padding: 10px 12px; border-radius: var(--clean9992-radius-btn);
+  font-size: var(--clean9992-fs-body);
+}
+.clean9992-alert--warn {
+  color: var(--clean9992-error);
+  background: color-mix(in srgb, var(--clean9992-error) 8%, var(--clean9992-bg));
+  border: 1px solid color-mix(in srgb, var(--clean9992-error) 22%, transparent);
+}
+
+/* ---- Empty state — delight, never a blank box ----------------------------- */
+.clean9992-empty { text-align: center; padding: var(--clean9992-space-7) var(--clean9992-space-5); }
+.clean9992-empty__art { width: 96px; height: 96px; margin: 0 auto var(--clean9992-space-4); opacity: 0.9; }
+.clean9992-empty__title { font-size: var(--clean9992-fs-heading); font-weight: 700; letter-spacing: -0.01em; }
+.clean9992-empty__text { margin-top: var(--clean9992-space-2); color: var(--clean9992-text-secondary); }
+
+/* ---- Tip carousel — dismissible in-context hint --------------------------- */
+.clean9992-tip {
+  position: relative; border-radius: var(--clean9992-radius-card);
+  border: 1px solid var(--clean9992-border); background: var(--clean9992-bg);
+  border-left: 3px solid var(--clean9992-primary);
+  padding: var(--clean9992-space-4) var(--clean9992-space-5);
+}
+.clean9992-tip__foot { display: flex; justify-content: space-between; align-items: center;
+  margin-top: var(--clean9992-space-3); font-size: var(--clean9992-fs-caption); color: var(--clean9992-text-secondary); }
+.clean9992-tip__next { color: var(--clean9992-primary); font-weight: var(--clean9992-fw-medium); cursor: pointer; }
+
+/* ---- List row ------------------------------------------------------------- */
+.clean9992-row {
+  display: flex; align-items: center; gap: var(--clean9992-space-3);
+  min-height: 44px; padding: var(--clean9992-space-2) var(--clean9992-space-3);
+  border-radius: var(--clean9992-radius-btn); cursor: pointer;
+  transition: background var(--clean9992-transition);
+}
+.clean9992-row:hover { background: var(--clean9992-primary-50); }
+.clean9992-row__label { flex: 1; min-width: 0; }
+.clean9992-row__meta { color: var(--clean9992-text-secondary); font-family: var(--clean9992-font-mono);
+  font-size: var(--clean9992-fs-caption); }
+
+/* ---- Segmented control — Tab / Screen / Webcam --------------------------- */
+.clean9992-seg { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: var(--clean9992-space-2); }
+.clean9992-seg__item {
+  display: flex; flex-direction: column; align-items: center; gap: 6px;
+  padding: var(--clean9992-space-3); border: 1px solid var(--clean9992-border);
+  border-radius: var(--clean9992-radius-card); background: var(--clean9992-bg);
+  cursor: pointer; transition: border-color var(--clean9992-transition), background var(--clean9992-transition);
+}
+.clean9992-seg__item:hover { border-color: var(--clean9992-primary-light); }
+.clean9992-seg__item[aria-selected='true'] { border-color: var(--clean9992-primary); background: var(--clean9992-primary-50); }
+
+@media (prefers-reduced-motion: reduce) {
+  .clean9992-root *, .clean9992-root *::before, .clean9992-root *::after {
+    transition: none !important; animation: none !important;
+  }
+}
